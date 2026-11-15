@@ -8,551 +8,552 @@
   "word_count": 78,
   "matched_words": 73,
   "coverage": 0.9359,
+  "onset_compensation": 0.056,
   "words": [
     {
       "i": 0,
       "text": "For",
-      "start": 0.13,
-      "end": 0.206,
+      "start": 0.186,
+      "end": 0.262,
       "matched": true
     },
     {
       "i": 1,
       "text": "a",
-      "start": 0.217,
-      "end": 0.261,
+      "start": 0.273,
+      "end": 0.317,
       "matched": true
     },
     {
       "i": 2,
       "text": "long",
-      "start": 0.272,
-      "end": 0.554,
+      "start": 0.328,
+      "end": 0.61,
       "matched": true
     },
     {
       "i": 3,
       "text": "time,",
-      "start": 0.565,
-      "end": 0.902,
+      "start": 0.621,
+      "end": 0.958,
       "matched": true
     },
     {
       "i": 4,
       "text": "nobody",
-      "start": 1.25,
-      "end": 1.533,
+      "start": 1.306,
+      "end": 1.589,
       "matched": true
     },
     {
       "i": 5,
       "text": "on",
-      "start": 1.543,
-      "end": 1.652,
+      "start": 1.599,
+      "end": 1.708,
       "matched": true
     },
     {
       "i": 6,
       "text": "Earth",
-      "start": 1.663,
-      "end": 1.88,
+      "start": 1.719,
+      "end": 1.936,
       "matched": true
     },
     {
       "i": 7,
       "text": "knew",
-      "start": 1.891,
-      "end": 2.141,
+      "start": 1.947,
+      "end": 2.197,
       "matched": true
     },
     {
       "i": 8,
       "text": "what",
-      "start": 2.152,
-      "end": 2.261,
+      "start": 2.208,
+      "end": 2.317,
       "matched": true
     },
     {
       "i": 9,
       "text": "the",
-      "start": 2.272,
-      "end": 2.337,
+      "start": 2.328,
+      "end": 2.393,
       "matched": true
     },
     {
       "i": 10,
       "text": "ground",
-      "start": 2.348,
-      "end": 2.652,
+      "start": 2.404,
+      "end": 2.708,
       "matched": true
     },
     {
       "i": 11,
       "text": "on",
-      "start": 2.663,
-      "end": 2.761,
+      "start": 2.719,
+      "end": 2.817,
       "matched": true
     },
     {
       "i": 12,
       "text": "Mars",
-      "start": 2.772,
-      "end": 3.076,
+      "start": 2.828,
+      "end": 3.132,
       "matched": true
     },
     {
       "i": 13,
       "text": "looked",
-      "start": 3.087,
-      "end": 3.261,
+      "start": 3.143,
+      "end": 3.317,
       "matched": true
     },
     {
       "i": 14,
       "text": "like",
-      "start": 3.272,
-      "end": 3.424,
+      "start": 3.328,
+      "end": 3.48,
       "matched": true
     },
     {
       "i": 15,
       "text": "up",
-      "start": 3.435,
-      "end": 3.543,
+      "start": 3.491,
+      "end": 3.599,
       "matched": true
     },
     {
       "i": 16,
       "text": "close.",
-      "start": 3.554,
-      "end": 4.043,
+      "start": 3.61,
+      "end": 4.099,
       "matched": true
     },
     {
       "i": 17,
       "text": "I",
-      "start": 4.402,
-      "end": 4.456,
+      "start": 4.458,
+      "end": 4.512,
       "matched": true
     },
     {
       "i": 18,
       "text": "was",
-      "start": 4.467,
-      "end": 4.576,
+      "start": 4.523,
+      "end": 4.632,
       "matched": true
     },
     {
       "i": 19,
       "text": "sent",
-      "start": 4.587,
-      "end": 4.717,
+      "start": 4.643,
+      "end": 4.773,
       "matched": true
     },
     {
       "i": 20,
       "text": "to",
-      "start": 4.728,
-      "end": 4.783,
+      "start": 4.784,
+      "end": 4.839,
       "matched": true
     },
     {
       "i": 21,
       "text": "find",
-      "start": 4.793,
-      "end": 5.043,
+      "start": 4.849,
+      "end": 5.099,
       "matched": true
     },
     {
       "i": 22,
       "text": "out.",
-      "start": 5.054,
-      "end": 5.272,
+      "start": 5.11,
+      "end": 5.328,
       "matched": true
     },
     {
       "i": 23,
       "text": "I",
-      "start": 5.641,
-      "end": 5.696,
+      "start": 5.697,
+      "end": 5.752,
       "matched": true
     },
     {
       "i": 24,
       "text": "was",
-      "start": 5.707,
-      "end": 5.826,
+      "start": 5.763,
+      "end": 5.882,
       "matched": true
     },
     {
       "i": 25,
       "text": "supposed",
-      "start": 5.837,
-      "end": 6.185,
+      "start": 5.893,
+      "end": 6.241,
       "matched": true
     },
     {
       "i": 26,
       "text": "to",
-      "start": 6.196,
-      "end": 6.25,
+      "start": 6.252,
+      "end": 6.306,
       "matched": true
     },
     {
       "i": 27,
       "text": "land",
-      "start": 6.261,
-      "end": 6.533,
+      "start": 6.317,
+      "end": 6.589,
       "matched": true
     },
     {
       "i": 28,
       "text": "on",
-      "start": 6.543,
-      "end": 6.63,
+      "start": 6.599,
+      "end": 6.686,
       "matched": true
     },
     {
       "i": 29,
       "text": "July",
-      "start": 6.63,
-      "end": 7.433,
+      "start": 6.686,
+      "end": 7.489,
       "matched": false
     },
     {
       "i": 30,
       "text": "4,",
-      "start": 7.433,
-      "end": 7.834,
+      "start": 7.489,
+      "end": 7.89,
       "matched": false
     },
     {
       "i": 31,
       "text": "1976,",
-      "start": 7.834,
-      "end": 8.837,
+      "start": 7.89,
+      "end": 8.893,
       "matched": false
     },
     {
       "i": 32,
       "text": "but",
-      "start": 8.837,
-      "end": 8.957,
+      "start": 8.893,
+      "end": 9.013,
       "matched": true
     },
     {
       "i": 33,
       "text": "the",
-      "start": 8.967,
-      "end": 9.043,
+      "start": 9.023,
+      "end": 9.099,
       "matched": true
     },
     {
       "i": 34,
       "text": "first",
-      "start": 9.054,
-      "end": 9.337,
+      "start": 9.11,
+      "end": 9.393,
       "matched": true
     },
     {
       "i": 35,
       "text": "landing",
-      "start": 9.348,
-      "end": 9.641,
+      "start": 9.404,
+      "end": 9.697,
       "matched": true
     },
     {
       "i": 36,
       "text": "site",
-      "start": 9.652,
-      "end": 9.924,
+      "start": 9.708,
+      "end": 9.98,
       "matched": true
     },
     {
       "i": 37,
       "text": "looked",
-      "start": 9.935,
-      "end": 10.152,
+      "start": 9.991,
+      "end": 10.208,
       "matched": true
     },
     {
       "i": 38,
       "text": "too",
-      "start": 10.163,
-      "end": 10.413,
+      "start": 10.219,
+      "end": 10.469,
       "matched": true
     },
     {
       "i": 39,
       "text": "rough",
-      "start": 10.424,
-      "end": 10.652,
+      "start": 10.48,
+      "end": 10.708,
       "matched": true
     },
     {
       "i": 40,
       "text": "from",
-      "start": 10.663,
-      "end": 10.826,
+      "start": 10.719,
+      "end": 10.882,
       "matched": true
     },
     {
       "i": 41,
       "text": "orbit,",
-      "start": 10.902,
-      "end": 11.196,
+      "start": 10.958,
+      "end": 11.252,
       "matched": true
     },
     {
       "i": 42,
       "text": "so",
-      "start": 11.478,
-      "end": 11.609,
+      "start": 11.534,
+      "end": 11.665,
       "matched": true
     },
     {
       "i": 43,
       "text": "my",
-      "start": 11.62,
-      "end": 11.761,
+      "start": 11.676,
+      "end": 11.817,
       "matched": true
     },
     {
       "i": 44,
       "text": "team",
-      "start": 11.772,
-      "end": 12.065,
+      "start": 11.828,
+      "end": 12.121,
       "matched": true
     },
     {
       "i": 45,
       "text": "spent",
-      "start": 12.076,
-      "end": 12.37,
+      "start": 12.132,
+      "end": 12.426,
       "matched": true
     },
     {
       "i": 46,
       "text": "extra",
-      "start": 12.435,
-      "end": 12.739,
+      "start": 12.491,
+      "end": 12.795,
       "matched": true
     },
     {
       "i": 47,
       "text": "weeks",
-      "start": 12.75,
-      "end": 13.054,
+      "start": 12.806,
+      "end": 13.11,
       "matched": true
     },
     {
       "i": 48,
       "text": "finding",
-      "start": 13.065,
-      "end": 13.391,
+      "start": 13.121,
+      "end": 13.447,
       "matched": true
     },
     {
       "i": 49,
       "text": "a",
-      "start": 13.402,
-      "end": 13.435,
+      "start": 13.458,
+      "end": 13.491,
       "matched": true
     },
     {
       "i": 50,
       "text": "safer",
-      "start": 13.446,
-      "end": 13.783,
+      "start": 13.502,
+      "end": 13.839,
       "matched": true
     },
     {
       "i": 51,
       "text": "one.",
-      "start": 13.793,
-      "end": 14.022,
+      "start": 13.849,
+      "end": 14.078,
       "matched": true
     },
     {
       "i": 52,
       "text": "I",
-      "start": 14.391,
-      "end": 14.446,
+      "start": 14.447,
+      "end": 14.502,
       "matched": true
     },
     {
       "i": 53,
       "text": "touched",
-      "start": 14.457,
-      "end": 14.707,
+      "start": 14.513,
+      "end": 14.763,
       "matched": true
     },
     {
       "i": 54,
       "text": "down",
-      "start": 14.717,
-      "end": 14.924,
+      "start": 14.773,
+      "end": 14.98,
       "matched": true
     },
     {
       "i": 55,
       "text": "on",
-      "start": 14.935,
-      "end": 15.022,
+      "start": 14.991,
+      "end": 15.078,
       "matched": true
     },
     {
       "i": 56,
       "text": "July",
-      "start": 15.022,
-      "end": 15.661,
+      "start": 15.078,
+      "end": 15.717,
       "matched": false
     },
     {
       "i": 57,
       "text": "20.",
-      "start": 15.661,
-      "end": 16.141,
+      "start": 15.717,
+      "end": 16.197,
       "matched": false
     },
     {
       "i": 58,
       "text": "The",
-      "start": 16.141,
-      "end": 16.185,
+      "start": 16.197,
+      "end": 16.241,
       "matched": true
     },
     {
       "i": 59,
       "text": "first",
-      "start": 16.196,
-      "end": 16.413,
+      "start": 16.252,
+      "end": 16.469,
       "matched": true
     },
     {
       "i": 60,
       "text": "thing",
-      "start": 16.424,
-      "end": 16.565,
+      "start": 16.48,
+      "end": 16.621,
       "matched": true
     },
     {
       "i": 61,
       "text": "I",
-      "start": 16.576,
-      "end": 16.63,
+      "start": 16.632,
+      "end": 16.686,
       "matched": true
     },
     {
       "i": 62,
       "text": "did",
-      "start": 16.641,
-      "end": 16.837,
+      "start": 16.697,
+      "end": 16.893,
       "matched": true
     },
     {
       "i": 63,
       "text": "was",
-      "start": 16.848,
-      "end": 16.967,
+      "start": 16.904,
+      "end": 17.023,
       "matched": true
     },
     {
       "i": 64,
       "text": "photograph",
-      "start": 16.978,
-      "end": 17.511,
+      "start": 17.034,
+      "end": 17.567,
       "matched": true
     },
     {
       "i": 65,
       "text": "my",
-      "start": 17.522,
-      "end": 17.685,
+      "start": 17.578,
+      "end": 17.741,
       "matched": true
     },
     {
       "i": 66,
       "text": "own",
-      "start": 17.696,
-      "end": 17.826,
+      "start": 17.752,
+      "end": 17.882,
       "matched": true
     },
     {
       "i": 67,
       "text": "foot,",
-      "start": 17.837,
-      "end": 18.185,
+      "start": 17.893,
+      "end": 18.241,
       "matched": true
     },
     {
       "i": 68,
       "text": "to",
-      "start": 18.446,
-      "end": 18.522,
+      "start": 18.502,
+      "end": 18.578,
       "matched": true
     },
     {
       "i": 69,
       "text": "check",
-      "start": 18.533,
-      "end": 18.728,
+      "start": 18.589,
+      "end": 18.784,
       "matched": true
     },
     {
       "i": 70,
       "text": "it",
-      "start": 18.739,
-      "end": 18.783,
+      "start": 18.795,
+      "end": 18.839,
       "matched": true
     },
     {
       "i": 71,
       "text": "was",
-      "start": 18.793,
-      "end": 18.913,
+      "start": 18.849,
+      "end": 18.969,
       "matched": true
     },
     {
       "i": 72,
       "text": "sitting",
-      "start": 18.924,
-      "end": 19.185,
+      "start": 18.98,
+      "end": 19.241,
       "matched": true
     },
     {
       "i": 73,
       "text": "on",
-      "start": 19.196,
-      "end": 19.293,
+      "start": 19.252,
+      "end": 19.349,
       "matched": true
     },
     {
       "i": 74,
       "text": "solid",
-      "start": 19.304,
-      "end": 19.63,
+      "start": 19.36,
+      "end": 19.686,
       "matched": true
     },
     {
       "i": 75,
       "text": "ground.",
-      "start": 19.641,
-      "end": 20.011,
+      "start": 19.697,
+      "end": 20.067,
       "matched": true
     },
     {
       "i": 76,
       "text": "It",
-      "start": 20.37,
-      "end": 20.446,
+      "start": 20.426,
+      "end": 20.502,
       "matched": true
     },
     {
       "i": 77,
       "text": "was.",
-      "start": 20.457,
-      "end": 20.717,
+      "start": 20.513,
+      "end": 20.773,
       "matched": true
     }
   ]

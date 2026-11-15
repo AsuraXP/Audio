@@ -8,355 +8,356 @@
   "word_count": 50,
   "matched_words": 47,
   "coverage": 0.94,
+  "onset_compensation": 0.056,
   "words": [
     {
       "i": 0,
       "text": "Dust",
-      "start": 0.087,
-      "end": 0.326,
+      "start": 0.143,
+      "end": 0.382,
       "matched": true
     },
     {
       "i": 1,
       "text": "slowly",
-      "start": 0.337,
-      "end": 0.815,
+      "start": 0.393,
+      "end": 0.871,
       "matched": true
     },
     {
       "i": 2,
       "text": "covered",
-      "start": 0.826,
-      "end": 1.087,
+      "start": 0.882,
+      "end": 1.143,
       "matched": true
     },
     {
       "i": 3,
       "text": "my",
-      "start": 1.098,
-      "end": 1.207,
+      "start": 1.154,
+      "end": 1.263,
       "matched": true
     },
     {
       "i": 4,
       "text": "solar",
-      "start": 1.217,
-      "end": 1.5,
+      "start": 1.273,
+      "end": 1.556,
       "matched": true
     },
     {
       "i": 5,
       "text": "panels,",
-      "start": 1.511,
-      "end": 1.924,
+      "start": 1.567,
+      "end": 1.98,
       "matched": true
     },
     {
       "i": 6,
       "text": "and",
-      "start": 2.141,
-      "end": 2.206,
+      "start": 2.197,
+      "end": 2.262,
       "matched": true
     },
     {
       "i": 7,
       "text": "my",
-      "start": 2.217,
-      "end": 2.337,
+      "start": 2.273,
+      "end": 2.393,
       "matched": true
     },
     {
       "i": 8,
       "text": "power",
-      "start": 2.348,
-      "end": 2.717,
+      "start": 2.404,
+      "end": 2.773,
       "matched": true
     },
     {
       "i": 9,
       "text": "faded",
-      "start": 2.728,
-      "end": 3.043,
+      "start": 2.784,
+      "end": 3.099,
       "matched": true
     },
     {
       "i": 10,
       "text": "a",
-      "start": 3.054,
-      "end": 3.098,
+      "start": 3.11,
+      "end": 3.154,
       "matched": true
     },
     {
       "i": 11,
       "text": "little",
-      "start": 3.109,
-      "end": 3.348,
+      "start": 3.165,
+      "end": 3.404,
       "matched": true
     },
     {
       "i": 12,
       "text": "more",
-      "start": 3.359,
-      "end": 3.565,
+      "start": 3.415,
+      "end": 3.621,
       "matched": true
     },
     {
       "i": 13,
       "text": "each",
-      "start": 3.63,
-      "end": 3.783,
+      "start": 3.686,
+      "end": 3.839,
       "matched": true
     },
     {
       "i": 14,
       "text": "month.",
-      "start": 3.793,
-      "end": 4.163,
+      "start": 3.849,
+      "end": 4.219,
       "matched": true
     },
     {
       "i": 15,
       "text": "I",
-      "start": 4.533,
-      "end": 4.598,
+      "start": 4.589,
+      "end": 4.654,
       "matched": true
     },
     {
       "i": 16,
       "text": "kept",
-      "start": 4.609,
-      "end": 4.793,
+      "start": 4.665,
+      "end": 4.849,
       "matched": true
     },
     {
       "i": 17,
       "text": "my",
-      "start": 4.804,
-      "end": 4.902,
+      "start": 4.86,
+      "end": 4.958,
       "matched": true
     },
     {
       "i": 18,
       "text": "seismometer",
-      "start": 4.913,
-      "end": 5.522,
+      "start": 4.969,
+      "end": 5.578,
       "matched": true
     },
     {
       "i": 19,
       "text": "running",
-      "start": 5.533,
-      "end": 5.794,
+      "start": 5.589,
+      "end": 5.85,
       "matched": true
     },
     {
       "i": 20,
       "text": "as",
-      "start": 5.804,
-      "end": 5.891,
+      "start": 5.86,
+      "end": 5.947,
       "matched": true
     },
     {
       "i": 21,
       "text": "long",
-      "start": 5.902,
-      "end": 6.109,
+      "start": 5.958,
+      "end": 6.165,
       "matched": true
     },
     {
       "i": 22,
       "text": "as",
-      "start": 6.12,
-      "end": 6.207,
+      "start": 6.176,
+      "end": 6.263,
       "matched": true
     },
     {
       "i": 23,
       "text": "I",
-      "start": 6.217,
-      "end": 6.283,
+      "start": 6.273,
+      "end": 6.339,
       "matched": true
     },
     {
       "i": 24,
       "text": "could.",
-      "start": 6.293,
-      "end": 6.62,
+      "start": 6.349,
+      "end": 6.676,
       "matched": true
     },
     {
       "i": 25,
       "text": "My",
-      "start": 6.978,
-      "end": 7.098,
+      "start": 7.034,
+      "end": 7.154,
       "matched": true
     },
     {
       "i": 26,
       "text": "last",
-      "start": 7.109,
-      "end": 7.402,
+      "start": 7.165,
+      "end": 7.458,
       "matched": true
     },
     {
       "i": 27,
       "text": "message",
-      "start": 7.413,
-      "end": 7.728,
+      "start": 7.469,
+      "end": 7.784,
       "matched": true
     },
     {
       "i": 28,
       "text": "reached",
-      "start": 7.739,
-      "end": 8.011,
+      "start": 7.795,
+      "end": 8.067,
       "matched": true
     },
     {
       "i": 29,
       "text": "Earth",
-      "start": 8.022,
-      "end": 8.228,
+      "start": 8.078,
+      "end": 8.284,
       "matched": true
     },
     {
       "i": 30,
       "text": "on",
-      "start": 8.304,
-      "end": 8.391,
+      "start": 8.36,
+      "end": 8.447,
       "matched": true
     },
     {
       "i": 31,
       "text": "December",
-      "start": 8.391,
-      "end": 9.505,
+      "start": 8.447,
+      "end": 9.561,
       "matched": false
     },
     {
       "i": 32,
       "text": "15,",
-      "start": 9.505,
-      "end": 9.923,
+      "start": 9.561,
+      "end": 9.979,
       "matched": false
     },
     {
       "i": 33,
       "text": "2022.",
-      "start": 9.923,
-      "end": 10.62,
+      "start": 9.979,
+      "end": 10.676,
       "matched": false
     },
     {
       "i": 34,
       "text": "I",
-      "start": 10.62,
-      "end": 10.696,
+      "start": 10.676,
+      "end": 10.752,
       "matched": true
     },
     {
       "i": 35,
       "text": "am",
-      "start": 10.707,
-      "end": 10.772,
+      "start": 10.763,
+      "end": 10.828,
       "matched": true
     },
     {
       "i": 36,
       "text": "still",
-      "start": 10.783,
-      "end": 11.011,
+      "start": 10.839,
+      "end": 11.067,
       "matched": true
     },
     {
       "i": 37,
       "text": "sitting",
-      "start": 11.022,
-      "end": 11.261,
+      "start": 11.078,
+      "end": 11.317,
       "matched": true
     },
     {
       "i": 38,
       "text": "on",
-      "start": 11.272,
-      "end": 11.337,
+      "start": 11.328,
+      "end": 11.393,
       "matched": true
     },
     {
       "i": 39,
       "text": "my",
-      "start": 11.348,
-      "end": 11.435,
+      "start": 11.404,
+      "end": 11.491,
       "matched": true
     },
     {
       "i": 40,
       "text": "parking",
-      "start": 11.446,
-      "end": 11.826,
+      "start": 11.502,
+      "end": 11.882,
       "matched": true
     },
     {
       "i": 41,
       "text": "lot,",
-      "start": 11.837,
-      "end": 12.109,
+      "start": 11.893,
+      "end": 12.165,
       "matched": true
     },
     {
       "i": 42,
       "text": "and",
-      "start": 12.38,
-      "end": 12.467,
+      "start": 12.436,
+      "end": 12.523,
       "matched": true
     },
     {
       "i": 43,
       "text": "Mars",
-      "start": 12.478,
-      "end": 12.793,
+      "start": 12.534,
+      "end": 12.849,
       "matched": true
     },
     {
       "i": 44,
       "text": "is",
-      "start": 12.804,
-      "end": 12.902,
+      "start": 12.86,
+      "end": 12.958,
       "matched": true
     },
     {
       "i": 45,
       "text": "still",
-      "start": 12.913,
-      "end": 13.217,
+      "start": 12.969,
+      "end": 13.273,
       "matched": true
     },
     {
       "i": 46,
       "text": "quietly",
-      "start": 13.228,
-      "end": 13.696,
+      "start": 13.284,
+      "end": 13.752,
       "matched": true
     },
     {
       "i": 47,
       "text": "shaking",
-      "start": 13.707,
-      "end": 14.087,
+      "start": 13.763,
+      "end": 14.143,
       "matched": true
     },
     {
       "i": 48,
       "text": "underneath",
-      "start": 14.098,
-      "end": 14.5,
+      "start": 14.154,
+      "end": 14.556,
       "matched": true
     },
     {
       "i": 49,
       "text": "me.",
-      "start": 14.511,
-      "end": 14.685,
+      "start": 14.567,
+      "end": 14.741,
       "matched": true
     }
   ]

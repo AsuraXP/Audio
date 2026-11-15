@@ -8,551 +8,552 @@
   "word_count": 78,
   "matched_words": 78,
   "coverage": 1.0,
+  "onset_compensation": 0.056,
   "words": [
     {
       "i": 0,
       "text": "I",
-      "start": 0.087,
-      "end": 0.152,
+      "start": 0.143,
+      "end": 0.208,
       "matched": true
     },
     {
       "i": 1,
       "text": "brought",
-      "start": 0.163,
-      "end": 0.337,
+      "start": 0.219,
+      "end": 0.393,
       "matched": true
     },
     {
       "i": 2,
       "text": "a",
-      "start": 0.348,
-      "end": 0.38,
+      "start": 0.404,
+      "end": 0.436,
       "matched": true
     },
     {
       "i": 3,
       "text": "friend,",
-      "start": 0.391,
-      "end": 0.75,
+      "start": 0.447,
+      "end": 0.806,
       "matched": true
     },
     {
       "i": 4,
       "text": "a",
-      "start": 1.109,
-      "end": 1.13,
+      "start": 1.165,
+      "end": 1.186,
       "matched": true
     },
     {
       "i": 5,
       "text": "small",
-      "start": 1.141,
-      "end": 1.435,
+      "start": 1.197,
+      "end": 1.491,
       "matched": true
     },
     {
       "i": 6,
       "text": "helicopter",
-      "start": 1.446,
-      "end": 2.022,
+      "start": 1.502,
+      "end": 2.078,
       "matched": true
     },
     {
       "i": 7,
       "text": "named",
-      "start": 2.033,
-      "end": 2.283,
+      "start": 2.089,
+      "end": 2.339,
       "matched": true
     },
     {
       "i": 8,
       "text": "Ingenuity.",
-      "start": 2.391,
-      "end": 2.989,
+      "start": 2.447,
+      "end": 3.045,
       "matched": true
     },
     {
       "i": 9,
       "text": "I",
-      "start": 3.348,
-      "end": 3.391,
+      "start": 3.404,
+      "end": 3.447,
       "matched": true
     },
     {
       "i": 10,
       "text": "set",
-      "start": 3.402,
-      "end": 3.565,
+      "start": 3.458,
+      "end": 3.621,
       "matched": true
     },
     {
       "i": 11,
       "text": "it",
-      "start": 3.576,
-      "end": 3.652,
+      "start": 3.632,
+      "end": 3.708,
       "matched": true
     },
     {
       "i": 12,
       "text": "down,",
-      "start": 3.663,
-      "end": 3.989,
+      "start": 3.719,
+      "end": 4.045,
       "matched": true
     },
     {
       "i": 13,
       "text": "backed",
-      "start": 4.163,
-      "end": 4.413,
+      "start": 4.219,
+      "end": 4.469,
       "matched": true
     },
     {
       "i": 14,
       "text": "away,",
-      "start": 4.424,
-      "end": 4.739,
+      "start": 4.48,
+      "end": 4.795,
       "matched": true
     },
     {
       "i": 15,
       "text": "and",
-      "start": 4.957,
-      "end": 5.054,
+      "start": 5.013,
+      "end": 5.11,
       "matched": true
     },
     {
       "i": 16,
       "text": "filmed",
-      "start": 5.065,
-      "end": 5.37,
+      "start": 5.121,
+      "end": 5.426,
       "matched": true
     },
     {
       "i": 17,
       "text": "its",
-      "start": 5.38,
-      "end": 5.478,
+      "start": 5.436,
+      "end": 5.534,
       "matched": true
     },
     {
       "i": 18,
       "text": "first",
-      "start": 5.489,
-      "end": 5.761,
+      "start": 5.545,
+      "end": 5.817,
       "matched": true
     },
     {
       "i": 19,
       "text": "flight.",
-      "start": 5.772,
-      "end": 6.12,
+      "start": 5.828,
+      "end": 6.176,
       "matched": true
     },
     {
       "i": 20,
       "text": "It",
-      "start": 6.478,
-      "end": 6.554,
+      "start": 6.534,
+      "end": 6.61,
       "matched": true
     },
     {
       "i": 21,
       "text": "flew",
-      "start": 6.565,
-      "end": 6.815,
+      "start": 6.621,
+      "end": 6.871,
       "matched": true
     },
     {
       "i": 22,
       "text": "72",
-      "start": 6.826,
-      "end": 7.337,
+      "start": 6.882,
+      "end": 7.393,
       "matched": true
     },
     {
       "i": 23,
       "text": "times.",
-      "start": 7.348,
-      "end": 7.826,
+      "start": 7.404,
+      "end": 7.882,
       "matched": true
     },
     {
       "i": 24,
       "text": "It",
-      "start": 8.185,
-      "end": 8.25,
+      "start": 8.241,
+      "end": 8.306,
       "matched": true
     },
     {
       "i": 25,
       "text": "is",
-      "start": 8.261,
-      "end": 8.348,
+      "start": 8.317,
+      "end": 8.404,
       "matched": true
     },
     {
       "i": 26,
       "text": "silent",
-      "start": 8.359,
-      "end": 8.674,
+      "start": 8.415,
+      "end": 8.73,
       "matched": true
     },
     {
       "i": 27,
       "text": "now,",
-      "start": 8.685,
-      "end": 8.935,
+      "start": 8.741,
+      "end": 8.991,
       "matched": true
     },
     {
       "i": 28,
       "text": "and",
-      "start": 9.185,
-      "end": 9.272,
+      "start": 9.241,
+      "end": 9.328,
       "matched": true
     },
     {
       "i": 29,
       "text": "I",
-      "start": 9.283,
-      "end": 9.359,
+      "start": 9.339,
+      "end": 9.415,
       "matched": true
     },
     {
       "i": 30,
       "text": "have",
-      "start": 9.37,
-      "end": 9.5,
+      "start": 9.426,
+      "end": 9.556,
       "matched": true
     },
     {
       "i": 31,
       "text": "driven",
-      "start": 9.511,
-      "end": 9.75,
+      "start": 9.567,
+      "end": 9.806,
       "matched": true
     },
     {
       "i": 32,
       "text": "on.",
-      "start": 9.761,
-      "end": 10.011,
+      "start": 9.817,
+      "end": 10.067,
       "matched": true
     },
     {
       "i": 33,
       "text": "I",
-      "start": 10.37,
-      "end": 10.402,
+      "start": 10.426,
+      "end": 10.458,
       "matched": true
     },
     {
       "i": 34,
       "text": "know",
-      "start": 10.413,
-      "end": 10.576,
+      "start": 10.469,
+      "end": 10.632,
       "matched": true
     },
     {
       "i": 35,
       "text": "about",
-      "start": 10.587,
-      "end": 10.804,
+      "start": 10.643,
+      "end": 10.86,
       "matched": true
     },
     {
       "i": 36,
       "text": "the",
-      "start": 10.815,
-      "end": 10.891,
+      "start": 10.871,
+      "end": 10.947,
       "matched": true
     },
     {
       "i": 37,
       "text": "ones",
-      "start": 10.902,
-      "end": 11.174,
+      "start": 10.958,
+      "end": 11.23,
       "matched": true
     },
     {
       "i": 38,
       "text": "who",
-      "start": 11.185,
-      "end": 11.283,
+      "start": 11.241,
+      "end": 11.339,
       "matched": true
     },
     {
       "i": 39,
       "text": "came",
-      "start": 11.293,
-      "end": 11.5,
+      "start": 11.349,
+      "end": 11.556,
       "matched": true
     },
     {
       "i": 40,
       "text": "before",
-      "start": 11.511,
-      "end": 11.837,
+      "start": 11.567,
+      "end": 11.893,
       "matched": true
     },
     {
       "i": 41,
       "text": "me:",
-      "start": 11.848,
-      "end": 11.978,
+      "start": 11.904,
+      "end": 12.034,
       "matched": true
     },
     {
       "i": 42,
       "text": "the",
-      "start": 12.326,
-      "end": 12.391,
+      "start": 12.382,
+      "end": 12.447,
       "matched": true
     },
     {
       "i": 43,
       "text": "Vikings,",
-      "start": 12.402,
-      "end": 12.956,
+      "start": 12.458,
+      "end": 13.012,
       "matched": true
     },
     {
       "i": 44,
       "text": "little",
-      "start": 13.098,
-      "end": 13.272,
+      "start": 13.154,
+      "end": 13.328,
       "matched": true
     },
     {
       "i": 45,
       "text": "Sojourner,",
-      "start": 13.283,
-      "end": 13.826,
+      "start": 13.339,
+      "end": 13.882,
       "matched": true
     },
     {
       "i": 46,
       "text": "Spirit,",
-      "start": 14.033,
-      "end": 14.467,
+      "start": 14.089,
+      "end": 14.523,
       "matched": true
     },
     {
       "i": 47,
       "text": "Opportunity,",
-      "start": 14.739,
-      "end": 15.37,
+      "start": 14.795,
+      "end": 15.426,
       "matched": true
     },
     {
       "i": 48,
       "text": "Phoenix,",
-      "start": 15.587,
-      "end": 16.087,
+      "start": 15.643,
+      "end": 16.143,
       "matched": true
     },
     {
       "i": 49,
       "text": "InSight.",
-      "start": 16.239,
-      "end": 16.674,
+      "start": 16.295,
+      "end": 16.73,
       "matched": true
     },
     {
       "i": 50,
       "text": "Every",
-      "start": 17.033,
-      "end": 17.217,
+      "start": 17.089,
+      "end": 17.273,
       "matched": true
     },
     {
       "i": 51,
       "text": "one",
-      "start": 17.228,
-      "end": 17.348,
+      "start": 17.284,
+      "end": 17.404,
       "matched": true
     },
     {
       "i": 52,
       "text": "of",
-      "start": 17.359,
-      "end": 17.413,
+      "start": 17.415,
+      "end": 17.469,
       "matched": true
     },
     {
       "i": 53,
       "text": "them",
-      "start": 17.424,
-      "end": 17.565,
+      "start": 17.48,
+      "end": 17.621,
       "matched": true
     },
     {
       "i": 54,
       "text": "taught",
-      "start": 17.576,
-      "end": 17.793,
+      "start": 17.632,
+      "end": 17.849,
       "matched": true
     },
     {
       "i": 55,
       "text": "my",
-      "start": 17.804,
-      "end": 17.924,
+      "start": 17.86,
+      "end": 17.98,
       "matched": true
     },
     {
       "i": 56,
       "text": "builders",
-      "start": 17.935,
-      "end": 18.315,
+      "start": 17.991,
+      "end": 18.371,
       "matched": true
     },
     {
       "i": 57,
       "text": "something",
-      "start": 18.326,
-      "end": 18.674,
+      "start": 18.382,
+      "end": 18.73,
       "matched": true
     },
     {
       "i": 58,
       "text": "that",
-      "start": 18.804,
-      "end": 18.924,
+      "start": 18.86,
+      "end": 18.98,
       "matched": true
     },
     {
       "i": 59,
       "text": "is",
-      "start": 18.935,
-      "end": 19.022,
+      "start": 18.991,
+      "end": 19.078,
       "matched": true
     },
     {
       "i": 60,
       "text": "now",
-      "start": 19.033,
-      "end": 19.239,
+      "start": 19.089,
+      "end": 19.295,
       "matched": true
     },
     {
       "i": 61,
       "text": "part",
-      "start": 19.25,
-      "end": 19.478,
+      "start": 19.306,
+      "end": 19.534,
       "matched": true
     },
     {
       "i": 62,
       "text": "of",
-      "start": 19.489,
-      "end": 19.554,
+      "start": 19.545,
+      "end": 19.61,
       "matched": true
     },
     {
       "i": 63,
       "text": "me.",
-      "start": 19.565,
-      "end": 19.75,
+      "start": 19.621,
+      "end": 19.806,
       "matched": true
     },
     {
       "i": 64,
       "text": "One",
-      "start": 20.109,
-      "end": 20.207,
+      "start": 20.165,
+      "end": 20.263,
       "matched": true
     },
     {
       "i": 65,
       "text": "day",
-      "start": 20.217,
-      "end": 20.348,
+      "start": 20.273,
+      "end": 20.404,
       "matched": true
     },
     {
       "i": 66,
       "text": "I",
-      "start": 20.359,
-      "end": 20.402,
+      "start": 20.415,
+      "end": 20.458,
       "matched": true
     },
     {
       "i": 67,
       "text": "will",
-      "start": 20.413,
-      "end": 20.5,
+      "start": 20.469,
+      "end": 20.556,
       "matched": true
     },
     {
       "i": 68,
       "text": "go",
-      "start": 20.511,
-      "end": 20.641,
+      "start": 20.567,
+      "end": 20.697,
       "matched": true
     },
     {
       "i": 69,
       "text": "quiet",
-      "start": 20.652,
-      "end": 20.946,
+      "start": 20.708,
+      "end": 21.002,
       "matched": true
     },
     {
       "i": 70,
       "text": "too.",
-      "start": 20.957,
-      "end": 21.217,
+      "start": 21.013,
+      "end": 21.273,
       "matched": true
     },
     {
       "i": 71,
       "text": "Until",
-      "start": 21.576,
-      "end": 21.815,
+      "start": 21.632,
+      "end": 21.871,
       "matched": true
     },
     {
       "i": 72,
       "text": "then,",
-      "start": 21.826,
-      "end": 22.043,
+      "start": 21.882,
+      "end": 22.099,
       "matched": true
     },
     {
       "i": 73,
       "text": "I",
-      "start": 22.38,
-      "end": 22.435,
+      "start": 22.436,
+      "end": 22.491,
       "matched": true
     },
     {
       "i": 74,
       "text": "have",
-      "start": 22.446,
-      "end": 22.598,
+      "start": 22.502,
+      "end": 22.654,
       "matched": true
     },
     {
       "i": 75,
       "text": "work",
-      "start": 22.609,
-      "end": 22.761,
+      "start": 22.665,
+      "end": 22.817,
       "matched": true
     },
     {
       "i": 76,
       "text": "to",
-      "start": 22.772,
-      "end": 22.848,
+      "start": 22.828,
+      "end": 22.904,
       "matched": true
     },
     {
       "i": 77,
       "text": "do.",
-      "start": 22.859,
-      "end": 23.076,
+      "start": 22.915,
+      "end": 23.132,
       "matched": true
     }
   ]

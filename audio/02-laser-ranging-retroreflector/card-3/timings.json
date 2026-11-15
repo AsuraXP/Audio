@@ -8,257 +8,258 @@
   "word_count": 36,
   "matched_words": 36,
   "coverage": 1.0,
+  "onset_compensation": 0.056,
   "words": [
     {
       "i": 0,
       "text": "They",
-      "start": 0.098,
-      "end": 0.152,
+      "start": 0.154,
+      "end": 0.208,
       "matched": true
     },
     {
       "i": 1,
       "text": "still",
-      "start": 0.163,
-      "end": 0.348,
+      "start": 0.219,
+      "end": 0.404,
       "matched": true
     },
     {
       "i": 2,
       "text": "send",
-      "start": 0.359,
-      "end": 0.543,
+      "start": 0.415,
+      "end": 0.599,
       "matched": true
     },
     {
       "i": 3,
       "text": "me",
-      "start": 0.554,
-      "end": 0.63,
+      "start": 0.61,
+      "end": 0.686,
       "matched": true
     },
     {
       "i": 4,
       "text": "light",
-      "start": 0.641,
-      "end": 0.859,
+      "start": 0.697,
+      "end": 0.915,
       "matched": true
     },
     {
       "i": 5,
       "text": "today.",
-      "start": 0.87,
-      "end": 1.196,
+      "start": 0.926,
+      "end": 1.252,
       "matched": true
     },
     {
       "i": 6,
       "text": "Some",
-      "start": 1.565,
-      "end": 1.685,
+      "start": 1.621,
+      "end": 1.741,
       "matched": true
     },
     {
       "i": 7,
       "text": "scientists",
-      "start": 1.696,
-      "end": 2.196,
+      "start": 1.752,
+      "end": 2.252,
       "matched": true
     },
     {
       "i": 8,
       "text": "think",
-      "start": 2.207,
-      "end": 2.435,
+      "start": 2.263,
+      "end": 2.491,
       "matched": true
     },
     {
       "i": 9,
       "text": "dust",
-      "start": 2.446,
-      "end": 2.75,
+      "start": 2.502,
+      "end": 2.806,
       "matched": true
     },
     {
       "i": 10,
       "text": "has",
-      "start": 2.761,
-      "end": 2.924,
+      "start": 2.817,
+      "end": 2.98,
       "matched": true
     },
     {
       "i": 11,
       "text": "dimmed",
-      "start": 2.935,
-      "end": 3.174,
+      "start": 2.991,
+      "end": 3.23,
       "matched": true
     },
     {
       "i": 12,
       "text": "my",
-      "start": 3.185,
-      "end": 3.293,
+      "start": 3.241,
+      "end": 3.349,
       "matched": true
     },
     {
       "i": 13,
       "text": "prisms",
-      "start": 3.304,
-      "end": 3.663,
+      "start": 3.36,
+      "end": 3.719,
       "matched": true
     },
     {
       "i": 14,
       "text": "a",
-      "start": 3.674,
-      "end": 3.707,
+      "start": 3.73,
+      "end": 3.763,
       "matched": true
     },
     {
       "i": 15,
       "text": "little.",
-      "start": 3.717,
-      "end": 3.989,
+      "start": 3.773,
+      "end": 4.045,
       "matched": true
     },
     {
       "i": 16,
       "text": "Everything",
-      "start": 4.348,
-      "end": 4.663,
+      "start": 4.404,
+      "end": 4.719,
       "matched": true
     },
     {
       "i": 17,
       "text": "else",
-      "start": 4.674,
-      "end": 4.88,
+      "start": 4.73,
+      "end": 4.936,
       "matched": true
     },
     {
       "i": 18,
       "text": "at",
-      "start": 4.891,
-      "end": 4.978,
+      "start": 4.947,
+      "end": 5.034,
       "matched": true
     },
     {
       "i": 19,
       "text": "this",
-      "start": 4.989,
-      "end": 5.141,
+      "start": 5.045,
+      "end": 5.197,
       "matched": true
     },
     {
       "i": 20,
       "text": "landing",
-      "start": 5.152,
-      "end": 5.467,
+      "start": 5.208,
+      "end": 5.523,
       "matched": true
     },
     {
       "i": 21,
       "text": "site",
-      "start": 5.478,
-      "end": 5.772,
+      "start": 5.534,
+      "end": 5.828,
       "matched": true
     },
     {
       "i": 22,
       "text": "went",
-      "start": 5.848,
-      "end": 5.989,
+      "start": 5.904,
+      "end": 6.045,
       "matched": true
     },
     {
       "i": 23,
       "text": "quiet",
-      "start": 6.0,
-      "end": 6.293,
+      "start": 6.056,
+      "end": 6.349,
       "matched": true
     },
     {
       "i": 24,
       "text": "long",
-      "start": 6.304,
-      "end": 6.5,
+      "start": 6.36,
+      "end": 6.556,
       "matched": true
     },
     {
       "i": 25,
       "text": "ago.",
-      "start": 6.511,
-      "end": 6.783,
+      "start": 6.567,
+      "end": 6.839,
       "matched": true
     },
     {
       "i": 26,
       "text": "I",
-      "start": 7.141,
-      "end": 7.174,
+      "start": 7.197,
+      "end": 7.23,
       "matched": true
     },
     {
       "i": 27,
       "text": "never",
-      "start": 7.185,
-      "end": 7.391,
+      "start": 7.241,
+      "end": 7.447,
       "matched": true
     },
     {
       "i": 28,
       "text": "said",
-      "start": 7.402,
-      "end": 7.554,
+      "start": 7.458,
+      "end": 7.61,
       "matched": true
     },
     {
       "i": 29,
       "text": "a",
-      "start": 7.565,
-      "end": 7.609,
+      "start": 7.621,
+      "end": 7.665,
       "matched": true
     },
     {
       "i": 30,
       "text": "word,",
-      "start": 7.62,
-      "end": 7.946,
+      "start": 7.676,
+      "end": 8.002,
       "matched": true
     },
     {
       "i": 31,
       "text": "and",
-      "start": 8.207,
-      "end": 8.272,
+      "start": 8.263,
+      "end": 8.328,
       "matched": true
     },
     {
       "i": 32,
       "text": "I",
-      "start": 8.283,
-      "end": 8.315,
+      "start": 8.339,
+      "end": 8.371,
       "matched": true
     },
     {
       "i": 33,
       "text": "never",
-      "start": 8.326,
-      "end": 8.576,
+      "start": 8.382,
+      "end": 8.632,
       "matched": true
     },
     {
       "i": 34,
       "text": "stopped",
-      "start": 8.587,
-      "end": 8.88,
+      "start": 8.643,
+      "end": 8.936,
       "matched": true
     },
     {
       "i": 35,
       "text": "answering.",
-      "start": 8.891,
-      "end": 9.261,
+      "start": 8.947,
+      "end": 9.317,
       "matched": true
     }
   ]

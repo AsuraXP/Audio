@@ -8,691 +8,692 @@
   "word_count": 98,
   "matched_words": 98,
   "coverage": 1.0,
+  "onset_compensation": 0.056,
   "words": [
     {
       "i": 0,
       "text": "I",
-      "start": 0.098,
-      "end": 0.163,
+      "start": 0.154,
+      "end": 0.219,
       "matched": true
     },
     {
       "i": 1,
       "text": "felt",
-      "start": 0.174,
-      "end": 0.38,
+      "start": 0.23,
+      "end": 0.436,
       "matched": true
     },
     {
       "i": 2,
       "text": "more",
-      "start": 0.391,
-      "end": 0.554,
+      "start": 0.447,
+      "end": 0.61,
       "matched": true
     },
     {
       "i": 3,
       "text": "than",
-      "start": 0.565,
-      "end": 0.706,
+      "start": 0.621,
+      "end": 0.762,
       "matched": true
     },
     {
       "i": 4,
       "text": "1,300",
-      "start": 0.717,
-      "end": 1.848,
+      "start": 0.773,
+      "end": 1.904,
       "matched": true
     },
     {
       "i": 5,
       "text": "of",
-      "start": 1.859,
-      "end": 1.935,
+      "start": 1.915,
+      "end": 1.991,
       "matched": true
     },
     {
       "i": 6,
       "text": "them.",
-      "start": 1.946,
-      "end": 2.109,
+      "start": 2.002,
+      "end": 2.165,
       "matched": true
     },
     {
       "i": 7,
       "text": "Each",
-      "start": 2.467,
-      "end": 2.62,
+      "start": 2.523,
+      "end": 2.676,
       "matched": true
     },
     {
       "i": 8,
       "text": "one",
-      "start": 2.63,
-      "end": 2.837,
+      "start": 2.686,
+      "end": 2.893,
       "matched": true
     },
     {
       "i": 9,
       "text": "sent",
-      "start": 2.848,
-      "end": 3.076,
+      "start": 2.904,
+      "end": 3.132,
       "matched": true
     },
     {
       "i": 10,
       "text": "waves",
-      "start": 3.087,
-      "end": 3.402,
+      "start": 3.143,
+      "end": 3.458,
       "matched": true
     },
     {
       "i": 11,
       "text": "down",
-      "start": 3.413,
-      "end": 3.685,
+      "start": 3.469,
+      "end": 3.741,
       "matched": true
     },
     {
       "i": 12,
       "text": "through",
-      "start": 3.696,
-      "end": 3.804,
+      "start": 3.752,
+      "end": 3.86,
       "matched": true
     },
     {
       "i": 13,
       "text": "the",
-      "start": 3.815,
-      "end": 3.891,
+      "start": 3.871,
+      "end": 3.947,
       "matched": true
     },
     {
       "i": 14,
       "text": "planet",
-      "start": 3.902,
-      "end": 4.304,
+      "start": 3.958,
+      "end": 4.36,
       "matched": true
     },
     {
       "i": 15,
       "text": "and",
-      "start": 4.402,
-      "end": 4.478,
+      "start": 4.458,
+      "end": 4.534,
       "matched": true
     },
     {
       "i": 16,
       "text": "back,",
-      "start": 4.489,
-      "end": 4.913,
+      "start": 4.545,
+      "end": 4.969,
       "matched": true
     },
     {
       "i": 17,
       "text": "and",
-      "start": 5.185,
-      "end": 5.261,
+      "start": 5.241,
+      "end": 5.317,
       "matched": true
     },
     {
       "i": 18,
       "text": "those",
-      "start": 5.272,
-      "end": 5.478,
+      "start": 5.328,
+      "end": 5.534,
       "matched": true
     },
     {
       "i": 19,
       "text": "waves",
-      "start": 5.489,
-      "end": 5.75,
+      "start": 5.545,
+      "end": 5.806,
       "matched": true
     },
     {
       "i": 20,
       "text": "drew",
-      "start": 5.761,
-      "end": 5.935,
+      "start": 5.817,
+      "end": 5.991,
       "matched": true
     },
     {
       "i": 21,
       "text": "a",
-      "start": 5.946,
-      "end": 6.011,
+      "start": 6.002,
+      "end": 6.067,
       "matched": true
     },
     {
       "i": 22,
       "text": "picture",
-      "start": 6.022,
-      "end": 6.391,
+      "start": 6.078,
+      "end": 6.447,
       "matched": true
     },
     {
       "i": 23,
       "text": "of",
-      "start": 6.402,
-      "end": 6.467,
+      "start": 6.458,
+      "end": 6.523,
       "matched": true
     },
     {
       "i": 24,
       "text": "the",
-      "start": 6.478,
-      "end": 6.543,
+      "start": 6.534,
+      "end": 6.599,
       "matched": true
     },
     {
       "i": 25,
       "text": "inside",
-      "start": 6.554,
-      "end": 7.011,
+      "start": 6.61,
+      "end": 7.067,
       "matched": true
     },
     {
       "i": 26,
       "text": "of",
-      "start": 7.022,
-      "end": 7.087,
+      "start": 7.078,
+      "end": 7.143,
       "matched": true
     },
     {
       "i": 27,
       "text": "Mars:",
-      "start": 7.098,
-      "end": 7.554,
+      "start": 7.154,
+      "end": 7.61,
       "matched": true
     },
     {
       "i": 28,
       "text": "crust,",
-      "start": 7.793,
-      "end": 8.206,
+      "start": 7.849,
+      "end": 8.262,
       "matched": true
     },
     {
       "i": 29,
       "text": "mantle,",
-      "start": 8.533,
-      "end": 8.989,
+      "start": 8.589,
+      "end": 9.045,
       "matched": true
     },
     {
       "i": 30,
       "text": "and",
-      "start": 9.25,
-      "end": 9.293,
+      "start": 9.306,
+      "end": 9.349,
       "matched": true
     },
     {
       "i": 31,
       "text": "a",
-      "start": 9.304,
-      "end": 9.337,
+      "start": 9.36,
+      "end": 9.393,
       "matched": true
     },
     {
       "i": 32,
       "text": "molten",
-      "start": 9.348,
-      "end": 9.707,
+      "start": 9.404,
+      "end": 9.763,
       "matched": true
     },
     {
       "i": 33,
       "text": "core.",
-      "start": 9.717,
-      "end": 10.033,
+      "start": 9.773,
+      "end": 10.089,
       "matched": true
     },
     {
       "i": 34,
       "text": "Not",
-      "start": 10.391,
-      "end": 10.511,
+      "start": 10.447,
+      "end": 10.567,
       "matched": true
     },
     {
       "i": 35,
       "text": "everything",
-      "start": 10.522,
-      "end": 10.815,
+      "start": 10.578,
+      "end": 10.871,
       "matched": true
     },
     {
       "i": 36,
       "text": "worked.",
-      "start": 10.826,
-      "end": 11.152,
+      "start": 10.882,
+      "end": 11.208,
       "matched": true
     },
     {
       "i": 37,
       "text": "I",
-      "start": 11.522,
-      "end": 11.587,
+      "start": 11.578,
+      "end": 11.643,
       "matched": true
     },
     {
       "i": 38,
       "text": "carried",
-      "start": 11.598,
-      "end": 11.88,
+      "start": 11.654,
+      "end": 11.936,
       "matched": true
     },
     {
       "i": 39,
       "text": "a",
-      "start": 11.891,
-      "end": 11.924,
+      "start": 11.947,
+      "end": 11.98,
       "matched": true
     },
     {
       "i": 40,
       "text": "heat",
-      "start": 11.935,
-      "end": 12.217,
+      "start": 11.991,
+      "end": 12.273,
       "matched": true
     },
     {
       "i": 41,
       "text": "probe",
-      "start": 12.228,
-      "end": 12.565,
+      "start": 12.284,
+      "end": 12.621,
       "matched": true
     },
     {
       "i": 42,
       "text": "called",
-      "start": 12.576,
-      "end": 12.793,
+      "start": 12.632,
+      "end": 12.849,
       "matched": true
     },
     {
       "i": 43,
       "text": "the",
-      "start": 12.804,
-      "end": 12.87,
+      "start": 12.86,
+      "end": 12.926,
       "matched": true
     },
     {
       "i": 44,
       "text": "mole",
-      "start": 12.88,
-      "end": 13.163,
+      "start": 12.936,
+      "end": 13.219,
       "matched": true
     },
     {
       "i": 45,
       "text": "that",
-      "start": 13.174,
-      "end": 13.272,
+      "start": 13.23,
+      "end": 13.328,
       "matched": true
     },
     {
       "i": 46,
       "text": "was",
-      "start": 13.283,
-      "end": 13.413,
+      "start": 13.339,
+      "end": 13.469,
       "matched": true
     },
     {
       "i": 47,
       "text": "meant",
-      "start": 13.424,
-      "end": 13.674,
+      "start": 13.48,
+      "end": 13.73,
       "matched": true
     },
     {
       "i": 48,
       "text": "to",
-      "start": 13.685,
-      "end": 13.75,
+      "start": 13.741,
+      "end": 13.806,
       "matched": true
     },
     {
       "i": 49,
       "text": "hammer",
-      "start": 13.761,
-      "end": 14.109,
+      "start": 13.817,
+      "end": 14.165,
       "matched": true
     },
     {
       "i": 50,
       "text": "itself",
-      "start": 14.12,
-      "end": 14.489,
+      "start": 14.176,
+      "end": 14.545,
       "matched": true
     },
     {
       "i": 51,
       "text": "five",
-      "start": 14.587,
-      "end": 14.913,
+      "start": 14.643,
+      "end": 14.969,
       "matched": true
     },
     {
       "i": 52,
       "text": "metres",
-      "start": 14.924,
-      "end": 15.272,
+      "start": 14.98,
+      "end": 15.328,
       "matched": true
     },
     {
       "i": 53,
       "text": "into",
-      "start": 15.283,
-      "end": 15.424,
+      "start": 15.339,
+      "end": 15.48,
       "matched": true
     },
     {
       "i": 54,
       "text": "the",
-      "start": 15.435,
-      "end": 15.489,
+      "start": 15.491,
+      "end": 15.545,
       "matched": true
     },
     {
       "i": 55,
       "text": "ground.",
-      "start": 15.5,
-      "end": 15.88,
+      "start": 15.556,
+      "end": 15.936,
       "matched": true
     },
     {
       "i": 56,
       "text": "The",
-      "start": 16.25,
-      "end": 16.293,
+      "start": 16.306,
+      "end": 16.349,
       "matched": true
     },
     {
       "i": 57,
       "text": "soil",
-      "start": 16.304,
-      "end": 16.576,
+      "start": 16.36,
+      "end": 16.632,
       "matched": true
     },
     {
       "i": 58,
       "text": "here",
-      "start": 16.587,
-      "end": 16.75,
+      "start": 16.643,
+      "end": 16.806,
       "matched": true
     },
     {
       "i": 59,
       "text": "clumped",
-      "start": 16.761,
-      "end": 17.109,
+      "start": 16.817,
+      "end": 17.165,
       "matched": true
     },
     {
       "i": 60,
       "text": "in",
-      "start": 17.12,
-      "end": 17.185,
+      "start": 17.176,
+      "end": 17.241,
       "matched": true
     },
     {
       "i": 61,
       "text": "a",
-      "start": 17.196,
-      "end": 17.239,
+      "start": 17.252,
+      "end": 17.295,
       "matched": true
     },
     {
       "i": 62,
       "text": "way",
-      "start": 17.25,
-      "end": 17.402,
+      "start": 17.306,
+      "end": 17.458,
       "matched": true
     },
     {
       "i": 63,
       "text": "nobody",
-      "start": 17.413,
-      "end": 17.804,
+      "start": 17.469,
+      "end": 17.86,
       "matched": true
     },
     {
       "i": 64,
       "text": "expected,",
-      "start": 17.815,
-      "end": 18.37,
+      "start": 17.871,
+      "end": 18.426,
       "matched": true
     },
     {
       "i": 65,
       "text": "and",
-      "start": 18.685,
-      "end": 18.75,
+      "start": 18.741,
+      "end": 18.806,
       "matched": true
     },
     {
       "i": 66,
       "text": "the",
-      "start": 18.761,
-      "end": 18.815,
+      "start": 18.817,
+      "end": 18.871,
       "matched": true
     },
     {
       "i": 67,
       "text": "mole",
-      "start": 18.826,
-      "end": 19.109,
+      "start": 18.882,
+      "end": 19.165,
       "matched": true
     },
     {
       "i": 68,
       "text": "kept",
-      "start": 19.12,
-      "end": 19.38,
+      "start": 19.176,
+      "end": 19.436,
       "matched": true
     },
     {
       "i": 69,
       "text": "popping",
-      "start": 19.391,
-      "end": 19.728,
+      "start": 19.447,
+      "end": 19.784,
       "matched": true
     },
     {
       "i": 70,
       "text": "back",
-      "start": 19.739,
-      "end": 19.989,
+      "start": 19.795,
+      "end": 20.045,
       "matched": true
     },
     {
       "i": 71,
       "text": "out.",
-      "start": 20.0,
-      "end": 20.25,
+      "start": 20.056,
+      "end": 20.306,
       "matched": true
     },
     {
       "i": 72,
       "text": "My",
-      "start": 20.609,
-      "end": 20.717,
+      "start": 20.665,
+      "end": 20.773,
       "matched": true
     },
     {
       "i": 73,
       "text": "team",
-      "start": 20.728,
-      "end": 20.946,
+      "start": 20.784,
+      "end": 21.002,
       "matched": true
     },
     {
       "i": 74,
       "text": "tried",
-      "start": 20.957,
-      "end": 21.217,
+      "start": 21.013,
+      "end": 21.273,
       "matched": true
     },
     {
       "i": 75,
       "text": "for",
-      "start": 21.228,
-      "end": 21.413,
+      "start": 21.284,
+      "end": 21.469,
       "matched": true
     },
     {
       "i": 76,
       "text": "almost",
-      "start": 21.424,
-      "end": 21.75,
+      "start": 21.48,
+      "end": 21.806,
       "matched": true
     },
     {
       "i": 77,
       "text": "two",
-      "start": 21.761,
-      "end": 21.957,
+      "start": 21.817,
+      "end": 22.013,
       "matched": true
     },
     {
       "i": 78,
       "text": "years",
-      "start": 21.967,
-      "end": 22.293,
+      "start": 22.023,
+      "end": 22.349,
       "matched": true
     },
     {
       "i": 79,
       "text": "to",
-      "start": 22.304,
-      "end": 22.37,
+      "start": 22.36,
+      "end": 22.426,
       "matched": true
     },
     {
       "i": 80,
       "text": "help",
-      "start": 22.38,
-      "end": 22.576,
+      "start": 22.436,
+      "end": 22.632,
       "matched": true
     },
     {
       "i": 81,
       "text": "it",
-      "start": 22.587,
-      "end": 22.641,
+      "start": 22.643,
+      "end": 22.697,
       "matched": true
     },
     {
       "i": 82,
       "text": "with",
-      "start": 22.652,
-      "end": 22.772,
+      "start": 22.708,
+      "end": 22.828,
       "matched": true
     },
     {
       "i": 83,
       "text": "my",
-      "start": 22.783,
-      "end": 22.935,
+      "start": 22.839,
+      "end": 22.991,
       "matched": true
     },
     {
       "i": 84,
       "text": "arm.",
-      "start": 22.946,
-      "end": 23.217,
+      "start": 23.002,
+      "end": 23.273,
       "matched": true
     },
     {
       "i": 85,
       "text": "In",
-      "start": 23.576,
-      "end": 23.63,
+      "start": 23.632,
+      "end": 23.686,
       "matched": true
     },
     {
       "i": 86,
       "text": "the",
-      "start": 23.641,
-      "end": 23.696,
+      "start": 23.697,
+      "end": 23.752,
       "matched": true
     },
     {
       "i": 87,
       "text": "end",
-      "start": 23.707,
-      "end": 23.87,
+      "start": 23.763,
+      "end": 23.926,
       "matched": true
     },
     {
       "i": 88,
       "text": "they",
-      "start": 23.88,
-      "end": 23.956,
+      "start": 23.936,
+      "end": 24.012,
       "matched": true
     },
     {
       "i": 89,
       "text": "had",
-      "start": 23.967,
-      "end": 24.12,
+      "start": 24.023,
+      "end": 24.176,
       "matched": true
     },
     {
       "i": 90,
       "text": "to",
-      "start": 24.13,
-      "end": 24.174,
+      "start": 24.186,
+      "end": 24.23,
       "matched": true
     },
     {
       "i": 91,
       "text": "stop.",
-      "start": 24.185,
-      "end": 24.554,
+      "start": 24.241,
+      "end": 24.61,
       "matched": true
     },
     {
       "i": 92,
       "text": "That",
-      "start": 24.924,
-      "end": 25.0,
+      "start": 24.98,
+      "end": 25.056,
       "matched": true
     },
     {
       "i": 93,
       "text": "is",
-      "start": 25.011,
-      "end": 25.076,
+      "start": 25.067,
+      "end": 25.132,
       "matched": true
     },
     {
       "i": 94,
       "text": "how",
-      "start": 25.087,
-      "end": 25.228,
+      "start": 25.143,
+      "end": 25.284,
       "matched": true
     },
     {
       "i": 95,
       "text": "exploring",
-      "start": 25.239,
-      "end": 25.696,
+      "start": 25.295,
+      "end": 25.752,
       "matched": true
     },
     {
       "i": 96,
       "text": "goes",
-      "start": 25.707,
-      "end": 25.913,
+      "start": 25.763,
+      "end": 25.969,
       "matched": true
     },
     {
       "i": 97,
       "text": "sometimes.",
-      "start": 25.924,
-      "end": 26.489,
+      "start": 25.98,
+      "end": 26.545,
       "matched": true
     }
   ]

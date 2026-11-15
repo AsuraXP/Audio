@@ -8,551 +8,552 @@
   "word_count": 78,
   "matched_words": 75,
   "coverage": 0.9615,
+  "onset_compensation": 0.056,
   "words": [
     {
       "i": 0,
       "text": "I",
-      "start": 0.087,
-      "end": 0.141,
+      "start": 0.143,
+      "end": 0.197,
       "matched": true
     },
     {
       "i": 1,
       "text": "was",
-      "start": 0.152,
-      "end": 0.261,
+      "start": 0.208,
+      "end": 0.317,
       "matched": true
     },
     {
       "i": 2,
       "text": "the",
-      "start": 0.272,
-      "end": 0.348,
+      "start": 0.328,
+      "end": 0.404,
       "matched": true
     },
     {
       "i": 3,
       "text": "first",
-      "start": 0.359,
-      "end": 0.652,
+      "start": 0.415,
+      "end": 0.708,
       "matched": true
     },
     {
       "i": 4,
       "text": "car",
-      "start": 0.663,
-      "end": 0.848,
+      "start": 0.719,
+      "end": 0.904,
       "matched": true
     },
     {
       "i": 5,
       "text": "on",
-      "start": 0.859,
-      "end": 0.935,
+      "start": 0.915,
+      "end": 0.991,
       "matched": true
     },
     {
       "i": 6,
       "text": "the",
-      "start": 0.946,
-      "end": 1.0,
+      "start": 1.002,
+      "end": 1.056,
       "matched": true
     },
     {
       "i": 7,
       "text": "Moon.",
-      "start": 1.011,
-      "end": 1.293,
+      "start": 1.067,
+      "end": 1.349,
       "matched": true
     },
     {
       "i": 8,
       "text": "No",
-      "start": 1.652,
-      "end": 1.815,
+      "start": 1.708,
+      "end": 1.871,
       "matched": true
     },
     {
       "i": 9,
       "text": "roof,",
-      "start": 1.826,
-      "end": 2.185,
+      "start": 1.882,
+      "end": 2.241,
       "matched": true
     },
     {
       "i": 10,
       "text": "no",
-      "start": 2.413,
-      "end": 2.587,
+      "start": 2.469,
+      "end": 2.643,
       "matched": true
     },
     {
       "i": 11,
       "text": "doors,",
-      "start": 2.598,
-      "end": 3.022,
+      "start": 2.654,
+      "end": 3.078,
       "matched": true
     },
     {
       "i": 12,
       "text": "no",
-      "start": 3.196,
-      "end": 3.326,
+      "start": 3.252,
+      "end": 3.382,
       "matched": true
     },
     {
       "i": 13,
       "text": "steering",
-      "start": 3.337,
-      "end": 3.685,
+      "start": 3.393,
+      "end": 3.741,
       "matched": true
     },
     {
       "i": 14,
       "text": "wheel.",
-      "start": 3.696,
-      "end": 3.957,
+      "start": 3.752,
+      "end": 4.013,
       "matched": true
     },
     {
       "i": 15,
       "text": "Just",
-      "start": 4.315,
-      "end": 4.478,
+      "start": 4.371,
+      "end": 4.534,
       "matched": true
     },
     {
       "i": 16,
       "text": "a",
-      "start": 4.489,
-      "end": 4.533,
+      "start": 4.545,
+      "end": 4.589,
       "matched": true
     },
     {
       "i": 17,
       "text": "T-shaped",
-      "start": 4.543,
-      "end": 5.011,
+      "start": 4.599,
+      "end": 5.067,
       "matched": true
     },
     {
       "i": 18,
       "text": "hand",
-      "start": 5.022,
-      "end": 5.217,
+      "start": 5.078,
+      "end": 5.273,
       "matched": true
     },
     {
       "i": 19,
       "text": "controller",
-      "start": 5.228,
-      "end": 5.652,
+      "start": 5.284,
+      "end": 5.708,
       "matched": true
     },
     {
       "i": 20,
       "text": "between",
-      "start": 5.663,
-      "end": 5.978,
+      "start": 5.719,
+      "end": 6.034,
       "matched": true
     },
     {
       "i": 21,
       "text": "two",
-      "start": 5.989,
-      "end": 6.163,
+      "start": 6.045,
+      "end": 6.219,
       "matched": true
     },
     {
       "i": 22,
       "text": "seats.",
-      "start": 6.174,
-      "end": 6.652,
+      "start": 6.23,
+      "end": 6.708,
       "matched": true
     },
     {
       "i": 23,
       "text": "I",
-      "start": 7.011,
-      "end": 7.076,
+      "start": 7.067,
+      "end": 7.132,
       "matched": true
     },
     {
       "i": 24,
       "text": "rode",
-      "start": 7.087,
-      "end": 7.315,
+      "start": 7.143,
+      "end": 7.371,
       "matched": true
     },
     {
       "i": 25,
       "text": "here",
-      "start": 7.326,
-      "end": 7.533,
+      "start": 7.382,
+      "end": 7.589,
       "matched": true
     },
     {
       "i": 26,
       "text": "folded",
-      "start": 7.543,
-      "end": 7.913,
+      "start": 7.599,
+      "end": 7.969,
       "matched": true
     },
     {
       "i": 27,
       "text": "up",
-      "start": 7.924,
-      "end": 8.098,
+      "start": 7.98,
+      "end": 8.154,
       "matched": true
     },
     {
       "i": 28,
       "text": "like",
-      "start": 8.152,
-      "end": 8.261,
+      "start": 8.208,
+      "end": 8.317,
       "matched": true
     },
     {
       "i": 29,
       "text": "a",
-      "start": 8.272,
-      "end": 8.315,
+      "start": 8.328,
+      "end": 8.371,
       "matched": true
     },
     {
       "i": 30,
       "text": "camping",
-      "start": 8.326,
-      "end": 8.706,
+      "start": 8.382,
+      "end": 8.762,
       "matched": true
     },
     {
       "i": 31,
       "text": "chair",
-      "start": 8.717,
-      "end": 8.957,
+      "start": 8.773,
+      "end": 9.012,
       "matched": true
     },
     {
       "i": 32,
       "text": "on",
-      "start": 8.967,
-      "end": 9.033,
+      "start": 9.023,
+      "end": 9.089,
       "matched": true
     },
     {
       "i": 33,
       "text": "the",
-      "start": 9.043,
-      "end": 9.12,
+      "start": 9.099,
+      "end": 9.176,
       "matched": true
     },
     {
       "i": 34,
       "text": "side",
-      "start": 9.13,
-      "end": 9.402,
+      "start": 9.186,
+      "end": 9.458,
       "matched": true
     },
     {
       "i": 35,
       "text": "of",
-      "start": 9.413,
-      "end": 9.467,
+      "start": 9.469,
+      "end": 9.523,
       "matched": true
     },
     {
       "i": 36,
       "text": "the",
-      "start": 9.478,
-      "end": 9.543,
+      "start": 9.534,
+      "end": 9.599,
       "matched": true
     },
     {
       "i": 37,
       "text": "lander.",
-      "start": 9.554,
-      "end": 9.978,
+      "start": 9.61,
+      "end": 10.034,
       "matched": true
     },
     {
       "i": 38,
       "text": "On",
-      "start": 10.337,
-      "end": 10.435,
+      "start": 10.393,
+      "end": 10.491,
       "matched": true
     },
     {
       "i": 39,
       "text": "July",
-      "start": 10.435,
-      "end": 11.261,
+      "start": 10.491,
+      "end": 11.317,
       "matched": false
     },
     {
       "i": 40,
       "text": "31,",
-      "start": 11.261,
-      "end": 11.881,
+      "start": 11.317,
+      "end": 11.937,
       "matched": false
     },
     {
       "i": 41,
       "text": "1971,",
-      "start": 11.881,
-      "end": 12.913,
+      "start": 11.937,
+      "end": 12.969,
       "matched": false
     },
     {
       "i": 42,
       "text": "Dave",
-      "start": 12.913,
-      "end": 13.109,
+      "start": 12.969,
+      "end": 13.165,
       "matched": true
     },
     {
       "i": 43,
       "text": "Scott",
-      "start": 13.12,
-      "end": 13.489,
+      "start": 13.176,
+      "end": 13.545,
       "matched": true
     },
     {
       "i": 44,
       "text": "and",
-      "start": 13.609,
-      "end": 13.696,
+      "start": 13.665,
+      "end": 13.752,
       "matched": true
     },
     {
       "i": 45,
       "text": "Jim",
-      "start": 13.707,
-      "end": 14.0,
+      "start": 13.763,
+      "end": 14.056,
       "matched": true
     },
     {
       "i": 46,
       "text": "Irwin",
-      "start": 14.098,
-      "end": 14.391,
+      "start": 14.154,
+      "end": 14.447,
       "matched": true
     },
     {
       "i": 47,
       "text": "unfolded",
-      "start": 14.402,
-      "end": 14.956,
+      "start": 14.458,
+      "end": 15.012,
       "matched": true
     },
     {
       "i": 48,
       "text": "me,",
-      "start": 14.967,
-      "end": 15.141,
+      "start": 15.023,
+      "end": 15.197,
       "matched": true
     },
     {
       "i": 49,
       "text": "strapped",
-      "start": 15.391,
-      "end": 15.75,
+      "start": 15.447,
+      "end": 15.806,
       "matched": true
     },
     {
       "i": 50,
       "text": "in",
-      "start": 15.761,
-      "end": 15.967,
+      "start": 15.817,
+      "end": 16.023,
       "matched": true
     },
     {
       "i": 51,
       "text": "and",
-      "start": 16.076,
-      "end": 16.141,
+      "start": 16.132,
+      "end": 16.197,
       "matched": true
     },
     {
       "i": 52,
       "text": "drove",
-      "start": 16.152,
-      "end": 16.435,
+      "start": 16.208,
+      "end": 16.491,
       "matched": true
     },
     {
       "i": 53,
       "text": "off.",
-      "start": 16.446,
-      "end": 16.772,
+      "start": 16.502,
+      "end": 16.828,
       "matched": true
     },
     {
       "i": 54,
       "text": "My",
-      "start": 17.13,
-      "end": 17.261,
+      "start": 17.186,
+      "end": 17.317,
       "matched": true
     },
     {
       "i": 55,
       "text": "front",
-      "start": 17.272,
-      "end": 17.467,
+      "start": 17.328,
+      "end": 17.523,
       "matched": true
     },
     {
       "i": 56,
       "text": "steering",
-      "start": 17.478,
-      "end": 17.804,
+      "start": 17.534,
+      "end": 17.86,
       "matched": true
     },
     {
       "i": 57,
       "text": "did",
-      "start": 17.815,
-      "end": 17.956,
+      "start": 17.871,
+      "end": 18.012,
       "matched": true
     },
     {
       "i": 58,
       "text": "not",
-      "start": 17.967,
-      "end": 18.174,
+      "start": 18.023,
+      "end": 18.23,
       "matched": true
     },
     {
       "i": 59,
       "text": "work",
-      "start": 18.185,
-      "end": 18.402,
+      "start": 18.241,
+      "end": 18.458,
       "matched": true
     },
     {
       "i": 60,
       "text": "on",
-      "start": 18.413,
-      "end": 18.5,
+      "start": 18.469,
+      "end": 18.556,
       "matched": true
     },
     {
       "i": 61,
       "text": "that",
-      "start": 18.511,
-      "end": 18.652,
+      "start": 18.567,
+      "end": 18.708,
       "matched": true
     },
     {
       "i": 62,
       "text": "first",
-      "start": 18.663,
-      "end": 18.935,
+      "start": 18.719,
+      "end": 18.991,
       "matched": true
     },
     {
       "i": 63,
       "text": "drive,",
-      "start": 18.946,
-      "end": 19.261,
+      "start": 19.002,
+      "end": 19.317,
       "matched": true
     },
     {
       "i": 64,
       "text": "so",
-      "start": 19.511,
-      "end": 19.598,
+      "start": 19.567,
+      "end": 19.654,
       "matched": true
     },
     {
       "i": 65,
       "text": "we",
-      "start": 19.609,
-      "end": 19.707,
+      "start": 19.665,
+      "end": 19.763,
       "matched": true
     },
     {
       "i": 66,
       "text": "steered",
-      "start": 19.717,
-      "end": 19.967,
+      "start": 19.773,
+      "end": 20.023,
       "matched": true
     },
     {
       "i": 67,
       "text": "with",
-      "start": 19.978,
-      "end": 20.076,
+      "start": 20.034,
+      "end": 20.132,
       "matched": true
     },
     {
       "i": 68,
       "text": "my",
-      "start": 20.087,
-      "end": 20.207,
+      "start": 20.143,
+      "end": 20.263,
       "matched": true
     },
     {
       "i": 69,
       "text": "rear",
-      "start": 20.217,
-      "end": 20.435,
+      "start": 20.273,
+      "end": 20.491,
       "matched": true
     },
     {
       "i": 70,
       "text": "wheels.",
-      "start": 20.446,
-      "end": 20.87,
+      "start": 20.502,
+      "end": 20.926,
       "matched": true
     },
     {
       "i": 71,
       "text": "By",
-      "start": 21.228,
-      "end": 21.283,
+      "start": 21.284,
+      "end": 21.339,
       "matched": true
     },
     {
       "i": 72,
       "text": "the",
-      "start": 21.293,
-      "end": 21.359,
+      "start": 21.349,
+      "end": 21.415,
       "matched": true
     },
     {
       "i": 73,
       "text": "next",
-      "start": 21.37,
-      "end": 21.598,
+      "start": 21.426,
+      "end": 21.654,
       "matched": true
     },
     {
       "i": 74,
       "text": "day",
-      "start": 21.609,
-      "end": 21.772,
+      "start": 21.665,
+      "end": 21.828,
       "matched": true
     },
     {
       "i": 75,
       "text": "it",
-      "start": 21.783,
-      "end": 21.837,
+      "start": 21.839,
+      "end": 21.893,
       "matched": true
     },
     {
       "i": 76,
       "text": "was",
-      "start": 21.848,
-      "end": 21.946,
+      "start": 21.904,
+      "end": 22.002,
       "matched": true
     },
     {
       "i": 77,
       "text": "working.",
-      "start": 21.957,
-      "end": 22.304,
+      "start": 22.013,
+      "end": 22.36,
       "matched": true
     }
   ]

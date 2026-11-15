@@ -32,6 +32,7 @@ import asyncio
 import json
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -170,20 +171,26 @@ async def run(jobs: list[dict], force: bool, concurrency: int) -> int:
         async with semaphore:
             label = f"{job['story']}/{job['card']}"
             text = job["script"].read_text(encoding="utf-8").strip()
+            started = time.monotonic()
             try:
                 status = await synthesize(text, job["mp3"], force)
+                elapsed = time.monotonic() - started
                 done += 1
                 if status == "skipped":
                     print(f"[{done}/{len(jobs)}] skip    {label}  (exists)")
                 else:
-                    print(f"[{done}/{len(jobs)}] ok      {label}  ({job['mp3'].stat().st_size:,} bytes)")
-                return {**job, "status": status}
+                    print(f"[{done}/{len(jobs)}] ok      {label}  "
+                          f"({job['mp3'].stat().st_size:,} bytes, {elapsed:.1f}s)")
+                return {**job, "status": status, "seconds": round(elapsed, 2)}
             except Exception as exc:  # noqa: BLE001
+                elapsed = time.monotonic() - started
                 done += 1
-                print(f"[{done}/{len(jobs)}] FAILED  {label}  ({exc})")
-                return {**job, "status": "failed", "error": str(exc)}
+                print(f"[{done}/{len(jobs)}] FAILED  {label}  ({elapsed:.1f}s, {exc})")
+                return {**job, "status": "failed", "error": str(exc), "seconds": round(elapsed, 2)}
 
+    wall_start = time.monotonic()
     results = await asyncio.gather(*(worker(job) for job in jobs))
+    wall = time.monotonic() - wall_start
     write_manifest(list(results))
 
     failed = [r for r in results if r["status"] == "failed"]
@@ -193,6 +200,9 @@ async def run(jobs: list[dict], force: bool, concurrency: int) -> int:
     )
     for r in failed:
         print(f"  failed: {r['story']}/{r['card']}: {r['error']}", file=sys.stderr)
+    if results:
+        print(f"wall time: {wall:.1f}s  "
+              f"(avg {wall / len(results):.1f}s per card)")
     return 1 if failed else 0
 
 

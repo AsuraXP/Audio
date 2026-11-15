@@ -10,6 +10,11 @@ name: Generate narration audio
 # Microsoft's speech endpoint.
 
 on:
+  # push trigger on a marker file so runs can be started from a feature branch
+  # (workflow_dispatch only works for workflows that live on the default branch)
+  push:
+    paths:
+      - "render/trigger"
   workflow_dispatch:
     inputs:
       force:

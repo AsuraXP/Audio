@@ -54,6 +54,11 @@ VTT_NAME = "words.vtt"
 MAX_ATTEMPTS = 4
 TICKS_PER_SECOND = 10_000_000  # edge-tts offsets are in 100-nanosecond ticks
 
+# edge-tts reports word onsets slightly early relative to the rendered audio.
+# Measured against real speech energy on 14 cards: median +56 ms, stdev 12 ms.
+# Shifting the reported times by this much lines highlighting up with the voice.
+ONSET_COMPENSATION = 0.056
+
 WORD_RE = re.compile(r"[^\w']+", re.UNICODE)
 
 
@@ -174,7 +179,7 @@ async def render(text: str, out: Path) -> list[dict]:
             if chunk["type"] == "audio":
                 fh.write(chunk["data"])
             elif chunk["type"] in ("WordBoundary", "SentenceBoundary"):
-                start = chunk["offset"] / TICKS_PER_SECOND
+                start = chunk["offset"] / TICKS_PER_SECOND + ONSET_COMPENSATION
                 spoken.append(
                     {
                         "text": chunk["text"],
@@ -276,6 +281,7 @@ def write_timings(job: dict, text: str, aligned: dict, duration: float) -> None:
                 "word_count": len(aligned["words"]),
                 "matched_words": aligned["matched"],
                 "coverage": aligned["coverage"],
+                "onset_compensation": ONSET_COMPENSATION,
                 "words": aligned["words"],
             },
             indent=2,

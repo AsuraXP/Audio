@@ -1,0 +1,482 @@
+{
+  "story": "08-viking-2-lander",
+  "card": "card-3",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 18.696,
+  "word_count": 67,
+  "matched_words": 65,
+  "coverage": 0.9701,
+  "words": [
+    {
+      "i": 0,
+      "text": "But",
+      "start": 0.098,
+      "end": 0.152,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "I",
+      "start": 0.163,
+      "end": 0.206,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "saw",
+      "start": 0.217,
+      "end": 0.391,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "something",
+      "start": 0.402,
+      "end": 0.652,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "she",
+      "start": 0.663,
+      "end": 0.783,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "could",
+      "start": 0.793,
+      "end": 0.913,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "not.",
+      "start": 0.924,
+      "end": 1.239,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "One",
+      "start": 1.598,
+      "end": 1.793,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "winter",
+      "start": 1.804,
+      "end": 2.065,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "morning,",
+      "start": 2.076,
+      "end": 2.391,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "the",
+      "start": 2.641,
+      "end": 2.706,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "ground",
+      "start": 2.717,
+      "end": 3.022,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "around",
+      "start": 3.033,
+      "end": 3.326,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "me",
+      "start": 3.337,
+      "end": 3.457,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "was",
+      "start": 3.467,
+      "end": 3.598,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "white.",
+      "start": 3.609,
+      "end": 3.946,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "A",
+      "start": 4.304,
+      "end": 4.37,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "thin",
+      "start": 4.38,
+      "end": 4.674,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "coat",
+      "start": 4.685,
+      "end": 4.913,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "of",
+      "start": 4.924,
+      "end": 5.0,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "frost",
+      "start": 5.011,
+      "end": 5.424,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "had",
+      "start": 5.435,
+      "end": 5.543,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "formed",
+      "start": 5.554,
+      "end": 5.913,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "on",
+      "start": 5.924,
+      "end": 5.989,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "the",
+      "start": 6.0,
+      "end": 6.054,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "rocks.",
+      "start": 6.065,
+      "end": 6.533,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "Water",
+      "start": 6.891,
+      "end": 7.152,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "ice,",
+      "start": 7.163,
+      "end": 7.522,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "on",
+      "start": 7.674,
+      "end": 7.804,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "Mars,",
+      "start": 7.815,
+      "end": 8.272,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "right",
+      "start": 8.489,
+      "end": 8.62,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "in",
+      "start": 8.63,
+      "end": 8.696,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "front",
+      "start": 8.707,
+      "end": 8.859,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "of",
+      "start": 8.87,
+      "end": 8.902,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "my",
+      "start": 8.913,
+      "end": 9.022,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "cameras.",
+      "start": 9.033,
+      "end": 9.565,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "I",
+      "start": 9.935,
+      "end": 10.0,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "kept",
+      "start": 10.011,
+      "end": 10.207,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "working",
+      "start": 10.217,
+      "end": 10.489,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "for",
+      "start": 10.5,
+      "end": 10.598,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "more",
+      "start": 10.609,
+      "end": 10.783,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "than",
+      "start": 10.793,
+      "end": 10.902,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "three",
+      "start": 10.913,
+      "end": 11.098,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "years.",
+      "start": 11.109,
+      "end": 11.543,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "Then,",
+      "start": 11.902,
+      "end": 12.174,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "in",
+      "start": 12.424,
+      "end": 12.533,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "April",
+      "start": 12.533,
+      "end": 13.066,
+      "matched": false
+    },
+    {
+      "i": 47,
+      "text": "1980,",
+      "start": 13.066,
+      "end": 13.598,
+      "matched": false
+    },
+    {
+      "i": 48,
+      "text": "my",
+      "start": 13.598,
+      "end": 13.696,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "batteries",
+      "start": 13.707,
+      "end": 14.12,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "failed",
+      "start": 14.13,
+      "end": 14.511,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "and",
+      "start": 14.674,
+      "end": 14.75,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "I",
+      "start": 14.761,
+      "end": 14.815,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "was",
+      "start": 14.826,
+      "end": 14.956,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "switched",
+      "start": 14.967,
+      "end": 15.261,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "off.",
+      "start": 15.272,
+      "end": 15.565,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "I",
+      "start": 15.924,
+      "end": 16.0,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "am",
+      "start": 16.011,
+      "end": 16.076,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "still",
+      "start": 16.087,
+      "end": 16.293,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "here",
+      "start": 16.304,
+      "end": 16.478,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "on",
+      "start": 16.489,
+      "end": 16.576,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "Utopia,",
+      "start": 16.587,
+      "end": 17.076,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "still",
+      "start": 17.337,
+      "end": 17.543,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "leaning",
+      "start": 17.554,
+      "end": 17.783,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "on",
+      "start": 17.793,
+      "end": 17.88,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "my",
+      "start": 17.891,
+      "end": 18.0,
+      "matched": true
+    },
+    {
+      "i": 66,
+      "text": "rock.",
+      "start": 18.011,
+      "end": 18.38,
+      "matched": true
+    }
+  ]
+}

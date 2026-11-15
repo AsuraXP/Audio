@@ -1,0 +1,419 @@
+{
+  "story": "15-perseverance",
+  "card": "card-2",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 13.536,
+  "word_count": 58,
+  "matched_words": 58,
+  "coverage": 1.0,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.087,
+      "end": 0.141,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "drill",
+      "start": 0.152,
+      "end": 0.413,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "out",
+      "start": 0.424,
+      "end": 0.565,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "pieces",
+      "start": 0.576,
+      "end": 0.946,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "of",
+      "start": 0.957,
+      "end": 1.065,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "rock",
+      "start": 1.076,
+      "end": 1.293,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "the",
+      "start": 1.304,
+      "end": 1.38,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "size",
+      "start": 1.391,
+      "end": 1.728,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "of",
+      "start": 1.739,
+      "end": 1.783,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "a",
+      "start": 1.793,
+      "end": 1.837,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "stick",
+      "start": 1.848,
+      "end": 2.076,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "of",
+      "start": 2.087,
+      "end": 2.174,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "chalk",
+      "start": 2.185,
+      "end": 2.554,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "and",
+      "start": 2.815,
+      "end": 2.913,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "seal",
+      "start": 2.924,
+      "end": 3.239,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "them",
+      "start": 3.25,
+      "end": 3.38,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "in",
+      "start": 3.391,
+      "end": 3.467,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "metal",
+      "start": 3.478,
+      "end": 3.674,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "tubes.",
+      "start": 3.685,
+      "end": 4.13,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "Some",
+      "start": 4.489,
+      "end": 4.62,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "I",
+      "start": 4.63,
+      "end": 4.706,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "carry",
+      "start": 4.717,
+      "end": 4.946,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "with",
+      "start": 4.957,
+      "end": 5.098,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "me.",
+      "start": 5.109,
+      "end": 5.25,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "Some",
+      "start": 5.62,
+      "end": 5.761,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "I",
+      "start": 5.772,
+      "end": 5.848,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "have",
+      "start": 5.859,
+      "end": 5.967,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "laid",
+      "start": 5.978,
+      "end": 6.174,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "out",
+      "start": 6.185,
+      "end": 6.326,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "on",
+      "start": 6.337,
+      "end": 6.402,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "the",
+      "start": 6.413,
+      "end": 6.478,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "ground",
+      "start": 6.489,
+      "end": 6.826,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "in",
+      "start": 6.837,
+      "end": 6.902,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "a",
+      "start": 6.913,
+      "end": 6.956,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "place",
+      "start": 6.967,
+      "end": 7.293,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "called",
+      "start": 7.304,
+      "end": 7.543,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "Three",
+      "start": 7.63,
+      "end": 7.87,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "Forks,",
+      "start": 7.88,
+      "end": 8.413,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "for",
+      "start": 8.63,
+      "end": 8.739,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "a",
+      "start": 8.75,
+      "end": 8.783,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "future",
+      "start": 8.793,
+      "end": 9.098,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "mission",
+      "start": 9.109,
+      "end": 9.391,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "to",
+      "start": 9.402,
+      "end": 9.5,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "collect.",
+      "start": 9.511,
+      "end": 9.935,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "I",
+      "start": 10.293,
+      "end": 10.37,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "cannot",
+      "start": 10.38,
+      "end": 10.641,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "bring",
+      "start": 10.652,
+      "end": 10.783,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "them",
+      "start": 10.793,
+      "end": 10.891,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "home",
+      "start": 10.902,
+      "end": 11.076,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "myself.",
+      "start": 11.087,
+      "end": 11.554,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "Somebody",
+      "start": 11.913,
+      "end": 12.141,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "will",
+      "start": 12.152,
+      "end": 12.25,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "have",
+      "start": 12.261,
+      "end": 12.424,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "to",
+      "start": 12.435,
+      "end": 12.511,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "come",
+      "start": 12.522,
+      "end": 12.728,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "and",
+      "start": 12.739,
+      "end": 12.815,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "get",
+      "start": 12.826,
+      "end": 13.022,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "them.",
+      "start": 13.033,
+      "end": 13.207,
+      "matched": true
+    }
+  ]
+}

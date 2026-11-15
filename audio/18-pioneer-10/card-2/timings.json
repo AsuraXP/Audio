@@ -1,0 +1,342 @@
+{
+  "story": "18-pioneer-10",
+  "card": "card-2",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 14.544,
+  "word_count": 47,
+  "matched_words": 45,
+  "coverage": 0.9574,
+  "words": [
+    {
+      "i": 0,
+      "text": "In",
+      "start": 0.087,
+      "end": 0.152,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "December",
+      "start": 0.152,
+      "end": 1.195,
+      "matched": false
+    },
+    {
+      "i": 2,
+      "text": "1973",
+      "start": 1.195,
+      "end": 1.717,
+      "matched": false
+    },
+    {
+      "i": 3,
+      "text": "I",
+      "start": 1.717,
+      "end": 1.826,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "became",
+      "start": 1.837,
+      "end": 2.152,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "the",
+      "start": 2.163,
+      "end": 2.228,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "first",
+      "start": 2.239,
+      "end": 2.576,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "spacecraft",
+      "start": 2.587,
+      "end": 3.239,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "to",
+      "start": 3.25,
+      "end": 3.359,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "reach",
+      "start": 3.37,
+      "end": 3.598,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "Jupiter.",
+      "start": 3.609,
+      "end": 4.043,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "I",
+      "start": 4.402,
+      "end": 4.456,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "sent",
+      "start": 4.467,
+      "end": 4.674,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "home",
+      "start": 4.685,
+      "end": 4.891,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "the",
+      "start": 4.902,
+      "end": 4.978,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "first",
+      "start": 4.989,
+      "end": 5.348,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "close-up",
+      "start": 5.359,
+      "end": 5.772,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "pictures",
+      "start": 5.783,
+      "end": 6.152,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "of",
+      "start": 6.163,
+      "end": 6.228,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "the",
+      "start": 6.239,
+      "end": 6.304,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "giant",
+      "start": 6.315,
+      "end": 6.609,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "planet.",
+      "start": 6.62,
+      "end": 7.0,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "The",
+      "start": 7.359,
+      "end": 7.413,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "radiation",
+      "start": 7.424,
+      "end": 7.913,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "around",
+      "start": 7.924,
+      "end": 8.228,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "it",
+      "start": 8.239,
+      "end": 8.304,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "was",
+      "start": 8.315,
+      "end": 8.435,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "so",
+      "start": 8.446,
+      "end": 8.663,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "strong",
+      "start": 8.674,
+      "end": 9.065,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "it",
+      "start": 9.076,
+      "end": 9.163,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "nearly",
+      "start": 9.174,
+      "end": 9.565,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "ruined",
+      "start": 9.576,
+      "end": 9.902,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "my",
+      "start": 9.913,
+      "end": 10.011,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "electronics.",
+      "start": 10.022,
+      "end": 10.761,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "That",
+      "start": 11.13,
+      "end": 11.206,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "was",
+      "start": 11.217,
+      "end": 11.326,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "useful",
+      "start": 11.337,
+      "end": 11.63,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "to",
+      "start": 11.641,
+      "end": 11.696,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "know.",
+      "start": 11.707,
+      "end": 11.924,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "Everyone",
+      "start": 12.283,
+      "end": 12.598,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "who",
+      "start": 12.609,
+      "end": 12.717,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "came",
+      "start": 12.728,
+      "end": 12.978,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "after",
+      "start": 12.989,
+      "end": 13.25,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "me",
+      "start": 13.261,
+      "end": 13.391,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "was",
+      "start": 13.402,
+      "end": 13.533,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "built",
+      "start": 13.543,
+      "end": 13.783,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "tougher.",
+      "start": 13.793,
+      "end": 14.206,
+      "matched": true
+    }
+  ]
+}

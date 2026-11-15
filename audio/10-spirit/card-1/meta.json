@@ -3,10 +3,13 @@
   "card": "card-1",
   "audio": "audio/10-spirit/card-1/narration.mp3",
   "script": "audio/10-spirit/card-1/script.txt",
+  "timings": "audio/10-spirit/card-1/timings.json",
+  "vtt": "audio/10-spirit/card-1/words.vtt",
   "voice": "en-US-AndrewNeural",
   "rate": "+15%",
   "format": "mp3",
   "bytes": 155952,
-  "duration_seconds": 25.99,
-  "words": 91
+  "duration_seconds": 25.992,
+  "words": 91,
+  "coverage": 0.956
 }

@@ -1,0 +1,433 @@
+{
+  "story": "19-pioneer-11",
+  "card": "card-3",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 16.416,
+  "word_count": 60,
+  "matched_words": 58,
+  "coverage": 0.9667,
+  "words": [
+    {
+      "i": 0,
+      "text": "After",
+      "start": 0.087,
+      "end": 0.348,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "Saturn",
+      "start": 0.359,
+      "end": 0.761,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "I",
+      "start": 0.772,
+      "end": 0.837,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "headed",
+      "start": 0.848,
+      "end": 1.13,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "out",
+      "start": 1.217,
+      "end": 1.337,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "of",
+      "start": 1.348,
+      "end": 1.413,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "the",
+      "start": 1.424,
+      "end": 1.489,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "solar",
+      "start": 1.5,
+      "end": 1.815,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "system,",
+      "start": 1.826,
+      "end": 2.206,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "in",
+      "start": 2.467,
+      "end": 2.554,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "almost",
+      "start": 2.565,
+      "end": 2.902,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "the",
+      "start": 2.913,
+      "end": 3.022,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "opposite",
+      "start": 3.109,
+      "end": 3.511,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "direction",
+      "start": 3.522,
+      "end": 3.967,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "from",
+      "start": 3.978,
+      "end": 4.12,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "my",
+      "start": 4.13,
+      "end": 4.239,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "twin.",
+      "start": 4.25,
+      "end": 4.587,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "By",
+      "start": 4.587,
+      "end": 5.058,
+      "matched": false
+    },
+    {
+      "i": 18,
+      "text": "1995",
+      "start": 5.058,
+      "end": 6.0,
+      "matched": false
+    },
+    {
+      "i": 19,
+      "text": "I",
+      "start": 6.0,
+      "end": 6.043,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "did",
+      "start": 6.054,
+      "end": 6.196,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "not",
+      "start": 6.207,
+      "end": 6.424,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "have",
+      "start": 6.435,
+      "end": 6.609,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "enough",
+      "start": 6.62,
+      "end": 6.804,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "power",
+      "start": 6.815,
+      "end": 7.141,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "to",
+      "start": 7.152,
+      "end": 7.228,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "run",
+      "start": 7.239,
+      "end": 7.413,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "my",
+      "start": 7.424,
+      "end": 7.543,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "instruments,",
+      "start": 7.554,
+      "end": 8.12,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "and",
+      "start": 8.37,
+      "end": 8.457,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "my",
+      "start": 8.467,
+      "end": 8.587,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "regular",
+      "start": 8.598,
+      "end": 8.924,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "mission",
+      "start": 8.935,
+      "end": 9.185,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "ended.",
+      "start": 9.196,
+      "end": 9.489,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "I",
+      "start": 9.859,
+      "end": 9.924,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "am",
+      "start": 9.935,
+      "end": 10.011,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "silent",
+      "start": 10.022,
+      "end": 10.348,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "now.",
+      "start": 10.359,
+      "end": 10.598,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "I",
+      "start": 10.967,
+      "end": 11.033,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "carry",
+      "start": 11.043,
+      "end": 11.283,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "the",
+      "start": 11.293,
+      "end": 11.37,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "same",
+      "start": 11.38,
+      "end": 11.652,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "small",
+      "start": 11.663,
+      "end": 11.956,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "plaque",
+      "start": 11.967,
+      "end": 12.326,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "as",
+      "start": 12.38,
+      "end": 12.467,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "Pioneer",
+      "start": 12.478,
+      "end": 12.924,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "10:",
+      "start": 12.935,
+      "end": 13.25,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "a",
+      "start": 13.63,
+      "end": 13.663,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "picture",
+      "start": 13.674,
+      "end": 14.0,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "of",
+      "start": 14.011,
+      "end": 14.076,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "the",
+      "start": 14.087,
+      "end": 14.152,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "people",
+      "start": 14.163,
+      "end": 14.456,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "who",
+      "start": 14.467,
+      "end": 14.565,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "built",
+      "start": 14.576,
+      "end": 14.837,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "me,",
+      "start": 14.848,
+      "end": 15.033,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "and",
+      "start": 15.293,
+      "end": 15.37,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "a",
+      "start": 15.38,
+      "end": 15.413,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "map",
+      "start": 15.424,
+      "end": 15.696,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "of",
+      "start": 15.707,
+      "end": 15.804,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "home.",
+      "start": 15.815,
+      "end": 16.087,
+      "matched": true
+    }
+  ]
+}

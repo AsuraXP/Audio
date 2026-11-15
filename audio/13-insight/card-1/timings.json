@@ -1,0 +1,664 @@
+{
+  "story": "13-insight",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 27.096,
+  "word_count": 93,
+  "matched_words": 87,
+  "coverage": 0.9355,
+  "words": [
+    {
+      "i": 0,
+      "text": "Most",
+      "start": 0.087,
+      "end": 0.283,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "Mars",
+      "start": 0.293,
+      "end": 0.533,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "explorers",
+      "start": 0.543,
+      "end": 1.076,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "look",
+      "start": 1.087,
+      "end": 1.207,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "around.",
+      "start": 1.217,
+      "end": 1.63,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "I",
+      "start": 1.989,
+      "end": 2.043,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "was",
+      "start": 2.054,
+      "end": 2.163,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "sent",
+      "start": 2.174,
+      "end": 2.326,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "to",
+      "start": 2.337,
+      "end": 2.402,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "listen.",
+      "start": 2.413,
+      "end": 2.717,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "I",
+      "start": 3.076,
+      "end": 3.12,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "landed",
+      "start": 3.13,
+      "end": 3.435,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "on",
+      "start": 3.446,
+      "end": 3.543,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "November",
+      "start": 3.543,
+      "end": 4.799,
+      "matched": false
+    },
+    {
+      "i": 14,
+      "text": "26,",
+      "start": 4.799,
+      "end": 5.269,
+      "matched": false
+    },
+    {
+      "i": 15,
+      "text": "2018,",
+      "start": 5.269,
+      "end": 6.054,
+      "matched": false
+    },
+    {
+      "i": 16,
+      "text": "on",
+      "start": 6.054,
+      "end": 6.13,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "a",
+      "start": 6.141,
+      "end": 6.185,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "plain",
+      "start": 6.196,
+      "end": 6.457,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "so",
+      "start": 6.467,
+      "end": 6.696,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "flat",
+      "start": 6.707,
+      "end": 7.054,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "and",
+      "start": 7.326,
+      "end": 7.402,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "plain",
+      "start": 7.413,
+      "end": 7.674,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "that",
+      "start": 7.685,
+      "end": 7.783,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "my",
+      "start": 7.793,
+      "end": 7.913,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "team",
+      "start": 7.924,
+      "end": 8.196,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "happily",
+      "start": 8.207,
+      "end": 8.62,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "called",
+      "start": 8.63,
+      "end": 8.87,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "it",
+      "start": 8.88,
+      "end": 8.956,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "the",
+      "start": 8.967,
+      "end": 9.054,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "biggest",
+      "start": 9.12,
+      "end": 9.402,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "parking",
+      "start": 9.413,
+      "end": 9.772,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "lot",
+      "start": 9.783,
+      "end": 9.989,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "on",
+      "start": 10.0,
+      "end": 10.109,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "Mars.",
+      "start": 10.12,
+      "end": 10.565,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "I",
+      "start": 10.924,
+      "end": 10.978,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "did",
+      "start": 10.989,
+      "end": 11.087,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "not",
+      "start": 11.098,
+      "end": 11.25,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "need",
+      "start": 11.261,
+      "end": 11.38,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "a",
+      "start": 11.391,
+      "end": 11.413,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "view.",
+      "start": 11.424,
+      "end": 11.685,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "I",
+      "start": 12.043,
+      "end": 12.087,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "needed",
+      "start": 12.098,
+      "end": 12.315,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "quiet.",
+      "start": 12.326,
+      "end": 12.717,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "With",
+      "start": 13.087,
+      "end": 13.207,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "my",
+      "start": 13.217,
+      "end": 13.359,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "arm",
+      "start": 13.37,
+      "end": 13.609,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "I",
+      "start": 13.728,
+      "end": 13.783,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "lifted",
+      "start": 13.793,
+      "end": 14.13,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "my",
+      "start": 14.141,
+      "end": 14.261,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "seismometer",
+      "start": 14.272,
+      "end": 14.935,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "off",
+      "start": 14.946,
+      "end": 15.12,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "my",
+      "start": 15.13,
+      "end": 15.261,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "deck",
+      "start": 15.272,
+      "end": 15.62,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "and",
+      "start": 15.739,
+      "end": 15.815,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "set",
+      "start": 15.826,
+      "end": 16.022,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "it",
+      "start": 16.033,
+      "end": 16.13,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "gently",
+      "start": 16.141,
+      "end": 16.467,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "on",
+      "start": 16.478,
+      "end": 16.554,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "the",
+      "start": 16.565,
+      "end": 16.62,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "ground,",
+      "start": 16.63,
+      "end": 16.989,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "then",
+      "start": 17.326,
+      "end": 17.456,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "covered",
+      "start": 17.467,
+      "end": 17.772,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "it",
+      "start": 17.783,
+      "end": 17.87,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "with",
+      "start": 17.88,
+      "end": 18.011,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "a",
+      "start": 18.022,
+      "end": 18.076,
+      "matched": true
+    },
+    {
+      "i": 66,
+      "text": "dome",
+      "start": 18.087,
+      "end": 18.402,
+      "matched": true
+    },
+    {
+      "i": 67,
+      "text": "to",
+      "start": 18.413,
+      "end": 18.489,
+      "matched": true
+    },
+    {
+      "i": 68,
+      "text": "keep",
+      "start": 18.5,
+      "end": 18.707,
+      "matched": true
+    },
+    {
+      "i": 69,
+      "text": "the",
+      "start": 18.717,
+      "end": 18.793,
+      "matched": true
+    },
+    {
+      "i": 70,
+      "text": "wind",
+      "start": 18.804,
+      "end": 19.011,
+      "matched": true
+    },
+    {
+      "i": 71,
+      "text": "out.",
+      "start": 19.022,
+      "end": 19.261,
+      "matched": true
+    },
+    {
+      "i": 72,
+      "text": "Then",
+      "start": 19.63,
+      "end": 19.706,
+      "matched": true
+    },
+    {
+      "i": 73,
+      "text": "I",
+      "start": 19.717,
+      "end": 19.793,
+      "matched": true
+    },
+    {
+      "i": 74,
+      "text": "waited.",
+      "start": 19.804,
+      "end": 20.141,
+      "matched": true
+    },
+    {
+      "i": 75,
+      "text": "On",
+      "start": 20.5,
+      "end": 20.62,
+      "matched": true
+    },
+    {
+      "i": 76,
+      "text": "April",
+      "start": 20.62,
+      "end": 21.616,
+      "matched": false
+    },
+    {
+      "i": 77,
+      "text": "6,",
+      "start": 21.616,
+      "end": 22.015,
+      "matched": false
+    },
+    {
+      "i": 78,
+      "text": "2019,",
+      "start": 22.015,
+      "end": 23.011,
+      "matched": false
+    },
+    {
+      "i": 79,
+      "text": "I",
+      "start": 23.011,
+      "end": 23.054,
+      "matched": true
+    },
+    {
+      "i": 80,
+      "text": "felt",
+      "start": 23.065,
+      "end": 23.304,
+      "matched": true
+    },
+    {
+      "i": 81,
+      "text": "a",
+      "start": 23.315,
+      "end": 23.348,
+      "matched": true
+    },
+    {
+      "i": 82,
+      "text": "faint",
+      "start": 23.359,
+      "end": 23.696,
+      "matched": true
+    },
+    {
+      "i": 83,
+      "text": "tremble.",
+      "start": 23.707,
+      "end": 24.109,
+      "matched": true
+    },
+    {
+      "i": 84,
+      "text": "A",
+      "start": 24.457,
+      "end": 24.489,
+      "matched": true
+    },
+    {
+      "i": 85,
+      "text": "marsquake.",
+      "start": 24.5,
+      "end": 25.043,
+      "matched": true
+    },
+    {
+      "i": 86,
+      "text": "The",
+      "start": 25.413,
+      "end": 25.456,
+      "matched": true
+    },
+    {
+      "i": 87,
+      "text": "first",
+      "start": 25.467,
+      "end": 25.739,
+      "matched": true
+    },
+    {
+      "i": 88,
+      "text": "one",
+      "start": 25.75,
+      "end": 25.859,
+      "matched": true
+    },
+    {
+      "i": 89,
+      "text": "anyone",
+      "start": 25.87,
+      "end": 26.12,
+      "matched": true
+    },
+    {
+      "i": 90,
+      "text": "had",
+      "start": 26.13,
+      "end": 26.25,
+      "matched": true
+    },
+    {
+      "i": 91,
+      "text": "ever",
+      "start": 26.261,
+      "end": 26.413,
+      "matched": true
+    },
+    {
+      "i": 92,
+      "text": "caught.",
+      "start": 26.424,
+      "end": 26.783,
+      "matched": true
+    }
+  ]
+}

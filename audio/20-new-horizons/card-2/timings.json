@@ -1,0 +1,615 @@
+{
+  "story": "20-new-horizons",
+  "card": "card-2",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 25.416,
+  "word_count": 86,
+  "matched_words": 83,
+  "coverage": 0.9651,
+  "words": [
+    {
+      "i": 0,
+      "text": "On",
+      "start": 0.087,
+      "end": 0.196,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "July",
+      "start": 0.196,
+      "end": 1.015,
+      "matched": false
+    },
+    {
+      "i": 2,
+      "text": "14,",
+      "start": 1.015,
+      "end": 1.629,
+      "matched": false
+    },
+    {
+      "i": 3,
+      "text": "2015,",
+      "start": 1.629,
+      "end": 2.652,
+      "matched": false
+    },
+    {
+      "i": 4,
+      "text": "after",
+      "start": 2.652,
+      "end": 2.88,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "nine",
+      "start": 2.891,
+      "end": 3.152,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "and",
+      "start": 3.163,
+      "end": 3.228,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "a",
+      "start": 3.239,
+      "end": 3.272,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "half",
+      "start": 3.283,
+      "end": 3.554,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "years,",
+      "start": 3.565,
+      "end": 3.967,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "I",
+      "start": 4.152,
+      "end": 4.217,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "flew",
+      "start": 4.228,
+      "end": 4.435,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "past",
+      "start": 4.446,
+      "end": 4.728,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "Pluto",
+      "start": 4.739,
+      "end": 5.141,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "at",
+      "start": 5.207,
+      "end": 5.315,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "about",
+      "start": 5.326,
+      "end": 5.554,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "14",
+      "start": 5.565,
+      "end": 6.0,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "kilometres",
+      "start": 6.011,
+      "end": 6.587,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "every",
+      "start": 6.728,
+      "end": 6.935,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "second.",
+      "start": 6.946,
+      "end": 7.348,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "I",
+      "start": 7.707,
+      "end": 7.783,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "could",
+      "start": 7.793,
+      "end": 7.891,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "not",
+      "start": 7.902,
+      "end": 8.054,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "slow",
+      "start": 8.065,
+      "end": 8.272,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "down",
+      "start": 8.283,
+      "end": 8.587,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "or",
+      "start": 8.598,
+      "end": 8.663,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "stop.",
+      "start": 8.674,
+      "end": 9.043,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "I",
+      "start": 9.402,
+      "end": 9.467,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "had",
+      "start": 9.478,
+      "end": 9.565,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "a",
+      "start": 9.576,
+      "end": 9.62,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "few",
+      "start": 9.63,
+      "end": 9.848,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "hours",
+      "start": 9.859,
+      "end": 10.141,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "to",
+      "start": 10.152,
+      "end": 10.228,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "collect",
+      "start": 10.239,
+      "end": 10.522,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "everything.",
+      "start": 10.533,
+      "end": 10.913,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "Before",
+      "start": 11.272,
+      "end": 11.5,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "me,",
+      "start": 11.511,
+      "end": 11.685,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "the",
+      "start": 11.946,
+      "end": 12.033,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "best",
+      "start": 12.043,
+      "end": 12.293,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "picture",
+      "start": 12.304,
+      "end": 12.587,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "of",
+      "start": 12.598,
+      "end": 12.674,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "Pluto",
+      "start": 12.685,
+      "end": 13.043,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "was",
+      "start": 13.054,
+      "end": 13.196,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "a",
+      "start": 13.207,
+      "end": 13.272,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "blurry",
+      "start": 13.283,
+      "end": 13.609,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "smudge.",
+      "start": 13.62,
+      "end": 14.12,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "I",
+      "start": 14.478,
+      "end": 14.522,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "showed",
+      "start": 14.533,
+      "end": 14.793,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "you",
+      "start": 14.804,
+      "end": 14.924,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "ice",
+      "start": 14.935,
+      "end": 15.13,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "mountains,",
+      "start": 15.141,
+      "end": 15.652,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "blue",
+      "start": 15.804,
+      "end": 16.022,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "skies,",
+      "start": 16.033,
+      "end": 16.587,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "and",
+      "start": 16.772,
+      "end": 16.88,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "a",
+      "start": 16.891,
+      "end": 16.935,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "bright",
+      "start": 16.946,
+      "end": 17.239,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "heart",
+      "start": 17.25,
+      "end": 17.533,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "thousands",
+      "start": 17.598,
+      "end": 18.098,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "of",
+      "start": 18.109,
+      "end": 18.174,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "kilometres",
+      "start": 18.185,
+      "end": 18.696,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "wide.",
+      "start": 18.707,
+      "end": 19.054,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "It",
+      "start": 19.413,
+      "end": 19.489,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "took",
+      "start": 19.5,
+      "end": 19.641,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "me",
+      "start": 19.652,
+      "end": 19.75,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "more",
+      "start": 19.761,
+      "end": 19.967,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "than",
+      "start": 19.978,
+      "end": 20.087,
+      "matched": true
+    },
+    {
+      "i": 66,
+      "text": "a",
+      "start": 20.098,
+      "end": 20.12,
+      "matched": true
+    },
+    {
+      "i": 67,
+      "text": "year",
+      "start": 20.13,
+      "end": 20.435,
+      "matched": true
+    },
+    {
+      "i": 68,
+      "text": "to",
+      "start": 20.446,
+      "end": 20.511,
+      "matched": true
+    },
+    {
+      "i": 69,
+      "text": "send",
+      "start": 20.522,
+      "end": 20.848,
+      "matched": true
+    },
+    {
+      "i": 70,
+      "text": "all",
+      "start": 20.967,
+      "end": 21.12,
+      "matched": true
+    },
+    {
+      "i": 71,
+      "text": "those",
+      "start": 21.13,
+      "end": 21.337,
+      "matched": true
+    },
+    {
+      "i": 72,
+      "text": "pictures",
+      "start": 21.348,
+      "end": 21.707,
+      "matched": true
+    },
+    {
+      "i": 73,
+      "text": "home,",
+      "start": 21.717,
+      "end": 22.043,
+      "matched": true
+    },
+    {
+      "i": 74,
+      "text": "because",
+      "start": 22.304,
+      "end": 22.533,
+      "matched": true
+    },
+    {
+      "i": 75,
+      "text": "I",
+      "start": 22.543,
+      "end": 22.63,
+      "matched": true
+    },
+    {
+      "i": 76,
+      "text": "am",
+      "start": 22.641,
+      "end": 22.728,
+      "matched": true
+    },
+    {
+      "i": 77,
+      "text": "so",
+      "start": 22.739,
+      "end": 22.967,
+      "matched": true
+    },
+    {
+      "i": 78,
+      "text": "far",
+      "start": 22.978,
+      "end": 23.196,
+      "matched": true
+    },
+    {
+      "i": 79,
+      "text": "away",
+      "start": 23.207,
+      "end": 23.446,
+      "matched": true
+    },
+    {
+      "i": 80,
+      "text": "that",
+      "start": 23.457,
+      "end": 23.565,
+      "matched": true
+    },
+    {
+      "i": 81,
+      "text": "my",
+      "start": 23.576,
+      "end": 23.706,
+      "matched": true
+    },
+    {
+      "i": 82,
+      "text": "connection",
+      "start": 23.717,
+      "end": 24.207,
+      "matched": true
+    },
+    {
+      "i": 83,
+      "text": "is",
+      "start": 24.348,
+      "end": 24.467,
+      "matched": true
+    },
+    {
+      "i": 84,
+      "text": "very",
+      "start": 24.478,
+      "end": 24.696,
+      "matched": true
+    },
+    {
+      "i": 85,
+      "text": "slow.",
+      "start": 24.707,
+      "end": 25.098,
+      "matched": true
+    }
+  ]
+}

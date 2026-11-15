@@ -1,0 +1,734 @@
+{
+  "story": "14-ingenuity",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 26.472,
+  "word_count": 103,
+  "matched_words": 103,
+  "coverage": 1.0,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.098,
+      "end": 0.174,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "am",
+      "start": 0.185,
+      "end": 0.25,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "small.",
+      "start": 0.261,
+      "end": 0.609,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "I",
+      "start": 0.978,
+      "end": 1.033,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "weigh",
+      "start": 1.043,
+      "end": 1.163,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "less",
+      "start": 1.174,
+      "end": 1.402,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "than",
+      "start": 1.413,
+      "end": 1.522,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "a",
+      "start": 1.533,
+      "end": 1.609,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "big",
+      "start": 1.674,
+      "end": 1.88,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "bottle",
+      "start": 1.891,
+      "end": 2.174,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "of",
+      "start": 2.185,
+      "end": 2.272,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "water,",
+      "start": 2.283,
+      "end": 2.62,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "and",
+      "start": 2.957,
+      "end": 3.0,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "I",
+      "start": 3.011,
+      "end": 3.065,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "rode",
+      "start": 3.076,
+      "end": 3.348,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "to",
+      "start": 3.359,
+      "end": 3.413,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "Mars",
+      "start": 3.424,
+      "end": 3.728,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "tucked",
+      "start": 3.739,
+      "end": 4.033,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "under",
+      "start": 4.043,
+      "end": 4.196,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "the",
+      "start": 4.207,
+      "end": 4.283,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "belly",
+      "start": 4.293,
+      "end": 4.652,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "of",
+      "start": 4.663,
+      "end": 4.728,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "a",
+      "start": 4.739,
+      "end": 4.783,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "rover",
+      "start": 4.793,
+      "end": 5.109,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "the",
+      "start": 5.12,
+      "end": 5.196,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "size",
+      "start": 5.207,
+      "end": 5.5,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "of",
+      "start": 5.511,
+      "end": 5.554,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "a",
+      "start": 5.565,
+      "end": 5.609,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "car.",
+      "start": 5.62,
+      "end": 6.0,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "My",
+      "start": 6.359,
+      "end": 6.478,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "whole",
+      "start": 6.489,
+      "end": 6.674,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "job",
+      "start": 6.685,
+      "end": 6.989,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "was",
+      "start": 7.0,
+      "end": 7.12,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "to",
+      "start": 7.13,
+      "end": 7.196,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "answer",
+      "start": 7.207,
+      "end": 7.489,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "one",
+      "start": 7.5,
+      "end": 7.63,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "question:",
+      "start": 7.641,
+      "end": 8.043,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "can",
+      "start": 8.38,
+      "end": 8.478,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "anything",
+      "start": 8.489,
+      "end": 8.75,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "fly",
+      "start": 8.761,
+      "end": 9.022,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "here?",
+      "start": 9.033,
+      "end": 9.25,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "It",
+      "start": 9.609,
+      "end": 9.663,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "was",
+      "start": 9.674,
+      "end": 9.772,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "a",
+      "start": 9.783,
+      "end": 9.826,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "fair",
+      "start": 9.837,
+      "end": 10.033,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "question.",
+      "start": 10.043,
+      "end": 10.435,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "The",
+      "start": 10.793,
+      "end": 10.859,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "air",
+      "start": 10.87,
+      "end": 11.076,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "on",
+      "start": 11.087,
+      "end": 11.217,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "Mars",
+      "start": 11.228,
+      "end": 11.565,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "is",
+      "start": 11.576,
+      "end": 11.685,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "about",
+      "start": 11.696,
+      "end": 11.891,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "a",
+      "start": 11.902,
+      "end": 11.924,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "hundred",
+      "start": 11.935,
+      "end": 12.283,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "times",
+      "start": 12.293,
+      "end": 12.609,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "thinner",
+      "start": 12.62,
+      "end": 12.913,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "than",
+      "start": 12.924,
+      "end": 13.033,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "the",
+      "start": 13.043,
+      "end": 13.098,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "air",
+      "start": 13.109,
+      "end": 13.348,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "on",
+      "start": 13.359,
+      "end": 13.489,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "Earth.",
+      "start": 13.5,
+      "end": 13.837,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "There",
+      "start": 14.207,
+      "end": 14.283,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "is",
+      "start": 14.293,
+      "end": 14.402,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "almost",
+      "start": 14.413,
+      "end": 14.772,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "nothing",
+      "start": 14.783,
+      "end": 15.12,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "for",
+      "start": 15.13,
+      "end": 15.261,
+      "matched": true
+    },
+    {
+      "i": 66,
+      "text": "a",
+      "start": 15.272,
+      "end": 15.315,
+      "matched": true
+    },
+    {
+      "i": 67,
+      "text": "blade",
+      "start": 15.326,
+      "end": 15.63,
+      "matched": true
+    },
+    {
+      "i": 68,
+      "text": "to",
+      "start": 15.641,
+      "end": 15.706,
+      "matched": true
+    },
+    {
+      "i": 69,
+      "text": "push",
+      "start": 15.717,
+      "end": 15.946,
+      "matched": true
+    },
+    {
+      "i": 70,
+      "text": "against.",
+      "start": 15.957,
+      "end": 16.391,
+      "matched": true
+    },
+    {
+      "i": 71,
+      "text": "So",
+      "start": 16.75,
+      "end": 16.859,
+      "matched": true
+    },
+    {
+      "i": 72,
+      "text": "my",
+      "start": 16.87,
+      "end": 17.0,
+      "matched": true
+    },
+    {
+      "i": 73,
+      "text": "two",
+      "start": 17.011,
+      "end": 17.261,
+      "matched": true
+    },
+    {
+      "i": 74,
+      "text": "rotors",
+      "start": 17.272,
+      "end": 17.587,
+      "matched": true
+    },
+    {
+      "i": 75,
+      "text": "spin",
+      "start": 17.598,
+      "end": 17.891,
+      "matched": true
+    },
+    {
+      "i": 76,
+      "text": "in",
+      "start": 17.902,
+      "end": 18.0,
+      "matched": true
+    },
+    {
+      "i": 77,
+      "text": "opposite",
+      "start": 18.011,
+      "end": 18.37,
+      "matched": true
+    },
+    {
+      "i": 78,
+      "text": "directions,",
+      "start": 18.38,
+      "end": 18.924,
+      "matched": true
+    },
+    {
+      "i": 79,
+      "text": "incredibly",
+      "start": 19.076,
+      "end": 19.543,
+      "matched": true
+    },
+    {
+      "i": 80,
+      "text": "fast.",
+      "start": 19.554,
+      "end": 20.033,
+      "matched": true
+    },
+    {
+      "i": 81,
+      "text": "And",
+      "start": 20.391,
+      "end": 20.489,
+      "matched": true
+    },
+    {
+      "i": 82,
+      "text": "nobody",
+      "start": 20.5,
+      "end": 20.826,
+      "matched": true
+    },
+    {
+      "i": 83,
+      "text": "could",
+      "start": 20.837,
+      "end": 20.978,
+      "matched": true
+    },
+    {
+      "i": 84,
+      "text": "steer",
+      "start": 20.989,
+      "end": 21.283,
+      "matched": true
+    },
+    {
+      "i": 85,
+      "text": "me",
+      "start": 21.293,
+      "end": 21.467,
+      "matched": true
+    },
+    {
+      "i": 86,
+      "text": "with",
+      "start": 21.478,
+      "end": 21.609,
+      "matched": true
+    },
+    {
+      "i": 87,
+      "text": "a",
+      "start": 21.62,
+      "end": 21.652,
+      "matched": true
+    },
+    {
+      "i": 88,
+      "text": "joystick,",
+      "start": 21.663,
+      "end": 22.206,
+      "matched": true
+    },
+    {
+      "i": 89,
+      "text": "because",
+      "start": 22.424,
+      "end": 22.685,
+      "matched": true
+    },
+    {
+      "i": 90,
+      "text": "radio",
+      "start": 22.696,
+      "end": 23.022,
+      "matched": true
+    },
+    {
+      "i": 91,
+      "text": "signals",
+      "start": 23.033,
+      "end": 23.446,
+      "matched": true
+    },
+    {
+      "i": 92,
+      "text": "take",
+      "start": 23.457,
+      "end": 23.674,
+      "matched": true
+    },
+    {
+      "i": 93,
+      "text": "minutes",
+      "start": 23.685,
+      "end": 24.022,
+      "matched": true
+    },
+    {
+      "i": 94,
+      "text": "to",
+      "start": 24.033,
+      "end": 24.12,
+      "matched": true
+    },
+    {
+      "i": 95,
+      "text": "cross",
+      "start": 24.13,
+      "end": 24.446,
+      "matched": true
+    },
+    {
+      "i": 96,
+      "text": "from",
+      "start": 24.457,
+      "end": 24.587,
+      "matched": true
+    },
+    {
+      "i": 97,
+      "text": "Earth.",
+      "start": 24.598,
+      "end": 24.913,
+      "matched": true
+    },
+    {
+      "i": 98,
+      "text": "I",
+      "start": 25.272,
+      "end": 25.326,
+      "matched": true
+    },
+    {
+      "i": 99,
+      "text": "had",
+      "start": 25.337,
+      "end": 25.435,
+      "matched": true
+    },
+    {
+      "i": 100,
+      "text": "to",
+      "start": 25.446,
+      "end": 25.489,
+      "matched": true
+    },
+    {
+      "i": 101,
+      "text": "fly",
+      "start": 25.5,
+      "end": 25.674,
+      "matched": true
+    },
+    {
+      "i": 102,
+      "text": "myself.",
+      "start": 25.685,
+      "end": 26.152,
+      "matched": true
+    }
+  ]
+}

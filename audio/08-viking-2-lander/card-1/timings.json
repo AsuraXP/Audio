@@ -1,0 +1,230 @@
+{
+  "story": "08-viking-2-lander",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 11.04,
+  "word_count": 31,
+  "matched_words": 28,
+  "coverage": 0.9032,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.098,
+      "end": 0.196,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "am",
+      "start": 0.207,
+      "end": 0.272,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "the",
+      "start": 0.283,
+      "end": 0.326,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "younger",
+      "start": 0.337,
+      "end": 0.598,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "twin.",
+      "start": 0.609,
+      "end": 0.913,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "My",
+      "start": 1.283,
+      "end": 1.38,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "sister,",
+      "start": 1.391,
+      "end": 1.815,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "Viking",
+      "start": 2.065,
+      "end": 2.37,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "1,",
+      "start": 2.38,
+      "end": 2.62,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "landed",
+      "start": 2.837,
+      "end": 3.098,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "first.",
+      "start": 3.109,
+      "end": 3.554,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "About",
+      "start": 3.913,
+      "end": 4.13,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "six",
+      "start": 4.141,
+      "end": 4.391,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "weeks",
+      "start": 4.402,
+      "end": 4.62,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "later,",
+      "start": 4.63,
+      "end": 4.946,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "on",
+      "start": 5.13,
+      "end": 5.196,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "September",
+      "start": 5.196,
+      "end": 6.535,
+      "matched": false
+    },
+    {
+      "i": 17,
+      "text": "3,",
+      "start": 6.535,
+      "end": 6.832,
+      "matched": false
+    },
+    {
+      "i": 18,
+      "text": "1976,",
+      "start": 6.832,
+      "end": 7.576,
+      "matched": false
+    },
+    {
+      "i": 19,
+      "text": "I",
+      "start": 7.576,
+      "end": 7.641,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "came",
+      "start": 7.652,
+      "end": 7.87,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "down",
+      "start": 7.88,
+      "end": 8.12,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "much",
+      "start": 8.13,
+      "end": 8.315,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "farther",
+      "start": 8.326,
+      "end": 8.652,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "north,",
+      "start": 8.663,
+      "end": 8.989,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "on",
+      "start": 9.239,
+      "end": 9.315,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "a",
+      "start": 9.326,
+      "end": 9.391,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "wide",
+      "start": 9.402,
+      "end": 9.696,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "plain",
+      "start": 9.707,
+      "end": 10.0,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "called",
+      "start": 10.011,
+      "end": 10.217,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "Utopia.",
+      "start": 10.228,
+      "end": 10.717,
+      "matched": true
+    }
+  ]
+}

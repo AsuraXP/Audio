@@ -3,10 +3,13 @@
   "card": "card-2",
   "audio": "audio/14-ingenuity/card-2/narration.mp3",
   "script": "audio/14-ingenuity/card-2/script.txt",
+  "timings": "audio/14-ingenuity/card-2/timings.json",
+  "vtt": "audio/14-ingenuity/card-2/words.vtt",
   "voice": "en-US-AndrewNeural",
   "rate": "+15%",
   "format": "mp3",
   "bytes": 161856,
-  "duration_seconds": 26.98,
-  "words": 88
+  "duration_seconds": 26.976,
+  "words": 88,
+  "coverage": 0.9659
 }

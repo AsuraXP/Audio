@@ -1,0 +1,629 @@
+{
+  "story": "16-voyager-1",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 26.928,
+  "word_count": 88,
+  "matched_words": 83,
+  "coverage": 0.9432,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.087,
+      "end": 0.141,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "left",
+      "start": 0.152,
+      "end": 0.402,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "Earth",
+      "start": 0.413,
+      "end": 0.587,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "on",
+      "start": 0.598,
+      "end": 0.707,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "September",
+      "start": 0.707,
+      "end": 2.107,
+      "matched": false
+    },
+    {
+      "i": 5,
+      "text": "5,",
+      "start": 2.107,
+      "end": 2.418,
+      "matched": false
+    },
+    {
+      "i": 6,
+      "text": "1977.",
+      "start": 2.418,
+      "end": 3.196,
+      "matched": false
+    },
+    {
+      "i": 7,
+      "text": "My",
+      "start": 3.196,
+      "end": 3.326,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "job",
+      "start": 3.337,
+      "end": 3.598,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "was",
+      "start": 3.609,
+      "end": 3.728,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "to",
+      "start": 3.739,
+      "end": 3.804,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "visit",
+      "start": 3.815,
+      "end": 4.098,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "two",
+      "start": 4.109,
+      "end": 4.293,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "planets,",
+      "start": 4.304,
+      "end": 4.87,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "Jupiter",
+      "start": 5.043,
+      "end": 5.424,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "and",
+      "start": 5.435,
+      "end": 5.5,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "Saturn.",
+      "start": 5.511,
+      "end": 5.891,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "I",
+      "start": 6.25,
+      "end": 6.315,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "was",
+      "start": 6.326,
+      "end": 6.456,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "built",
+      "start": 6.467,
+      "end": 6.641,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "to",
+      "start": 6.652,
+      "end": 6.728,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "last",
+      "start": 6.739,
+      "end": 7.054,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "about",
+      "start": 7.065,
+      "end": 7.25,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "five",
+      "start": 7.261,
+      "end": 7.489,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "years.",
+      "start": 7.5,
+      "end": 7.891,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "At",
+      "start": 8.25,
+      "end": 8.348,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "Jupiter",
+      "start": 8.359,
+      "end": 8.826,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "I",
+      "start": 8.902,
+      "end": 8.956,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "photographed",
+      "start": 8.967,
+      "end": 9.522,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "storms",
+      "start": 9.533,
+      "end": 9.978,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "bigger",
+      "start": 10.033,
+      "end": 10.326,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "than",
+      "start": 10.337,
+      "end": 10.446,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "Earth,",
+      "start": 10.457,
+      "end": 10.761,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "and",
+      "start": 11.011,
+      "end": 11.087,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "volcanoes",
+      "start": 11.098,
+      "end": 11.641,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "erupting",
+      "start": 11.652,
+      "end": 12.141,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "on",
+      "start": 12.152,
+      "end": 12.239,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "a",
+      "start": 12.25,
+      "end": 12.293,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "moon",
+      "start": 12.304,
+      "end": 12.609,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "called",
+      "start": 12.62,
+      "end": 12.891,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "Io.",
+      "start": 12.902,
+      "end": 13.272,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "Nobody",
+      "start": 13.63,
+      "end": 13.913,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "expected",
+      "start": 13.924,
+      "end": 14.337,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "that.",
+      "start": 14.348,
+      "end": 14.587,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "At",
+      "start": 14.946,
+      "end": 15.043,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "Saturn",
+      "start": 15.054,
+      "end": 15.424,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "I",
+      "start": 15.5,
+      "end": 15.598,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "flew",
+      "start": 15.609,
+      "end": 15.902,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "close",
+      "start": 15.913,
+      "end": 16.217,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "to",
+      "start": 16.228,
+      "end": 16.304,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "the",
+      "start": 16.315,
+      "end": 16.402,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "giant",
+      "start": 16.413,
+      "end": 16.761,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "moon",
+      "start": 16.772,
+      "end": 16.978,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "Titan",
+      "start": 16.989,
+      "end": 17.337,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "and",
+      "start": 17.587,
+      "end": 17.663,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "found",
+      "start": 17.674,
+      "end": 17.946,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "it",
+      "start": 17.957,
+      "end": 18.022,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "hidden",
+      "start": 18.033,
+      "end": 18.326,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "under",
+      "start": 18.337,
+      "end": 18.576,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "thick",
+      "start": 18.587,
+      "end": 18.935,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "orange",
+      "start": 19.033,
+      "end": 19.315,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "haze.",
+      "start": 19.326,
+      "end": 19.75,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "That",
+      "start": 19.75,
+      "end": 20.112,
+      "matched": false
+    },
+    {
+      "i": 63,
+      "text": "close",
+      "start": 20.112,
+      "end": 20.565,
+      "matched": false
+    },
+    {
+      "i": 64,
+      "text": "pass",
+      "start": 20.565,
+      "end": 20.946,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "bent",
+      "start": 20.957,
+      "end": 21.152,
+      "matched": true
+    },
+    {
+      "i": 66,
+      "text": "my",
+      "start": 21.163,
+      "end": 21.272,
+      "matched": true
+    },
+    {
+      "i": 67,
+      "text": "path",
+      "start": 21.283,
+      "end": 21.652,
+      "matched": true
+    },
+    {
+      "i": 68,
+      "text": "upward,",
+      "start": 21.728,
+      "end": 22.098,
+      "matched": true
+    },
+    {
+      "i": 69,
+      "text": "out",
+      "start": 22.435,
+      "end": 22.533,
+      "matched": true
+    },
+    {
+      "i": 70,
+      "text": "of",
+      "start": 22.543,
+      "end": 22.587,
+      "matched": true
+    },
+    {
+      "i": 71,
+      "text": "the",
+      "start": 22.598,
+      "end": 22.674,
+      "matched": true
+    },
+    {
+      "i": 72,
+      "text": "flat",
+      "start": 22.685,
+      "end": 23.043,
+      "matched": true
+    },
+    {
+      "i": 73,
+      "text": "disc",
+      "start": 23.054,
+      "end": 23.38,
+      "matched": true
+    },
+    {
+      "i": 74,
+      "text": "where",
+      "start": 23.391,
+      "end": 23.478,
+      "matched": true
+    },
+    {
+      "i": 75,
+      "text": "the",
+      "start": 23.489,
+      "end": 23.554,
+      "matched": true
+    },
+    {
+      "i": 76,
+      "text": "planets",
+      "start": 23.565,
+      "end": 23.956,
+      "matched": true
+    },
+    {
+      "i": 77,
+      "text": "travel.",
+      "start": 23.967,
+      "end": 24.402,
+      "matched": true
+    },
+    {
+      "i": 78,
+      "text": "There",
+      "start": 24.772,
+      "end": 24.848,
+      "matched": true
+    },
+    {
+      "i": 79,
+      "text": "were",
+      "start": 24.859,
+      "end": 24.946,
+      "matched": true
+    },
+    {
+      "i": 80,
+      "text": "no",
+      "start": 24.957,
+      "end": 25.141,
+      "matched": true
+    },
+    {
+      "i": 81,
+      "text": "more",
+      "start": 25.152,
+      "end": 25.37,
+      "matched": true
+    },
+    {
+      "i": 82,
+      "text": "worlds",
+      "start": 25.38,
+      "end": 25.674,
+      "matched": true
+    },
+    {
+      "i": 83,
+      "text": "ahead",
+      "start": 25.685,
+      "end": 25.88,
+      "matched": true
+    },
+    {
+      "i": 84,
+      "text": "of",
+      "start": 25.891,
+      "end": 25.946,
+      "matched": true
+    },
+    {
+      "i": 85,
+      "text": "me",
+      "start": 25.957,
+      "end": 26.087,
+      "matched": true
+    },
+    {
+      "i": 86,
+      "text": "after",
+      "start": 26.098,
+      "end": 26.337,
+      "matched": true
+    },
+    {
+      "i": 87,
+      "text": "that.",
+      "start": 26.348,
+      "end": 26.609,
+      "matched": true
+    }
+  ]
+}

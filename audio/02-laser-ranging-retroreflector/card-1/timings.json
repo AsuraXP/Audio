@@ -1,0 +1,370 @@
+{
+  "story": "02-laser-ranging-retroreflector",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 15.504,
+  "word_count": 51,
+  "matched_words": 49,
+  "coverage": 0.9608,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.087,
+      "end": 0.185,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "am",
+      "start": 0.196,
+      "end": 0.261,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "the",
+      "start": 0.272,
+      "end": 0.348,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "quietest",
+      "start": 0.359,
+      "end": 0.815,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "machine",
+      "start": 0.826,
+      "end": 1.174,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "on",
+      "start": 1.185,
+      "end": 1.272,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "the",
+      "start": 1.283,
+      "end": 1.337,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "Moon.",
+      "start": 1.348,
+      "end": 1.641,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "No",
+      "start": 2.0,
+      "end": 2.13,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "battery.",
+      "start": 2.141,
+      "end": 2.543,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "No",
+      "start": 2.902,
+      "end": 3.054,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "antenna.",
+      "start": 3.065,
+      "end": 3.446,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "No",
+      "start": 3.804,
+      "end": 3.913,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "moving",
+      "start": 3.924,
+      "end": 4.174,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "parts.",
+      "start": 4.185,
+      "end": 4.609,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "I",
+      "start": 4.978,
+      "end": 5.054,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "am",
+      "start": 5.065,
+      "end": 5.13,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "a",
+      "start": 5.141,
+      "end": 5.174,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "tray",
+      "start": 5.185,
+      "end": 5.467,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "of",
+      "start": 5.478,
+      "end": 5.587,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "100",
+      "start": 5.598,
+      "end": 6.12,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "little",
+      "start": 6.13,
+      "end": 6.315,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "glass",
+      "start": 6.326,
+      "end": 6.62,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "prisms,",
+      "start": 6.63,
+      "end": 7.087,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "about",
+      "start": 7.391,
+      "end": 7.62,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "as",
+      "start": 7.63,
+      "end": 7.717,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "wide",
+      "start": 7.728,
+      "end": 8.12,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "as",
+      "start": 8.13,
+      "end": 8.206,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "a",
+      "start": 8.217,
+      "end": 8.261,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "large",
+      "start": 8.272,
+      "end": 8.554,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "pizza.",
+      "start": 8.565,
+      "end": 9.0,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "Buzz",
+      "start": 9.359,
+      "end": 9.598,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "Aldrin",
+      "start": 9.609,
+      "end": 9.935,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "set",
+      "start": 9.946,
+      "end": 10.152,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "me",
+      "start": 10.163,
+      "end": 10.261,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "down",
+      "start": 10.272,
+      "end": 10.565,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "in",
+      "start": 10.576,
+      "end": 10.641,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "the",
+      "start": 10.652,
+      "end": 10.75,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "dust",
+      "start": 10.761,
+      "end": 11.12,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "in",
+      "start": 11.185,
+      "end": 11.293,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "July",
+      "start": 11.293,
+      "end": 12.125,
+      "matched": false
+    },
+    {
+      "i": 41,
+      "text": "1969",
+      "start": 12.125,
+      "end": 12.957,
+      "matched": false
+    },
+    {
+      "i": 42,
+      "text": "and",
+      "start": 12.957,
+      "end": 13.043,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "pointed",
+      "start": 13.054,
+      "end": 13.38,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "me",
+      "start": 13.391,
+      "end": 13.533,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "at",
+      "start": 13.543,
+      "end": 13.62,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "Earth.",
+      "start": 13.63,
+      "end": 13.946,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "Then",
+      "start": 14.315,
+      "end": 14.413,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "everyone",
+      "start": 14.424,
+      "end": 14.739,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "went",
+      "start": 14.75,
+      "end": 14.891,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "home.",
+      "start": 14.902,
+      "end": 15.174,
+      "matched": true
+    }
+  ]
+}

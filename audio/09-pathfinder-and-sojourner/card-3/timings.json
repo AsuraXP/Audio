@@ -1,0 +1,405 @@
+{
+  "story": "09-pathfinder-and-sojourner",
+  "card": "card-3",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 16.104,
+  "word_count": 56,
+  "matched_words": 53,
+  "coverage": 0.9464,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.087,
+      "end": 0.152,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "was",
+      "start": 0.163,
+      "end": 0.293,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "built",
+      "start": 0.304,
+      "end": 0.478,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "to",
+      "start": 0.489,
+      "end": 0.565,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "last",
+      "start": 0.576,
+      "end": 0.87,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "a",
+      "start": 0.88,
+      "end": 0.913,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "week.",
+      "start": 0.924,
+      "end": 1.25,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "The",
+      "start": 1.609,
+      "end": 1.663,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "lander",
+      "start": 1.674,
+      "end": 1.935,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "was",
+      "start": 1.946,
+      "end": 2.087,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "built",
+      "start": 2.098,
+      "end": 2.348,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "to",
+      "start": 2.359,
+      "end": 2.446,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "last",
+      "start": 2.457,
+      "end": 2.739,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "a",
+      "start": 2.75,
+      "end": 2.772,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "month.",
+      "start": 2.783,
+      "end": 3.141,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "We",
+      "start": 3.5,
+      "end": 3.598,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "both",
+      "start": 3.609,
+      "end": 3.826,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "kept",
+      "start": 3.837,
+      "end": 4.043,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "going",
+      "start": 4.054,
+      "end": 4.261,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "for",
+      "start": 4.272,
+      "end": 4.38,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "nearly",
+      "start": 4.391,
+      "end": 4.663,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "three",
+      "start": 4.674,
+      "end": 4.946,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "months.",
+      "start": 4.957,
+      "end": 5.467,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "On",
+      "start": 5.826,
+      "end": 5.924,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "September",
+      "start": 5.924,
+      "end": 7.345,
+      "matched": false
+    },
+    {
+      "i": 25,
+      "text": "27,",
+      "start": 7.345,
+      "end": 7.819,
+      "matched": false
+    },
+    {
+      "i": 26,
+      "text": "1997,",
+      "start": 7.819,
+      "end": 8.609,
+      "matched": false
+    },
+    {
+      "i": 27,
+      "text": "the",
+      "start": 8.609,
+      "end": 8.696,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "lander",
+      "start": 8.707,
+      "end": 9.033,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "sent",
+      "start": 9.043,
+      "end": 9.337,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "its",
+      "start": 9.424,
+      "end": 9.543,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "last",
+      "start": 9.554,
+      "end": 9.891,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "message.",
+      "start": 9.902,
+      "end": 10.391,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "I",
+      "start": 10.761,
+      "end": 10.826,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "could",
+      "start": 10.837,
+      "end": 10.946,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "only",
+      "start": 10.957,
+      "end": 11.163,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "talk",
+      "start": 11.174,
+      "end": 11.424,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "to",
+      "start": 11.435,
+      "end": 11.5,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "Earth",
+      "start": 11.511,
+      "end": 11.728,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "through",
+      "start": 11.739,
+      "end": 11.848,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "the",
+      "start": 11.859,
+      "end": 11.924,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "lander,",
+      "start": 11.935,
+      "end": 12.315,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "so",
+      "start": 12.663,
+      "end": 12.728,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "that",
+      "start": 12.739,
+      "end": 12.848,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "was",
+      "start": 12.859,
+      "end": 12.957,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "my",
+      "start": 12.967,
+      "end": 13.054,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "last",
+      "start": 13.065,
+      "end": 13.348,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "message",
+      "start": 13.359,
+      "end": 13.674,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "too.",
+      "start": 13.685,
+      "end": 13.967,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "We",
+      "start": 14.326,
+      "end": 14.402,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "are",
+      "start": 14.413,
+      "end": 14.489,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "still",
+      "start": 14.5,
+      "end": 14.696,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "here,",
+      "start": 14.707,
+      "end": 14.946,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "side",
+      "start": 15.109,
+      "end": 15.315,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "by",
+      "start": 15.326,
+      "end": 15.435,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "side.",
+      "start": 15.446,
+      "end": 15.772,
+      "matched": true
+    }
+  ]
+}

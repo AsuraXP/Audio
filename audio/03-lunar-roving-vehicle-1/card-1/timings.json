@@ -1,0 +1,559 @@
+{
+  "story": "03-lunar-roving-vehicle-1",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 22.632,
+  "word_count": 78,
+  "matched_words": 75,
+  "coverage": 0.9615,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.087,
+      "end": 0.141,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "was",
+      "start": 0.152,
+      "end": 0.261,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "the",
+      "start": 0.272,
+      "end": 0.348,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "first",
+      "start": 0.359,
+      "end": 0.652,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "car",
+      "start": 0.663,
+      "end": 0.848,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "on",
+      "start": 0.859,
+      "end": 0.935,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "the",
+      "start": 0.946,
+      "end": 1.0,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "Moon.",
+      "start": 1.011,
+      "end": 1.293,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "No",
+      "start": 1.652,
+      "end": 1.815,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "roof,",
+      "start": 1.826,
+      "end": 2.185,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "no",
+      "start": 2.413,
+      "end": 2.587,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "doors,",
+      "start": 2.598,
+      "end": 3.022,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "no",
+      "start": 3.196,
+      "end": 3.326,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "steering",
+      "start": 3.337,
+      "end": 3.685,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "wheel.",
+      "start": 3.696,
+      "end": 3.957,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "Just",
+      "start": 4.315,
+      "end": 4.478,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "a",
+      "start": 4.489,
+      "end": 4.533,
+      "matched": true
+    },
+    {
+      "i": 17,
+      "text": "T-shaped",
+      "start": 4.543,
+      "end": 5.011,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "hand",
+      "start": 5.022,
+      "end": 5.217,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "controller",
+      "start": 5.228,
+      "end": 5.652,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "between",
+      "start": 5.663,
+      "end": 5.978,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "two",
+      "start": 5.989,
+      "end": 6.163,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "seats.",
+      "start": 6.174,
+      "end": 6.652,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "I",
+      "start": 7.011,
+      "end": 7.076,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "rode",
+      "start": 7.087,
+      "end": 7.315,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "here",
+      "start": 7.326,
+      "end": 7.533,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "folded",
+      "start": 7.543,
+      "end": 7.913,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "up",
+      "start": 7.924,
+      "end": 8.098,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "like",
+      "start": 8.152,
+      "end": 8.261,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "a",
+      "start": 8.272,
+      "end": 8.315,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "camping",
+      "start": 8.326,
+      "end": 8.706,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "chair",
+      "start": 8.717,
+      "end": 8.957,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "on",
+      "start": 8.967,
+      "end": 9.033,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "the",
+      "start": 9.043,
+      "end": 9.12,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "side",
+      "start": 9.13,
+      "end": 9.402,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "of",
+      "start": 9.413,
+      "end": 9.467,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "the",
+      "start": 9.478,
+      "end": 9.543,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "lander.",
+      "start": 9.554,
+      "end": 9.978,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "On",
+      "start": 10.337,
+      "end": 10.435,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "July",
+      "start": 10.435,
+      "end": 11.261,
+      "matched": false
+    },
+    {
+      "i": 40,
+      "text": "31,",
+      "start": 11.261,
+      "end": 11.881,
+      "matched": false
+    },
+    {
+      "i": 41,
+      "text": "1971,",
+      "start": 11.881,
+      "end": 12.913,
+      "matched": false
+    },
+    {
+      "i": 42,
+      "text": "Dave",
+      "start": 12.913,
+      "end": 13.109,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "Scott",
+      "start": 13.12,
+      "end": 13.489,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "and",
+      "start": 13.609,
+      "end": 13.696,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "Jim",
+      "start": 13.707,
+      "end": 14.0,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "Irwin",
+      "start": 14.098,
+      "end": 14.391,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "unfolded",
+      "start": 14.402,
+      "end": 14.956,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "me,",
+      "start": 14.967,
+      "end": 15.141,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "strapped",
+      "start": 15.391,
+      "end": 15.75,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "in",
+      "start": 15.761,
+      "end": 15.967,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "and",
+      "start": 16.076,
+      "end": 16.141,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "drove",
+      "start": 16.152,
+      "end": 16.435,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "off.",
+      "start": 16.446,
+      "end": 16.772,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "My",
+      "start": 17.13,
+      "end": 17.261,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "front",
+      "start": 17.272,
+      "end": 17.467,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "steering",
+      "start": 17.478,
+      "end": 17.804,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "did",
+      "start": 17.815,
+      "end": 17.956,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "not",
+      "start": 17.967,
+      "end": 18.174,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "work",
+      "start": 18.185,
+      "end": 18.402,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "on",
+      "start": 18.413,
+      "end": 18.5,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "that",
+      "start": 18.511,
+      "end": 18.652,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "first",
+      "start": 18.663,
+      "end": 18.935,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "drive,",
+      "start": 18.946,
+      "end": 19.261,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "so",
+      "start": 19.511,
+      "end": 19.598,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "we",
+      "start": 19.609,
+      "end": 19.707,
+      "matched": true
+    },
+    {
+      "i": 66,
+      "text": "steered",
+      "start": 19.717,
+      "end": 19.967,
+      "matched": true
+    },
+    {
+      "i": 67,
+      "text": "with",
+      "start": 19.978,
+      "end": 20.076,
+      "matched": true
+    },
+    {
+      "i": 68,
+      "text": "my",
+      "start": 20.087,
+      "end": 20.207,
+      "matched": true
+    },
+    {
+      "i": 69,
+      "text": "rear",
+      "start": 20.217,
+      "end": 20.435,
+      "matched": true
+    },
+    {
+      "i": 70,
+      "text": "wheels.",
+      "start": 20.446,
+      "end": 20.87,
+      "matched": true
+    },
+    {
+      "i": 71,
+      "text": "By",
+      "start": 21.228,
+      "end": 21.283,
+      "matched": true
+    },
+    {
+      "i": 72,
+      "text": "the",
+      "start": 21.293,
+      "end": 21.359,
+      "matched": true
+    },
+    {
+      "i": 73,
+      "text": "next",
+      "start": 21.37,
+      "end": 21.598,
+      "matched": true
+    },
+    {
+      "i": 74,
+      "text": "day",
+      "start": 21.609,
+      "end": 21.772,
+      "matched": true
+    },
+    {
+      "i": 75,
+      "text": "it",
+      "start": 21.783,
+      "end": 21.837,
+      "matched": true
+    },
+    {
+      "i": 76,
+      "text": "was",
+      "start": 21.848,
+      "end": 21.946,
+      "matched": true
+    },
+    {
+      "i": 77,
+      "text": "working.",
+      "start": 21.957,
+      "end": 22.304,
+      "matched": true
+    }
+  ]
+}

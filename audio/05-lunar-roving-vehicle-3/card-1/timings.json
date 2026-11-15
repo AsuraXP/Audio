@@ -1,0 +1,475 @@
+{
+  "story": "05-lunar-roving-vehicle-3",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 20.04,
+  "word_count": 66,
+  "matched_words": 64,
+  "coverage": 0.9697,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.098,
+      "end": 0.174,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "am",
+      "start": 0.185,
+      "end": 0.239,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "the",
+      "start": 0.25,
+      "end": 0.315,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "last",
+      "start": 0.326,
+      "end": 0.598,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "one.",
+      "start": 0.609,
+      "end": 0.793,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "The",
+      "start": 1.163,
+      "end": 1.206,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "third",
+      "start": 1.217,
+      "end": 1.467,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "Moon",
+      "start": 1.478,
+      "end": 1.641,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "car,",
+      "start": 1.652,
+      "end": 2.022,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "on",
+      "start": 2.272,
+      "end": 2.326,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "the",
+      "start": 2.337,
+      "end": 2.402,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "final",
+      "start": 2.413,
+      "end": 2.75,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "Apollo",
+      "start": 2.761,
+      "end": 3.109,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "landing,",
+      "start": 3.12,
+      "end": 3.511,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "in",
+      "start": 3.783,
+      "end": 3.826,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "December",
+      "start": 3.826,
+      "end": 4.876,
+      "matched": false
+    },
+    {
+      "i": 16,
+      "text": "1972.",
+      "start": 4.876,
+      "end": 5.533,
+      "matched": false
+    },
+    {
+      "i": 17,
+      "text": "My",
+      "start": 5.533,
+      "end": 5.641,
+      "matched": true
+    },
+    {
+      "i": 18,
+      "text": "drivers",
+      "start": 5.652,
+      "end": 6.022,
+      "matched": true
+    },
+    {
+      "i": 19,
+      "text": "were",
+      "start": 6.033,
+      "end": 6.141,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "Gene",
+      "start": 6.152,
+      "end": 6.391,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "Cernan",
+      "start": 6.402,
+      "end": 6.793,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "and",
+      "start": 6.989,
+      "end": 7.054,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "Jack",
+      "start": 7.065,
+      "end": 7.326,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "Schmitt.",
+      "start": 7.337,
+      "end": 7.674,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "Jack",
+      "start": 8.033,
+      "end": 8.337,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "was",
+      "start": 8.348,
+      "end": 8.478,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "a",
+      "start": 8.489,
+      "end": 8.533,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "geologist,",
+      "start": 8.543,
+      "end": 9.261,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "the",
+      "start": 9.435,
+      "end": 9.522,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "first",
+      "start": 9.533,
+      "end": 9.804,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "professional",
+      "start": 9.815,
+      "end": 10.337,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "scientist",
+      "start": 10.348,
+      "end": 10.826,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "to",
+      "start": 10.837,
+      "end": 10.913,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "walk",
+      "start": 10.924,
+      "end": 11.228,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "on",
+      "start": 11.239,
+      "end": 11.326,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "the",
+      "start": 11.337,
+      "end": 11.391,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "Moon,",
+      "start": 11.402,
+      "end": 11.761,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "and",
+      "start": 12.033,
+      "end": 12.087,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "he",
+      "start": 12.098,
+      "end": 12.207,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "wanted",
+      "start": 12.217,
+      "end": 12.467,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "to",
+      "start": 12.478,
+      "end": 12.533,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "see",
+      "start": 12.543,
+      "end": 12.75,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "everything.",
+      "start": 12.761,
+      "end": 13.185,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "So",
+      "start": 13.543,
+      "end": 13.641,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "we",
+      "start": 13.652,
+      "end": 13.728,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "drove",
+      "start": 13.739,
+      "end": 13.989,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "about",
+      "start": 14.0,
+      "end": 14.228,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "36",
+      "start": 14.239,
+      "end": 14.761,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "kilometres",
+      "start": 14.772,
+      "end": 15.348,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "through",
+      "start": 15.435,
+      "end": 15.565,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "the",
+      "start": 15.576,
+      "end": 15.663,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "Taurus-Littrow",
+      "start": 15.674,
+      "end": 16.337,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "valley.",
+      "start": 16.348,
+      "end": 16.696,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "At",
+      "start": 17.054,
+      "end": 17.185,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "one",
+      "start": 17.196,
+      "end": 17.359,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "point",
+      "start": 17.37,
+      "end": 17.63,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "we",
+      "start": 17.641,
+      "end": 17.739,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "were",
+      "start": 17.75,
+      "end": 17.859,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "more",
+      "start": 17.87,
+      "end": 18.098,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "than",
+      "start": 18.109,
+      "end": 18.217,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "7",
+      "start": 18.228,
+      "end": 18.554,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "kilometres",
+      "start": 18.565,
+      "end": 19.076,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "from",
+      "start": 19.087,
+      "end": 19.217,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "the",
+      "start": 19.228,
+      "end": 19.293,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "lander.",
+      "start": 19.304,
+      "end": 19.717,
+      "matched": true
+    }
+  ]
+}

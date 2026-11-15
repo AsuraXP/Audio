@@ -1,0 +1,475 @@
+{
+  "story": "15-perseverance",
+  "card": "card-1",
+  "audio": "narration.mp3",
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "duration": 19.512,
+  "word_count": 66,
+  "matched_words": 63,
+  "coverage": 0.9545,
+  "words": [
+    {
+      "i": 0,
+      "text": "I",
+      "start": 0.098,
+      "end": 0.163,
+      "matched": true
+    },
+    {
+      "i": 1,
+      "text": "am",
+      "start": 0.174,
+      "end": 0.25,
+      "matched": true
+    },
+    {
+      "i": 2,
+      "text": "not",
+      "start": 0.261,
+      "end": 0.413,
+      "matched": true
+    },
+    {
+      "i": 3,
+      "text": "like",
+      "start": 0.424,
+      "end": 0.565,
+      "matched": true
+    },
+    {
+      "i": 4,
+      "text": "the",
+      "start": 0.576,
+      "end": 0.674,
+      "matched": true
+    },
+    {
+      "i": 5,
+      "text": "others",
+      "start": 0.685,
+      "end": 0.924,
+      "matched": true
+    },
+    {
+      "i": 6,
+      "text": "in",
+      "start": 0.935,
+      "end": 1.0,
+      "matched": true
+    },
+    {
+      "i": 7,
+      "text": "this",
+      "start": 1.011,
+      "end": 1.13,
+      "matched": true
+    },
+    {
+      "i": 8,
+      "text": "collection.",
+      "start": 1.141,
+      "end": 1.587,
+      "matched": true
+    },
+    {
+      "i": 9,
+      "text": "I",
+      "start": 1.957,
+      "end": 2.011,
+      "matched": true
+    },
+    {
+      "i": 10,
+      "text": "am",
+      "start": 2.022,
+      "end": 2.087,
+      "matched": true
+    },
+    {
+      "i": 11,
+      "text": "still",
+      "start": 2.098,
+      "end": 2.293,
+      "matched": true
+    },
+    {
+      "i": 12,
+      "text": "awake.",
+      "start": 2.304,
+      "end": 2.641,
+      "matched": true
+    },
+    {
+      "i": 13,
+      "text": "I",
+      "start": 3.011,
+      "end": 3.054,
+      "matched": true
+    },
+    {
+      "i": 14,
+      "text": "landed",
+      "start": 3.065,
+      "end": 3.402,
+      "matched": true
+    },
+    {
+      "i": 15,
+      "text": "on",
+      "start": 3.413,
+      "end": 3.522,
+      "matched": true
+    },
+    {
+      "i": 16,
+      "text": "February",
+      "start": 3.522,
+      "end": 4.777,
+      "matched": false
+    },
+    {
+      "i": 17,
+      "text": "18,",
+      "start": 4.777,
+      "end": 5.248,
+      "matched": false
+    },
+    {
+      "i": 18,
+      "text": "2021,",
+      "start": 5.248,
+      "end": 6.033,
+      "matched": false
+    },
+    {
+      "i": 19,
+      "text": "lowered",
+      "start": 6.033,
+      "end": 6.272,
+      "matched": true
+    },
+    {
+      "i": 20,
+      "text": "on",
+      "start": 6.283,
+      "end": 6.391,
+      "matched": true
+    },
+    {
+      "i": 21,
+      "text": "cables",
+      "start": 6.402,
+      "end": 6.783,
+      "matched": true
+    },
+    {
+      "i": 22,
+      "text": "from",
+      "start": 6.793,
+      "end": 6.924,
+      "matched": true
+    },
+    {
+      "i": 23,
+      "text": "a",
+      "start": 6.935,
+      "end": 6.989,
+      "matched": true
+    },
+    {
+      "i": 24,
+      "text": "rocket-powered",
+      "start": 7.0,
+      "end": 7.652,
+      "matched": true
+    },
+    {
+      "i": 25,
+      "text": "crane,",
+      "start": 7.663,
+      "end": 8.0,
+      "matched": true
+    },
+    {
+      "i": 26,
+      "text": "into",
+      "start": 8.337,
+      "end": 8.522,
+      "matched": true
+    },
+    {
+      "i": 27,
+      "text": "a",
+      "start": 8.533,
+      "end": 8.587,
+      "matched": true
+    },
+    {
+      "i": 28,
+      "text": "crater",
+      "start": 8.598,
+      "end": 9.033,
+      "matched": true
+    },
+    {
+      "i": 29,
+      "text": "called",
+      "start": 9.217,
+      "end": 9.457,
+      "matched": true
+    },
+    {
+      "i": 30,
+      "text": "Jezero.",
+      "start": 9.467,
+      "end": 9.978,
+      "matched": true
+    },
+    {
+      "i": 31,
+      "text": "Long",
+      "start": 10.337,
+      "end": 10.511,
+      "matched": true
+    },
+    {
+      "i": 32,
+      "text": "ago",
+      "start": 10.522,
+      "end": 10.815,
+      "matched": true
+    },
+    {
+      "i": 33,
+      "text": "a",
+      "start": 10.826,
+      "end": 10.87,
+      "matched": true
+    },
+    {
+      "i": 34,
+      "text": "river",
+      "start": 10.88,
+      "end": 11.261,
+      "matched": true
+    },
+    {
+      "i": 35,
+      "text": "ran",
+      "start": 11.272,
+      "end": 11.554,
+      "matched": true
+    },
+    {
+      "i": 36,
+      "text": "into",
+      "start": 11.565,
+      "end": 11.772,
+      "matched": true
+    },
+    {
+      "i": 37,
+      "text": "this",
+      "start": 11.783,
+      "end": 11.946,
+      "matched": true
+    },
+    {
+      "i": 38,
+      "text": "crater",
+      "start": 11.957,
+      "end": 12.38,
+      "matched": true
+    },
+    {
+      "i": 39,
+      "text": "and",
+      "start": 12.587,
+      "end": 12.641,
+      "matched": true
+    },
+    {
+      "i": 40,
+      "text": "filled",
+      "start": 12.652,
+      "end": 12.967,
+      "matched": true
+    },
+    {
+      "i": 41,
+      "text": "it",
+      "start": 12.978,
+      "end": 13.043,
+      "matched": true
+    },
+    {
+      "i": 42,
+      "text": "with",
+      "start": 13.054,
+      "end": 13.174,
+      "matched": true
+    },
+    {
+      "i": 43,
+      "text": "a",
+      "start": 13.185,
+      "end": 13.217,
+      "matched": true
+    },
+    {
+      "i": 44,
+      "text": "lake.",
+      "start": 13.228,
+      "end": 13.554,
+      "matched": true
+    },
+    {
+      "i": 45,
+      "text": "If",
+      "start": 13.913,
+      "end": 14.043,
+      "matched": true
+    },
+    {
+      "i": 46,
+      "text": "tiny",
+      "start": 14.054,
+      "end": 14.402,
+      "matched": true
+    },
+    {
+      "i": 47,
+      "text": "living",
+      "start": 14.413,
+      "end": 14.685,
+      "matched": true
+    },
+    {
+      "i": 48,
+      "text": "things",
+      "start": 14.696,
+      "end": 15.033,
+      "matched": true
+    },
+    {
+      "i": 49,
+      "text": "ever",
+      "start": 15.13,
+      "end": 15.359,
+      "matched": true
+    },
+    {
+      "i": 50,
+      "text": "existed",
+      "start": 15.37,
+      "end": 15.761,
+      "matched": true
+    },
+    {
+      "i": 51,
+      "text": "on",
+      "start": 15.772,
+      "end": 15.891,
+      "matched": true
+    },
+    {
+      "i": 52,
+      "text": "Mars,",
+      "start": 15.902,
+      "end": 16.326,
+      "matched": true
+    },
+    {
+      "i": 53,
+      "text": "a",
+      "start": 16.489,
+      "end": 16.543,
+      "matched": true
+    },
+    {
+      "i": 54,
+      "text": "lakeshore",
+      "start": 16.554,
+      "end": 16.978,
+      "matched": true
+    },
+    {
+      "i": 55,
+      "text": "is",
+      "start": 16.989,
+      "end": 17.098,
+      "matched": true
+    },
+    {
+      "i": 56,
+      "text": "a",
+      "start": 17.109,
+      "end": 17.185,
+      "matched": true
+    },
+    {
+      "i": 57,
+      "text": "good",
+      "start": 17.196,
+      "end": 17.435,
+      "matched": true
+    },
+    {
+      "i": 58,
+      "text": "place",
+      "start": 17.446,
+      "end": 17.728,
+      "matched": true
+    },
+    {
+      "i": 59,
+      "text": "to",
+      "start": 17.739,
+      "end": 17.826,
+      "matched": true
+    },
+    {
+      "i": 60,
+      "text": "look",
+      "start": 17.837,
+      "end": 18.098,
+      "matched": true
+    },
+    {
+      "i": 61,
+      "text": "for",
+      "start": 18.163,
+      "end": 18.283,
+      "matched": true
+    },
+    {
+      "i": 62,
+      "text": "what",
+      "start": 18.293,
+      "end": 18.402,
+      "matched": true
+    },
+    {
+      "i": 63,
+      "text": "they",
+      "start": 18.413,
+      "end": 18.5,
+      "matched": true
+    },
+    {
+      "i": 64,
+      "text": "left",
+      "start": 18.511,
+      "end": 18.739,
+      "matched": true
+    },
+    {
+      "i": 65,
+      "text": "behind.",
+      "start": 18.75,
+      "end": 19.185,
+      "matched": true
+    }
+  ]
+}

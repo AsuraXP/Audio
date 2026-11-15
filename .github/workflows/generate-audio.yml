@@ -58,17 +58,31 @@ jobs:
         run: |
           # A run started by touching RENDER_REQUEST always re-renders, because
           # the request exists precisely to regenerate the audio.
+          mkdir -p debug
+          set +e
           if [ "${{ github.event_name }}" = "push" ] || [ "${{ inputs.force }}" = "true" ]; then
-            python3 scripts/generate_audio.py --force --concurrency 4
+            python3 scripts/generate_audio.py --force --concurrency 2 2>&1 | tee debug/render.log
           else
-            python3 scripts/generate_audio.py --concurrency 4
+            python3 scripts/generate_audio.py --concurrency 2 2>&1 | tee debug/render.log
           fi
+          status=${PIPESTATUS[0]}
+          echo "render exit status: $status" >> debug/render.log
+          set -e
+          exit $status
+
+      - name: Upload the render log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-log
+          path: debug/render.log
+          if-no-files-found: ignore
 
       - name: Commit the audio
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A audio/ stories/
+          git add -A audio/ stories/ debug/ || true
           if git diff --cached --quiet; then
             echo "No audio changes to commit."
           else

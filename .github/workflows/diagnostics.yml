@@ -5,6 +5,11 @@ name: Diagnostics
 # commits it, so the result is readable without access to job logs.
 
 on:
+  # push trigger so this can run from a feature branch
+  # (workflow_dispatch only works for workflows on the default branch)
+  push:
+    paths:
+      - "diagnostics/trigger"
   workflow_dispatch:
 
 permissions:

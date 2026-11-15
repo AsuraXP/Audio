@@ -1,0 +1,203 @@
+﻿Spacecraft Stories: Card Split
+20 stories, each divided into 3 cards. Paragraphs are never broken across cards.
+Moon: 6   |   Mars: 9   |   Deep space: 5
+1. Eagle Descent Stage
+Moon  |  Apollo 11 lunar module, lower half
+Card 1 of 3
+Hello. You found me. I am the bottom half of a spacecraft called Eagle, and I have been sitting very still since July 1969.
+My job was easy to say and hard to do: carry two people down to the Moon and set them down gently. On the way down the computer flashed alarms, and Neil Armstrong took over the steering to fly us past a field of boulders. We landed with very little fuel to spare. Then he said it: "Houston, Tranquility Base here. The Eagle has landed."
+Card 2 of 3
+Neil climbed down my ladder first. Buzz Aldrin followed. For about two and a half hours they collected rocks, set up experiments and planted a flag.
+Card 3 of 3
+The next day my top half fired its engine and lifted off, using me as its launch pad. That was always the plan. Nobody was coming back for me. Buzz said he saw the flag blow over as they left.
+I don't mind. I am the proof that people were here. Look at the pictures taken from orbit and you can still see me, right where they parked.
+2. Laser Ranging Retroreflector
+Moon  |  Apollo 11 science experiment
+Card 1 of 3
+I am the quietest machine on the Moon. No battery. No antenna. No moving parts. I am a tray of 100 little glass prisms, about as wide as a large pizza.
+Buzz Aldrin set me down in the dust in July 1969 and pointed me at Earth. Then everyone went home.
+Card 2 of 3
+Not long after, a flash of laser light arrived from a telescope on Earth. I bounced it straight back. It is the only thing I know how to do, and I am very good at it.
+By timing how long the light takes to come back, about two and a half seconds, scientists can measure the distance to the Moon very precisely. That is how they learned the Moon drifts 3.8 centimetres farther away every year.
+Card 3 of 3
+They still send me light today. Some scientists think dust has dimmed my prisms a little. Everything else at this landing site went quiet long ago. I never said a word, and I never stopped answering.
+3. Lunar Roving Vehicle 1
+Moon  |  Apollo 15 Moon car
+Card 1 of 3
+I was the first car on the Moon. No roof, no doors, no steering wheel. Just a T-shaped hand controller between two seats.
+I rode here folded up like a camping chair on the side of the lander. On July 31, 1971, Dave Scott and Jim Irwin unfolded me, strapped in and drove off. My front steering did not work on that first drive, so we steered with my rear wheels. By the next day it was working.
+Card 2 of 3
+In three days we covered about 28 kilometres. We drove to the edge of a huge canyon called Hadley Rille and partway up a mountain. Up there the crew picked up a white rock that turned out to be about 4 billion years old. People call it the Genesis Rock.
+Card 3 of 3
+On the last day, Dave parked me a short way from the lander so my camera could watch them leave. First he stood in front of the camera and dropped a hammer and a feather at the same moment. With no air to slow the feather, they hit the ground together, just as Galileo said they would.
+Then the engine fired and they were gone. I am still parked here, facing the spot where they left.
+4. Lunar Roving Vehicle 2
+Moon  |  Apollo 16 Moon car
+Card 1 of 3
+I am the second Moon car, and I got the bumpy neighbourhood: the Descartes Highlands, bright hilly country that is older than the dark lunar seas.
+John Young and Charlie Duke drove me for three days in April 1972, about 27 kilometres in all. Scientists back home expected us to find rocks from ancient volcanoes. We kept finding something else: rocks smashed and stuck back together by enormous impacts. The textbooks had to change.
+Card 2 of 3
+John also took me for a test drive they called the Grand Prix. He sped up, turned hard and braked while Charlie filmed. My wheels threw up great fans of dust that dropped straight back down, because there is no air here to keep dust floating.
+Card 3 of 3
+One of the rocks we collected weighs almost 12 kilograms. It is the biggest rock any Apollo crew took home. They named it Big Muley.
+Before they left, Charlie placed a photo of his family on the ground. Then they flew home and I stayed. The photo and I have been keeping each other company ever since.
+5. Lunar Roving Vehicle 3
+Moon  |  Apollo 17 Moon car
+Card 1 of 3
+I am the last one. The third Moon car, on the final Apollo landing, in December 1972.
+My drivers were Gene Cernan and Jack Schmitt. Jack was a geologist, the first professional scientist to walk on the Moon, and he wanted to see everything. So we drove about 36 kilometres through the Taurus-Littrow valley. At one point we were more than 7 kilometres from the lander.
+Card 2 of 3
+Early on, Gene caught his hammer on my rear fender and broke a piece off. Without it, my wheel sprayed dust all over the two of them. The fix was four maps, some duct tape and two clamps. It lasted the rest of the trip.
+At a crater called Shorty, Jack suddenly called out that the soil was orange. It really was. Tiny beads of volcanic glass from an eruption more than three billion years ago.
+Card 3 of 3
+On the last day Gene parked me a short way from the lander. Someone back on Earth worked my camera by remote control, and it tilted up to follow the spacecraft as it climbed. I watched until they were a dot. That was the last Apollo crew to leave the Moon, and I still have the best view of where they left from.
+6. Surveyor 3
+Moon  |  Robotic Moon lander
+Card 1 of 3
+My landing did not go to plan. In April 1967 I came down toward the Ocean of Storms, and my engines were supposed to switch off just above the ground. They didn't. I touched down, bounced back up, touched down, bounced again, and finally settled on the third try. I ended up inside a crater.
+Card 2 of 3
+I was fine, though. And I had something no Surveyor before me had: an arm with a scoop. People on Earth sent commands and I dug four little trenches, pressed on the soil, and even dropped some on my own footpad so my camera could take a look. We learned the ground was firm, a bit like damp sand. Firm enough for astronauts.
+Two weeks after I landed, the Sun set. Night on the Moon lasts about two weeks and gets terribly cold. I never woke up.
+Card 3 of 3
+Then, two and a half years later, I had visitors. Apollo 12 landed close enough to walk over. Pete Conrad and Alan Bean looked me over, cut off my camera, my scoop and a few other pieces, and took them home so engineers could see what years on the Moon had done.
+So part of me went back to Earth. The rest of me is still here in my crater. Not many robots can say that people came to visit.
+7. Viking 1 Lander
+Mars  |  Mars lander
+Card 1 of 3
+For a long time, nobody on Earth knew what the ground on Mars looked like up close. I was sent to find out.
+I was supposed to land on July 4, 1976, but the first landing site looked too rough from orbit, so my team spent extra weeks finding a safer one. I touched down on July 20. The first thing I did was photograph my own foot, to check it was sitting on solid ground. It was.
+Card 2 of 3
+Then came the big question: is anything alive here? I scooped up soil with my arm and ran it through three small laboratories inside my body. The soil reacted in ways nobody expected. But no clear sign of life turned up. People still talk about those results.
+Card 3 of 3
+I was meant to last 90 days. I kept going for more than six years, sending weather reports from Mars the whole time.
+The end was a simple mistake. In November 1982, a command sent from Earth accidentally wrote over the instructions that told my antenna where to point. I could no longer find home. I am still here on the Golden Plain, as quiet as the rocks around me.
+8. Viking 2 Lander
+Mars  |  Mars lander
+Card 1 of 3
+I am the younger twin. My sister, Viking 1, landed first. About six weeks later, on September 3, 1976, I came down much farther north, on a wide plain called Utopia.
+Card 2 of 3
+It was not a perfect landing. One of my three feet came down on a rock, so I have been tilted about 8 degrees ever since. Everything I photographed is slightly crooked. Nobody minded.
+I did the same experiments as my sister, looking for life in the soil. I found the same strange chemistry and the same answer: no clear sign of anything living.
+Card 3 of 3
+But I saw something she could not. One winter morning, the ground around me was white. A thin coat of frost had formed on the rocks. Water ice, on Mars, right in front of my cameras.
+I kept working for more than three years. Then, in April 1980, my batteries failed and I was switched off. I am still here on Utopia, still leaning on my rock.
+9. Pathfinder & Sojourner
+Mars  |  Mars lander and its small rover
+Card 1 of 3
+There are two of us here. I am Sojourner, the little rover. The big one with the petals is my lander, Pathfinder. We do not like to be separated, so we will tell this together.
+We arrived on July 4, 1997, in a way nobody had tried before. No gentle rocket landing. We were wrapped in giant airbags and simply dropped. We bounced at least 15 times, rolled, and stopped. Then the airbags went flat, the petals opened, and there was Mars.
+Card 2 of 3
+Two days later I rolled down a ramp and became the first wheeled rover on another planet. I am the size of a microwave oven and I am not fast. In my whole mission I drove about 100 metres, and I never went far from the lander.
+I visited rocks one at a time and pressed my instrument against them to learn what they were made of. The team gave them names like Barnacle Bill and Yogi. Meanwhile the lander took thousands of pictures and kept an eye on the weather.
+Card 3 of 3
+I was built to last a week. The lander was built to last a month. We both kept going for nearly three months. On September 27, 1997, the lander sent its last message. I could only talk to Earth through the lander, so that was my last message too. We are still here, side by side.
+10. Spirit
+Mars  |  Mars Exploration Rover
+Card 1 of 3
+I landed in January 2004 inside a wrapping of airbags, bounced across Gusev Crater and rolled to a stop. My mission was supposed to last 90 days. My twin, Opportunity, landed on the other side of the planet three weeks later.
+Scientists hoped my crater was an old lakebed. At first all I found was dry lava. So I drove to the nearest hills, about three kilometres away, and climbed one. It took more than a year. I am a rover, not a mountain goat, but I got to the top.
+Card 2 of 3
+In 2006 my right front wheel stopped turning. After that I drove backwards, dragging the dead wheel behind me like a stubborn suitcase. And that is how I made my best discovery. The dragging wheel scraped up bright white soil: nearly pure silica, left behind by ancient hot water or steam. It was a place where tiny living things could once have been comfortable.
+Card 3 of 3
+In May 2009 my wheels broke through a crust into soft sand, and I was stuck. My team spent months trying to drive me out. When winter came I could not tilt my solar panels toward the Sun.
+My last message reached Earth on March 22, 2010. My team kept calling for more than a year, just in case. I am still here beside Home Plate. I did not find a lake. I found something nobody was looking for, with a wheel that did not work.
+11. Opportunity
+Mars  |  Mars Exploration Rover
+Card 1 of 3
+My friends call me Oppy. I landed on January 25, 2004, three weeks after my twin, Spirit. My airbags bounced me across a flat plain and dropped me into a small crater. A hole in one. And right there in the crater wall was the layered rock my team had dreamed of.
+In those rocks I found little round pebbles, like blueberries in a muffin. They are made of a mineral that forms in water. Within two months I had my answer: this dry plain was once soaked.
+Card 2 of 3
+I was supposed to last 90 days and drive about a kilometre. So I just kept going. I got stuck in a sand dune for weeks and wriggled free. I explored one crater after another, each bigger than the last. I found a meteorite. In 2015 I finished a marathon. It took me 11 years, which I believe is a record of some kind.
+Card 3 of 3
+In 2018 I was working in a place called Perseverance Valley when a dust storm began. It grew until it covered the whole planet. The sky went dark in the middle of the day. I run on sunlight, and there was no sunlight. On June 10, 2018, I sent my power level and a measurement of the dust in the sky. Then I went to sleep to save energy.
+My team called me more than a thousand times over the next eight months. I did not answer. On February 13, 2019, they said goodbye. I do not think of it as a sad ending. I was asked for 90 days and I gave them more than 14 years.
+12. Phoenix
+Mars  |  Mars polar lander
+Card 1 of 3
+I am the one who went north. Far north, to the Martian arctic, where no lander had been before. I came down on rockets on May 25, 2008, opened my two round solar panels like fans, and looked around. Flat, frozen ground, cracked into shapes like paving stones, all the way to the horizon.
+Card 2 of 3
+I had a long arm with a scoop, and I started digging. A few centimetres down I hit something white. My team watched it for four days. Bit by bit the white chunks disappeared. Salt would not do that. Ice would. I had touched water on Mars.
+I baked soil in my tiny ovens and tested it in my little chemistry lab. I watched clouds drift over, and one day my laser saw snow falling from them.
+Card 3 of 3
+I always knew I would not last. In the far north the Sun sinks lower every day in autumn, and I run on sunlight. Dust storms made it worse. On November 2, 2008, I sent my last signal.
+Then winter came and buried me in dry-ice frost. Pictures taken from orbit later showed my solar panels had been damaged, probably by the weight of that ice. I had five months. I found what I was sent to find.
+13. InSight
+Mars  |  Mars lander
+Card 1 of 3
+Most Mars explorers look around. I was sent to listen. I landed on November 26, 2018, on a plain so flat and plain that my team happily called it the biggest parking lot on Mars. I did not need a view. I needed quiet.
+With my arm I lifted my seismometer off my deck and set it gently on the ground, then covered it with a dome to keep the wind out. Then I waited. On April 6, 2019, I felt a faint tremble. A marsquake. The first one anyone had ever caught.
+Card 2 of 3
+I felt more than 1,300 of them. Each one sent waves down through the planet and back, and those waves drew a picture of the inside of Mars: crust, mantle, and a molten core.
+Not everything worked. I carried a heat probe called the mole that was meant to hammer itself five metres into the ground. The soil here clumped in a way nobody expected, and the mole kept popping back out. My team tried for almost two years to help it with my arm. In the end they had to stop. That is how exploring goes sometimes.
+Card 3 of 3
+Dust slowly covered my solar panels, and my power faded a little more each month. I kept my seismometer running as long as I could. My last message reached Earth on December 15, 2022. I am still sitting on my parking lot, and Mars is still quietly shaking underneath me.
+14. Ingenuity
+Mars  |  Mars helicopter
+Card 1 of 3
+I am small. I weigh less than a big bottle of water, and I rode to Mars tucked under the belly of a rover the size of a car. My whole job was to answer one question: can anything fly here?
+It was a fair question. The air on Mars is about a hundred times thinner than the air on Earth. There is almost nothing for a blade to push against. So my two rotors spin in opposite directions, incredibly fast. And nobody could steer me with a joystick, because radio signals take minutes to cross from Earth. I had to fly myself.
+Card 2 of 3
+On April 19, 2021, I spun up, lifted 3 metres off the ground, hovered, and came back down. Thirty-nine seconds. Under my solar panel I carry a scrap of cloth from the Wright brothers' first aeroplane. First flight on Earth, first flight on Mars.
+I was supposed to fly five times at most. I flew 72 times. I flew higher, faster and farther, and I became a scout for my rover, looking over the next hill. I got through a Martian winter and more than one rough landing.
+Card 3 of 3
+On my 72nd flight, on January 18, 2024, I came down over smooth, rippled sand with few rocks for my camera to track. My rotor blades were damaged in the landing, and I cannot fly again. I am sitting on a sand ripple in Jezero Crater. I was only ever a test. The test went rather well.
+15. Perseverance
+Mars  |  Mars rover (still exploring)
+Card 1 of 3
+I am not like the others in this collection. I am still awake.
+I landed on February 18, 2021, lowered on cables from a rocket-powered crane, into a crater called Jezero. Long ago a river ran into this crater and filled it with a lake. If tiny living things ever existed on Mars, a lakeshore is a good place to look for what they left behind.
+Card 2 of 3
+I drill out pieces of rock the size of a stick of chalk and seal them in metal tubes. Some I carry with me. Some I have laid out on the ground in a place called Three Forks, for a future mission to collect. I cannot bring them home myself. Somebody will have to come and get them.
+Card 3 of 3
+I brought a friend, a small helicopter named Ingenuity. I set it down, backed away, and filmed its first flight. It flew 72 times. It is silent now, and I have driven on.
+I know about the ones who came before me: the Vikings, little Sojourner, Spirit, Opportunity, Phoenix, InSight. Every one of them taught my builders something that is now part of me. One day I will go quiet too. Until then, I have work to do.
+16. Voyager 1
+Deep space  |  Interstellar probe
+Card 1 of 3
+I left Earth on September 5, 1977. My job was to visit two planets, Jupiter and Saturn. I was built to last about five years.
+At Jupiter I photographed storms bigger than Earth, and volcanoes erupting on a moon called Io. Nobody expected that. At Saturn I flew close to the giant moon Titan and found it hidden under thick orange haze. That close pass bent my path upward, out of the flat disc where the planets travel. There were no more worlds ahead of me after that.
+Card 2 of 3
+In 1990, my team asked me to turn around and take one last set of pictures. From six billion kilometres away, Earth was a pale blue dot, smaller than a single pixel. Then they switched my cameras off for good, to save power.
+I kept flying. In August 2012 I crossed the edge of the Sun's bubble and entered the space between the stars. I was the first thing from Earth ever to do that.
+Card 3 of 3
+I am still talking to you. My signal is fainter than a whisper by the time it arrives, and it takes most of a day to reach you. My power drops a little every year, and my team switches off instruments one by one to keep me going. One day I will go quiet. But I will keep travelling, carrying my Golden Record, for longer than anyone can imagine.
+17. Voyager 2
+Deep space  |  Interstellar probe
+Card 1 of 3
+I am the second Voyager, even though I left first. I launched on August 20, 1977, on the slower road.
+The slow road turned out to be the grand one. In the late 1970s the four giant planets were lined up in a way that happens only about once every 175 years. Each planet's gravity could fling me on to the next. Jupiter in 1979. Saturn in 1981. And then my team asked: can you keep going?
+Card 2 of 3
+I could. In 1986 I reached Uranus, a pale blue-green world tipped on its side. In 1989 I reached Neptune, deep blue, with a dark storm as wide as Earth, and a frozen moon with geysers. No spacecraft had been to either planet before me. None has been since. Almost everything in your books about those two worlds up close came from my few hours there.
+Card 3 of 3
+After Neptune I dived south, below the plane of the planets. In November 2018 I crossed into interstellar space, six years after my twin.
+I am still sending data home. The two of us are flying in different directions and will never meet again. But we carry the same Golden Record, with the same hello from the same small planet.
+18. Pioneer 10
+Deep space  |  Outer solar system probe
+Card 1 of 3
+Somebody has to go first. In 1972, that was me.
+Between Mars and Jupiter there is a wide belt of asteroids. Before I launched, nobody knew if a spacecraft could cross it. Some people thought I would be hit and destroyed. I spent seven months flying through, and I came out the other side without a scratch that mattered. The road to the outer planets was open.
+Card 2 of 3
+In December 1973 I became the first spacecraft to reach Jupiter. I sent home the first close-up pictures of the giant planet. The radiation around it was so strong it nearly ruined my electronics. That was useful to know. Everyone who came after me was built tougher.
+Card 3 of 3
+Then I simply kept going. In 1983 I passed the orbit of Neptune. My signal grew weaker every year, until the biggest antennas on Earth could barely hear it.
+My last faint signal arrived in January 2003. I was planned for 21 months and I spoke for more than 30 years. I am silent now, coasting toward the stars with a small plaque on my side. It shows who sent me, and where to find you.
+19. Pioneer 11
+Deep space  |  Outer solar system probe
+Card 1 of 3
+My twin, Pioneer 10, went first and proved the way was open. I launched a year later, in April 1973, and I was sent to do something riskier.
+I flew past Jupiter three times closer than my twin had. I dived in fast, to spend as little time as possible in the radiation, and I got the first good look at the top of the planet. Then Jupiter's gravity flung me up and across the whole solar system, toward a planet no spacecraft had ever visited.
+Card 2 of 3
+The trip took almost five years. On September 1, 1979, I reached Saturn. I flew just outside the bright rings and found a thin new one. I was also a scout. Two bigger spacecraft, the Voyagers, were coming behind me, and their team needed to know if flying past the rings was safe. I went through. I was fine. So they knew.
+Card 3 of 3
+After Saturn I headed out of the solar system, in almost the opposite direction from my twin.
+By 1995 I did not have enough power to run my instruments, and my regular mission ended. I am silent now. I carry the same small plaque as Pioneer 10: a picture of the people who built me, and a map of home.
+20. New Horizons
+Deep space  |  Pluto and Kuiper Belt probe
+Card 1 of 3
+I am the youngest one out here. I launched in January 2006, faster than anything had ever left Earth, on my way to the last unexplored planet. Seven months later, astronomers decided Pluto should be called a dwarf planet instead. I kept going. A world is a world.
+Jupiter gave me a push in 2007. After that I mostly slept, year after year, waking up now and then to check that everything still worked.
+Card 2 of 3
+On July 14, 2015, after nine and a half years, I flew past Pluto at about 14 kilometres every second. I could not slow down or stop. I had a few hours to collect everything. Before me, the best picture of Pluto was a blurry smudge. I showed you ice mountains, blue skies, and a bright heart thousands of kilometres wide.
+It took me more than a year to send all those pictures home, because I am so far away that my connection is very slow.
+Card 3 of 3
+I did not stop there. On January 1, 2019, I flew past a small frozen object called Arrokoth, the most distant world any spacecraft has ever visited. I am still awake, still flying outward through the Kuiper Belt, measuring the dust and the faint light out here. The Pioneers and Voyagers went this way before me. I am following them out.

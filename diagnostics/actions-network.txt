@@ -1,0 +1,22 @@
+run:           43691379282
+runner:        Linux 7.0.0-1019-azure x86_64
+python:        Python 3.12.16
+edge-tts:      7.3.1
+date:          2026-11-15T07:45:56Z
+
+--- DNS ---
+2620:1ec:33::10 ax-0001.ax-msedge.net speech.platform.bing.com speech-platform-bing-com.ax-0001.ax-msedge.net
+2620:1ec:33:1::10 ax-0001.ax-msedge.net speech.platform.bing.com speech-platform-bing-com.ax-0001.ax-msedge.net
+
+--- TCP 443 ---
+tcp connect: OK
+
+--- TLS + voices list (curl) ---
+http_code=200 time=0.219914s
+
+--- actual synthesis through edge-tts (Andrew Neural, +15%) ---
+synthesis elapsed: 3s
+-rw-r--r-- 1 runner runner 24048 Nov 15 07:45 /tmp/probe.mp3
+
+--- verdict ---
+RESULT: edge-tts WORKS on this runner

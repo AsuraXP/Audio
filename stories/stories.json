@@ -1,0 +1,644 @@
+{
+  "stories": [
+    {
+      "number": 1,
+      "title": "Eagle Descent Stage",
+      "meta": "Moon  |  Apollo 11 lunar module, lower half",
+      "folder": "01-eagle-descent-stage",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/01-eagle-descent-stage/card-1/narration.mp3",
+          "script": "audio/01-eagle-descent-stage/card-1/script.txt",
+          "words": 89
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/01-eagle-descent-stage/card-2/narration.mp3",
+          "script": "audio/01-eagle-descent-stage/card-2/script.txt",
+          "words": 26
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/01-eagle-descent-stage/card-3/narration.mp3",
+          "script": "audio/01-eagle-descent-stage/card-3/script.txt",
+          "words": 68
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Laser Ranging Retroreflector",
+      "meta": "Moon  |  Apollo 11 science experiment",
+      "folder": "02-laser-ranging-retroreflector",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/02-laser-ranging-retroreflector/card-1/narration.mp3",
+          "script": "audio/02-laser-ranging-retroreflector/card-1/script.txt",
+          "words": 51
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/02-laser-ranging-retroreflector/card-2/narration.mp3",
+          "script": "audio/02-laser-ranging-retroreflector/card-2/script.txt",
+          "words": 76
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/02-laser-ranging-retroreflector/card-3/narration.mp3",
+          "script": "audio/02-laser-ranging-retroreflector/card-3/script.txt",
+          "words": 36
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Lunar Roving Vehicle 1",
+      "meta": "Moon  |  Apollo 15 Moon car",
+      "folder": "03-lunar-roving-vehicle-1",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/03-lunar-roving-vehicle-1/card-1/narration.mp3",
+          "script": "audio/03-lunar-roving-vehicle-1/card-1/script.txt",
+          "words": 78
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/03-lunar-roving-vehicle-1/card-2/narration.mp3",
+          "script": "audio/03-lunar-roving-vehicle-1/card-2/script.txt",
+          "words": 50
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/03-lunar-roving-vehicle-1/card-3/narration.mp3",
+          "script": "audio/03-lunar-roving-vehicle-1/card-3/script.txt",
+          "words": 76
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Lunar Roving Vehicle 2",
+      "meta": "Moon  |  Apollo 16 Moon car",
+      "folder": "04-lunar-roving-vehicle-2",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/04-lunar-roving-vehicle-2/card-1/narration.mp3",
+          "script": "audio/04-lunar-roving-vehicle-2/card-1/script.txt",
+          "words": 74
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/04-lunar-roving-vehicle-2/card-2/narration.mp3",
+          "script": "audio/04-lunar-roving-vehicle-2/card-2/script.txt",
+          "words": 46
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/04-lunar-roving-vehicle-2/card-3/narration.mp3",
+          "script": "audio/04-lunar-roving-vehicle-2/card-3/script.txt",
+          "words": 57
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Lunar Roving Vehicle 3",
+      "meta": "Moon  |  Apollo 17 Moon car",
+      "folder": "05-lunar-roving-vehicle-3",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/05-lunar-roving-vehicle-3/card-1/narration.mp3",
+          "script": "audio/05-lunar-roving-vehicle-3/card-1/script.txt",
+          "words": 66
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/05-lunar-roving-vehicle-3/card-2/narration.mp3",
+          "script": "audio/05-lunar-roving-vehicle-3/card-2/script.txt",
+          "words": 76
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/05-lunar-roving-vehicle-3/card-3/narration.mp3",
+          "script": "audio/05-lunar-roving-vehicle-3/card-3/script.txt",
+          "words": 63
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Surveyor 3",
+      "meta": "Moon  |  Robotic Moon lander",
+      "folder": "06-surveyor-3",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/06-surveyor-3/card-1/narration.mp3",
+          "script": "audio/06-surveyor-3/card-1/script.txt",
+          "words": 55
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/06-surveyor-3/card-2/narration.mp3",
+          "script": "audio/06-surveyor-3/card-2/script.txt",
+          "words": 87
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/06-surveyor-3/card-3/narration.mp3",
+          "script": "audio/06-surveyor-3/card-3/script.txt",
+          "words": 80
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Viking 1 Lander",
+      "meta": "Mars  |  Mars lander",
+      "folder": "07-viking-1-lander",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/07-viking-1-lander/card-1/narration.mp3",
+          "script": "audio/07-viking-1-lander/card-1/script.txt",
+          "words": 78
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/07-viking-1-lander/card-2/narration.mp3",
+          "script": "audio/07-viking-1-lander/card-2/script.txt",
+          "words": 47
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/07-viking-1-lander/card-3/narration.mp3",
+          "script": "audio/07-viking-1-lander/card-3/script.txt",
+          "words": 70
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Viking 2 Lander",
+      "meta": "Mars  |  Mars lander",
+      "folder": "08-viking-2-lander",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/08-viking-2-lander/card-1/narration.mp3",
+          "script": "audio/08-viking-2-lander/card-1/script.txt",
+          "words": 31
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/08-viking-2-lander/card-2/narration.mp3",
+          "script": "audio/08-viking-2-lander/card-2/script.txt",
+          "words": 64
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/08-viking-2-lander/card-3/narration.mp3",
+          "script": "audio/08-viking-2-lander/card-3/script.txt",
+          "words": 67
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Pathfinder & Sojourner",
+      "meta": "Mars  |  Mars lander and its small rover",
+      "folder": "09-pathfinder-and-sojourner",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/09-pathfinder-and-sojourner/card-1/narration.mp3",
+          "script": "audio/09-pathfinder-and-sojourner/card-1/script.txt",
+          "words": 82
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/09-pathfinder-and-sojourner/card-2/narration.mp3",
+          "script": "audio/09-pathfinder-and-sojourner/card-2/script.txt",
+          "words": 91
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/09-pathfinder-and-sojourner/card-3/narration.mp3",
+          "script": "audio/09-pathfinder-and-sojourner/card-3/script.txt",
+          "words": 56
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Spirit",
+      "meta": "Mars  |  Mars Exploration Rover",
+      "folder": "10-spirit",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/10-spirit/card-1/narration.mp3",
+          "script": "audio/10-spirit/card-1/script.txt",
+          "words": 91
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/10-spirit/card-2/narration.mp3",
+          "script": "audio/10-spirit/card-2/script.txt",
+          "words": 64
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/10-spirit/card-3/narration.mp3",
+          "script": "audio/10-spirit/card-3/script.txt",
+          "words": 86
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Opportunity",
+      "meta": "Mars  |  Mars Exploration Rover",
+      "folder": "11-opportunity",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/11-opportunity/card-1/narration.mp3",
+          "script": "audio/11-opportunity/card-1/script.txt",
+          "words": 88
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/11-opportunity/card-2/narration.mp3",
+          "script": "audio/11-opportunity/card-2/script.txt",
+          "words": 64
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/11-opportunity/card-3/narration.mp3",
+          "script": "audio/11-opportunity/card-3/script.txt",
+          "words": 118
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Phoenix",
+      "meta": "Mars  |  Mars polar lander",
+      "folder": "12-phoenix",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/12-phoenix/card-1/narration.mp3",
+          "script": "audio/12-phoenix/card-1/script.txt",
+          "words": 54
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/12-phoenix/card-2/narration.mp3",
+          "script": "audio/12-phoenix/card-2/script.txt",
+          "words": 77
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/12-phoenix/card-3/narration.mp3",
+          "script": "audio/12-phoenix/card-3/script.txt",
+          "words": 78
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "InSight",
+      "meta": "Mars  |  Mars lander",
+      "folder": "13-insight",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/13-insight/card-1/narration.mp3",
+          "script": "audio/13-insight/card-1/script.txt",
+          "words": 93
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/13-insight/card-2/narration.mp3",
+          "script": "audio/13-insight/card-2/script.txt",
+          "words": 98
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/13-insight/card-3/narration.mp3",
+          "script": "audio/13-insight/card-3/script.txt",
+          "words": 50
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Ingenuity",
+      "meta": "Mars  |  Mars helicopter",
+      "folder": "14-ingenuity",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/14-ingenuity/card-1/narration.mp3",
+          "script": "audio/14-ingenuity/card-1/script.txt",
+          "words": 103
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/14-ingenuity/card-2/narration.mp3",
+          "script": "audio/14-ingenuity/card-2/script.txt",
+          "words": 88
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/14-ingenuity/card-3/narration.mp3",
+          "script": "audio/14-ingenuity/card-3/script.txt",
+          "words": 57
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Perseverance",
+      "meta": "Mars  |  Mars rover (still exploring)",
+      "folder": "15-perseverance",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/15-perseverance/card-1/narration.mp3",
+          "script": "audio/15-perseverance/card-1/script.txt",
+          "words": 66
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/15-perseverance/card-2/narration.mp3",
+          "script": "audio/15-perseverance/card-2/script.txt",
+          "words": 58
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/15-perseverance/card-3/narration.mp3",
+          "script": "audio/15-perseverance/card-3/script.txt",
+          "words": 78
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Voyager 1",
+      "meta": "Deep space  |  Interstellar probe",
+      "folder": "16-voyager-1",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/16-voyager-1/card-1/narration.mp3",
+          "script": "audio/16-voyager-1/card-1/script.txt",
+          "words": 88
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/16-voyager-1/card-2/narration.mp3",
+          "script": "audio/16-voyager-1/card-2/script.txt",
+          "words": 75
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/16-voyager-1/card-3/narration.mp3",
+          "script": "audio/16-voyager-1/card-3/script.txt",
+          "words": 69
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Voyager 2",
+      "meta": "Deep space  |  Interstellar probe",
+      "folder": "17-voyager-2",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/17-voyager-2/card-1/narration.mp3",
+          "script": "audio/17-voyager-2/card-1/script.txt",
+          "words": 77
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/17-voyager-2/card-2/narration.mp3",
+          "script": "audio/17-voyager-2/card-2/script.txt",
+          "words": 66
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/17-voyager-2/card-3/narration.mp3",
+          "script": "audio/17-voyager-2/card-3/script.txt",
+          "words": 60
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Pioneer 10",
+      "meta": "Deep space  |  Outer solar system probe",
+      "folder": "18-pioneer-10",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/18-pioneer-10/card-1/narration.mp3",
+          "script": "audio/18-pioneer-10/card-1/script.txt",
+          "words": 67
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/18-pioneer-10/card-2/narration.mp3",
+          "script": "audio/18-pioneer-10/card-2/script.txt",
+          "words": 47
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/18-pioneer-10/card-3/narration.mp3",
+          "script": "audio/18-pioneer-10/card-3/script.txt",
+          "words": 76
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Pioneer 11",
+      "meta": "Deep space  |  Outer solar system probe",
+      "folder": "19-pioneer-11",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/19-pioneer-11/card-1/narration.mp3",
+          "script": "audio/19-pioneer-11/card-1/script.txt",
+          "words": 86
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/19-pioneer-11/card-2/narration.mp3",
+          "script": "audio/19-pioneer-11/card-2/script.txt",
+          "words": 62
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/19-pioneer-11/card-3/narration.mp3",
+          "script": "audio/19-pioneer-11/card-3/script.txt",
+          "words": 60
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "New Horizons",
+      "meta": "Deep space  |  Pluto and Kuiper Belt probe",
+      "folder": "20-new-horizons",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/20-new-horizons/card-1/narration.mp3",
+          "script": "audio/20-new-horizons/card-1/script.txt",
+          "words": 74
+        },
+        {
+          "card": 2,
+          "of": 3,
+          "folder": "card-2",
+          "audio": "audio/20-new-horizons/card-2/narration.mp3",
+          "script": "audio/20-new-horizons/card-2/script.txt",
+          "words": 86
+        },
+        {
+          "card": 3,
+          "of": 3,
+          "folder": "card-3",
+          "audio": "audio/20-new-horizons/card-3/narration.mp3",
+          "script": "audio/20-new-horizons/card-3/script.txt",
+          "words": 61
+        }
+      ]
+    }
+  ]
+}

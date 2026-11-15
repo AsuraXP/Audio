@@ -15,18 +15,19 @@ Source format::
     Card 2 of 3
     <paragraph>
 
-    ...
+Output layout -- one folder per story, one subfolder per card::
 
-Output::
+    <story>/<card>/script.txt
 
-    cards/nn-slug/card-n-of-3.txt
+e.g. ``audio/01-eagle-descent-stage/card-1/script.txt``
 
-Usage:  python scripts/parse_cards.py [--check]
+Usage:  python3 scripts/parse_cards.py [--check]
 """
 
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 import unicodedata
@@ -34,7 +35,8 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SOURCE = REPO_ROOT / "stories" / "spacecraft_stories_cards.txt"
-CARDS_DIR = REPO_ROOT / "cards"
+AUDIO_DIR = REPO_ROOT / "audio"
+STORIES_MANIFEST = REPO_ROOT / "stories" / "stories.json"
 
 STORY_RE = re.compile(r"^(\d{1,2})\.\s+(.+?)\s*$")
 CARD_RE = re.compile(r"^Card\s+(\d+)\s+of\s+(\d+)\s*$")
@@ -98,18 +100,30 @@ def card_text(card: dict) -> str:
     return "\n\n".join(card["paragraphs"])
 
 
+def folder_name(story: dict) -> str:
+    return f"{story['number']:02d}-{story['slug']}"
+
+
+def card_folder(card: dict) -> str:
+    return f"card-{card['index']}"
+
+
 def validate(stories: list[dict]) -> list[str]:
     errors = []
     if len(stories) != 20:
         errors.append(f"expected 20 stories, found {len(stories)}")
     for story in stories:
         if len(story["cards"]) != 3:
-            errors.append(f"{story['number']}. {story['title']}: expected 3 cards, found {len(story['cards'])}")
+            errors.append(
+                f"{story['number']}. {story['title']}: expected 3 cards, found {len(story['cards'])}"
+            )
         for card in story["cards"]:
             if not card["paragraphs"]:
                 errors.append(f"{story['number']}. {story['title']} card {card['index']}: no text")
             if card["total"] != 3:
-                errors.append(f"{story['number']}. {story['title']} card {card['index']}: total {card['total']} != 3")
+                errors.append(
+                    f"{story['number']}. {story['title']} card {card['index']}: total {card['total']} != 3"
+                )
     return errors
 
 
@@ -129,19 +143,45 @@ def main() -> int:
             print(f"error: {err}", file=sys.stderr)
         return 1
 
-    total_cards = 0
-    for story in stories:
-        for card in story["cards"]:
-            total_cards += 1
-            if args.check:
-                continue
-            folder = CARDS_DIR / f"{story['number']:02d}-{story['slug']}"
-            folder.mkdir(parents=True, exist_ok=True)
-            out = folder / f"card-{card['index']}-of-{card['total']}.txt"
-            out.write_text(card_text(card) + "\n", encoding="utf-8")
+    if args.check:
+        print(f"parsed {len(stories)} stories, {sum(len(s['cards']) for s in stories)} cards (validated only)")
+        return 0
 
-    print(f"parsed {len(stories)} stories, {total_cards} cards"
-          + (" (validated only)" if args.check else f" -> {CARDS_DIR}"))
+    manifest = {"stories": []}
+    for story in stories:
+        story_folder = folder_name(story)
+        for card in story["cards"]:
+            # One folder per story, one subfolder per card.
+            out_dir = AUDIO_DIR / story_folder / card_folder(card)
+            out_dir.mkdir(parents=True, exist_ok=True)
+            (out_dir / "script.txt").write_text(card_text(card) + "\n", encoding="utf-8")
+
+        manifest["stories"].append(
+            {
+                "number": story["number"],
+                "title": story["title"],
+                "meta": story["meta"],
+                "folder": story_folder,
+                "cards": [
+                    {
+                        "card": card["index"],
+                        "of": card["total"],
+                        "folder": card_folder(card),
+                        "audio": f"audio/{story_folder}/{card_folder(card)}/narration.mp3",
+                        "script": f"audio/{story_folder}/{card_folder(card)}/script.txt",
+                        "words": len(card_text(card).split()),
+                    }
+                    for card in story["cards"]
+                ],
+            }
+        )
+
+    STORIES_MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+    STORIES_MANIFEST.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+
+    total_cards = sum(len(s["cards"]) for s in stories)
+    print(f"parsed {len(stories)} stories, {total_cards} cards -> {AUDIO_DIR}")
+    print(f"stories index -> {STORIES_MANIFEST.relative_to(REPO_ROOT)}")
     return 0
 
 

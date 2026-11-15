@@ -1,60 +1,115 @@
 # Audio — Spacecraft Stories Narration
 
-Card-by-card narration audio for the *Spacecraft Stories* collection:
-**20 stories × 3 cards = 60 MP3 files**, one file per card, so each card can
-play its own clip.
+Card-by-card narration for the *Spacecraft Stories* collection:
+**20 stories × 3 cards = 60 clips**, one file per card, each in its own folder
+so a website can map story → card → audio with a straight path.
 
 | | |
 |---|---|
 | Voice | `en-US-AndrewNeural` (Microsoft Edge TTS) |
 | Rate | `+15%` |
-| Format | MP3, 24 kHz mono |
+| Format | MP3 |
 | Source text | [`stories/spacecraft_stories_cards.txt`](stories/spacecraft_stories_cards.txt) |
 
-## File layout
+## Layout: one folder per story, one subfolder per card
 
 ```
 audio/
   01-eagle-descent-stage/
-    card-1-of-3.mp3
-    card-2-of-3.mp3
-    card-3-of-3.mp3
+    card-1/
+      script.txt        <- narration text for this card
+      narration.mp3     <- generated
+      meta.json         <- duration, word count, voice settings
+    card-2/
+    card-3/
   02-laser-ranging-retroreflector/
-    ...
-  manifest.json          # voice settings + every clip, with duration
-cards/                   # plain-text source for each card (one file per card)
-  01-eagle-descent-stage/card-1-of-3.txt
+    card-1/ ...
+  ...
+  manifest.json         <- every clip in one index
+stories/
+  spacecraft_stories_cards.txt   <- the source text
+  stories.json                   <- story/card index (titles, paths)
 scripts/
-  parse_cards.py         # source text -> cards/
-  generate_audio.py      # cards/ -> audio/ via edge-tts
+  parse_cards.py        <- source text -> audio/<story>/<card>/script.txt
+  generate_audio.py     <- script.txt -> narration.mp3 via edge-tts
 ```
 
-Story folders are numbered in the original order. `audio/manifest.json` lists
-every clip with its byte size and duration, so a player can build its card list
-without scanning the filesystem.
+Story folders are numbered in the original order. Left-most digits are the
+story number, so `audio/07-viking-1-lander/card-2/narration.mp3` is story 7,
+card 2.
 
-## Regenerating the audio
+## Generate the audio
 
 ```bash
 pip install edge-tts
-python scripts/parse_cards.py          # refresh cards/ from the source text
-python scripts/generate_audio.py       # renders any missing MP3s
-python scripts/generate_audio.py --force --only 01 14   # re-render specific stories
+python3 scripts/parse_cards.py        # writes audio/<story>/<card>/script.txt
+python3 scripts/generate_audio.py     # writes narration.mp3 for each card
 ```
 
-The script skips cards whose MP3 already exists, so it is safe to re-run. Use
-`--dry-run` to see the plan without rendering.
+That's it — 60 MP3s, one per card. Useful flags:
 
-### GitHub Actions
+```bash
+python3 scripts/generate_audio.py --force            # re-render everything
+python3 scripts/generate_audio.py --only 01 14       # only stories 01 and 14
+python3 scripts/generate_audio.py --dry-run          # show the plan, render nothing
+python3 scripts/generate_audio.py --text "hello" --out test.mp3   # quick voice test
+```
 
-`.github/workflows/generate-audio.yml` runs the same two scripts on a
-GitHub-hosted runner and commits the MP3s back to the branch. Trigger it from
-the **Actions → Generate narration audio → Run workflow** button. Tick *force*
-to re-render everything; otherwise only missing cards are made.
+The script skips cards that already have an MP3, so re-running is cheap and it
+resumes where it left off. Failures retry automatically.
+
+## After generating
+
+`audio/manifest.json` and each `meta.json` are refreshed with byte size and
+duration. Commit everything:
+
+```bash
+git add audio/ stories/stories.json
+git commit -m "Add narration audio (60 cards)"
+git push
+```
+
+## For the website
+
+`stories/stories.json` is the index to import:
+
+```json
+{
+  "stories": [
+    {
+      "number": 1,
+      "title": "Eagle Descent Stage",
+      "meta": "Moon  |  Apollo 11 lunar module, lower half",
+      "folder": "01-eagle-descent-stage",
+      "cards": [
+        {
+          "card": 1,
+          "of": 3,
+          "folder": "card-1",
+          "audio": "audio/01-eagle-descent-stage/card-1/narration.mp3",
+          "script": "audio/01-eagle-descent-stage/card-1/script.txt",
+          "words": 95
+        }
+      ]
+    }
+  ]
+}
+```
+
+Each `audio` path is repo-root relative, so it drops straight into an
+`<audio src>` or a build step.
 
 ## Editing a story
 
 Change the text in `stories/spacecraft_stories_cards.txt`, keeping the
-`N. Title` / `Card N of 3` structure, then re-run the workflow. Paragraphs are
-never split across cards — the parser keeps every paragraph whole and
-`parse_cards.py` fails loudly if a story does not have exactly three cards.
+`N. Title` / `Card N of 3` structure, then re-run the two commands. The parser
+keeps every paragraph whole (never split across cards) and stops with an error
+if a story does not have exactly three cards. Delete the affected
+`narration.mp3` (or use `--force --only NN`) to re-render just that story.
+
+## Optional: GitHub Actions
+
+`.github/workflows/generate-audio.yml` runs the same two scripts on a
+GitHub-hosted runner and commits the MP3s. It is manual-only
+(**Actions → Generate narration audio → Run workflow**), so it never
+overwrites audio unexpectedly.

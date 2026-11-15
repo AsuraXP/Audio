@@ -1,11 +1,13 @@
 name: Generate narration audio
 
-# Renders every story card to MP3 with Microsoft Edge TTS
-# (en-US-AndrewNeural at +15% rate) and commits the results back to the
-# branch. Run it from the Actions tab, or push a change to stories/ or cards/.
+# Renders every story card to an MP3 with Microsoft Edge TTS
+# (en-US-AndrewNeural at +15%) and commits the results back to the branch.
 #
-# This workflow exists because the Microsoft speech endpoint can only be
-# reached from a normal network; GitHub-hosted runners have that access.
+# Normally you do not need this: clone the repo and run
+#   python3 scripts/parse_cards.py
+#   python3 scripts/generate_audio.py
+# locally. This workflow is a convenience for machines that cannot reach
+# Microsoft's speech endpoint.
 
 on:
   workflow_dispatch:
@@ -14,12 +16,6 @@ on:
         description: "Re-render cards that already have an MP3"
         type: boolean
         default: false
-  push:
-    paths:
-      - "stories/**"
-      - "cards/**"
-      - "scripts/generate_audio.py"
-      - ".github/workflows/generate-audio.yml"
 
 permissions:
   contents: write
@@ -49,26 +45,26 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg
 
-      - name: Rebuild card text from the source
-        run: python scripts/parse_cards.py
+      - name: Rebuild card folders and scripts from the source text
+        run: python3 scripts/parse_cards.py
 
       - name: Render cards with edge-tts
         run: |
           if [ "${{ inputs.force }}" = "true" ]; then
-            python scripts/generate_audio.py --force --concurrency 4
+            python3 scripts/generate_audio.py --force --concurrency 3
           else
-            python scripts/generate_audio.py --concurrency 4
+            python3 scripts/generate_audio.py --concurrency 3
           fi
 
       - name: Commit the audio
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add audio/
+          git add audio/ stories/stories.json
           if git diff --cached --quiet; then
             echo "No audio changes to commit."
           else
-            count=$(git diff --cached --name-only -- 'audio/*.mp3' | wc -l)
-            git commit -m "Add edge-tts narration audio (${count} MP3 cards, en-US-AndrewNeural +15%)"
+            count=$(git diff --cached --name-only -- 'audio/*/card-*/narration.mp3' | wc -l)
+            git commit -m "Add edge-tts narration (${count} cards, en-US-AndrewNeural +15%)"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi

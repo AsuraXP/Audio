@@ -19,10 +19,15 @@ This exact block is the verbatim prefix for every `visual_prompt` in `visuals.cs
 
 > Use all four supplied reference images only for shared art-style and character-design cues; do not copy any referenced environment, object placement, poses, lighting setup, or camera composition. Create a distinct landscape 16:9 animated-story frame in a modern high-rise apartment during a worldwide freeze: a simple expressive round-faced survivor with tousled dark hair and a practical brown winter coat stands at a frost-rimmed window, looking down toward a snow-buried city street at blue pre-dawn. Blend clean readable cartoon silhouettes and expressive minimal facial features with confident black ink contours, hand-drawn paper grain, subtle crosshatching, muted warm cream and ochre interior colors contrasted with deep navy exterior shadows. Keep the character’s face and hair design consistent; let the apartment and city be entirely new, contemporary, and clearly cold. Mid-shot from a low three-quarter angle inside the apartment, a little window condensation and frost in foreground, no cave, campfire, sofa scene, wall display, or plant from references. No text, captions, watermarks, collage, split panels, or extra people.
 
+## Frame QC and repairs
+- **Batch 1:** Eight frames passed; no rejects or repairs.
+- **Batch 2, `beat01m13`:** Initial needle angle did not clearly show a falling temperature. Changed only the technical motion clause to “angle the needle clearly downward toward the lowest ticks, with brief motion streaks”; the re-roll passed. Original retained at `frames/rejects/beat01m13_reject1.png`.
+- **Batch 2, `beat02m02`:** Initial phone UI contained gibberish-like marks. First re-roll changed only the display clause to icon-only/no letters or numbers; it removed the text but added an unrequested second person, so that re-roll was rejected. Both rejects are retained at `frames/rejects/beat02m02_reject1.png` and `frames/rejects/beat02m02_reject2.png`. One further re-roll is pending; next attempt should change only the subject-count clause to keep the protagonist alone.
+
 ## Master prompt formula
 Every frame prompt is the verbatim approved art-style/character block above plus dynamic camera framing and action matching its `moment_text`. Consecutive frames must vary camera framing and environmental focus; do not reuse a static background. The anchor image is a style/character guide only, never a spatial template.
 
-## Rejected test
+## Rejected style test
 The first style-test pair was declined; no image was saved.
 
 ## Content moderation

@@ -22,7 +22,7 @@ This exact block is the verbatim prefix for every `visual_prompt` in `visuals.cs
 ## Frame QC and repairs
 - **Batch 1:** Eight frames passed; no rejects or repairs.
 - **Batch 2, `beat01m13`:** Initial needle angle did not clearly show a falling temperature. Changed only the technical motion clause to “angle the needle clearly downward toward the lowest ticks, with brief motion streaks”; the re-roll passed. Original retained at `frames/rejects/beat01m13_reject1.png`.
-- **Batch 2, `beat02m02`:** Initial phone UI contained gibberish-like marks. First re-roll changed only the display clause to icon-only/no letters or numbers; it removed the text but added an unrequested second person, so that re-roll was rejected. Both rejects are retained at `frames/rejects/beat02m02_reject1.png` and `frames/rejects/beat02m02_reject2.png`. One further re-roll is pending; next attempt should change only the subject-count clause to keep the protagonist alone.
+- **Batch 2, `beat02m02`:** Initial phone UI contained gibberish-like marks. First re-roll changed only the display clause to icon-only/no letters or numbers; it removed the text but added an unrequested second person. Second re-roll changed only the subject-count clause to keep one protagonist and no duplicates/reflections; it passed. Both rejected versions are retained at `frames/rejects/beat02m02_reject1.png` and `frames/rejects/beat02m02_reject2.png`.
 
 ## Master prompt formula
 Every frame prompt is the verbatim approved art-style/character block above plus dynamic camera framing and action matching its `moment_text`. Consecutive frames must vary camera framing and environmental focus; do not reuse a static background. The anchor image is a style/character guide only, never a spatial template.
